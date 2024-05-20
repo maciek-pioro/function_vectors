@@ -1,0 +1,638 @@
+[
+    {
+        "input": "Andreas Ivanschitz",
+        "output": "soccer"
+    },
+    {
+        "input": "Roberto Clemente",
+        "output": "baseball"
+    },
+    {
+        "input": "Carlos Valderrama",
+        "output": "soccer"
+    },
+    {
+        "input": "Hank Aaron",
+        "output": "baseball"
+    },
+    {
+        "input": "Jari Kurri",
+        "output": "hockey"
+    },
+    {
+        "input": "Zdeno Ch\u00e1ra",
+        "output": "hockey"
+    },
+    {
+        "input": "David Carney",
+        "output": "soccer"
+    },
+    {
+        "input": "Peter \u0160\u0165astn\u00fd",
+        "output": "hockey"
+    },
+    {
+        "input": "R.A. Dickey",
+        "output": "baseball"
+    },
+    {
+        "input": "Luis Scola",
+        "output": "basketball"
+    },
+    {
+        "input": "Satchel Paige",
+        "output": "baseball"
+    },
+    {
+        "input": "Elton Brand",
+        "output": "basketball"
+    },
+    {
+        "input": "Terrell Owens",
+        "output": "football"
+    },
+    {
+        "input": "Matteo Ferrari",
+        "output": "soccer"
+    },
+    {
+        "input": "Tom Harmon",
+        "output": "football"
+    },
+    {
+        "input": "Mariano Rivera",
+        "output": "baseball"
+    },
+    {
+        "input": "Michael Uma\u00f1a",
+        "output": "soccer"
+    },
+    {
+        "input": "Gary Carter",
+        "output": "baseball"
+    },
+    {
+        "input": "Igor Larionov",
+        "output": "hockey"
+    },
+    {
+        "input": "Ashley Cole",
+        "output": "soccer"
+    },
+    {
+        "input": "Dennis Rodman",
+        "output": "basketball"
+    },
+    {
+        "input": "\u0160ar\u016bnas Jasikevi\u010dius",
+        "output": "basketball"
+    },
+    {
+        "input": "Mari\u00e1n Hossa",
+        "output": "hockey"
+    },
+    {
+        "input": "Moe Berg",
+        "output": "baseball"
+    },
+    {
+        "input": "Arvydas Sabonis",
+        "output": "basketball"
+    },
+    {
+        "input": "Willie Mays",
+        "output": "baseball"
+    },
+    {
+        "input": "Landon Donovan",
+        "output": "soccer"
+    },
+    {
+        "input": "Tim Tebow",
+        "output": "football"
+    },
+    {
+        "input": "David Beckham",
+        "output": "soccer"
+    },
+    {
+        "input": "Magic Johnson",
+        "output": "basketball"
+    },
+    {
+        "input": "Zack Steffen",
+        "output": "soccer"
+    },
+    {
+        "input": "Andrea Pirlo",
+        "output": "soccer"
+    },
+    {
+        "input": "Cy Young",
+        "output": "baseball"
+    },
+    {
+        "input": "Bud Grant",
+        "output": "football"
+    },
+    {
+        "input": "Jesse Hibbs",
+        "output": "football"
+    },
+    {
+        "input": "Jim Bunning",
+        "output": "baseball"
+    },
+    {
+        "input": "Carlos Arroyo",
+        "output": "basketball"
+    },
+    {
+        "input": "Alessandro Nesta",
+        "output": "soccer"
+    },
+    {
+        "input": "Ryan Smyth",
+        "output": "hockey"
+    },
+    {
+        "input": "Troy Aikman",
+        "output": "football"
+    },
+    {
+        "input": "Joakim Noah",
+        "output": "basketball"
+    },
+    {
+        "input": "J\u00fcrgen Locadia",
+        "output": "soccer"
+    },
+    {
+        "input": "Sergei Fedorov",
+        "output": "hockey"
+    },
+    {
+        "input": "Chris Paul",
+        "output": "basketball"
+    },
+    {
+        "input": "David Robinson",
+        "output": "basketball"
+    },
+    {
+        "input": "Gale Sayers",
+        "output": "football"
+    },
+    {
+        "input": "Bobby Orr",
+        "output": "hockey"
+    },
+    {
+        "input": "Herschel Walker",
+        "output": "football"
+    },
+    {
+        "input": "Bobby Hull",
+        "output": "hockey"
+    },
+    {
+        "input": "Larry Doby",
+        "output": "baseball"
+    },
+    {
+        "input": "Ed O'Neill",
+        "output": "football"
+    },
+    {
+        "input": "Kareem Abdul-Jabbar",
+        "output": "basketball"
+    },
+    {
+        "input": "Ty Cobb",
+        "output": "baseball"
+    },
+    {
+        "input": "Vladim\u00edr R\u016f\u017ei\u010dka",
+        "output": "hockey"
+    },
+    {
+        "input": "Dennis Seidenberg",
+        "output": "hockey"
+    },
+    {
+        "input": "Joe DiMaggio",
+        "output": "baseball"
+    },
+    {
+        "input": "Dave DeBusschere",
+        "output": "baseball"
+    },
+    {
+        "input": "Fr\u00e9d\u00e9ric Piquionne",
+        "output": "soccer"
+    },
+    {
+        "input": "Tony Gwynn",
+        "output": "baseball"
+    },
+    {
+        "input": "Bart Starr",
+        "output": "football"
+    },
+    {
+        "input": "Lou Gehrig",
+        "output": "baseball"
+    },
+    {
+        "input": "Grant Hill",
+        "output": "basketball"
+    },
+    {
+        "input": "O. J. Simpson",
+        "output": "football"
+    },
+    {
+        "input": "Bill Bradley",
+        "output": "basketball"
+    },
+    {
+        "input": "Michael Jordan",
+        "output": "basketball"
+    },
+    {
+        "input": "Leon Allen White",
+        "output": "football"
+    },
+    {
+        "input": "Torsten Frings",
+        "output": "soccer"
+    },
+    {
+        "input": "Gonzalo Higua\u00edn",
+        "output": "soccer"
+    },
+    {
+        "input": "Patrick Roy",
+        "output": "hockey"
+    },
+    {
+        "input": "Alex Rodriguez",
+        "output": "baseball"
+    },
+    {
+        "input": "Pedro Martinez",
+        "output": "baseball"
+    },
+    {
+        "input": "Bernie Casey",
+        "output": "football"
+    },
+    {
+        "input": "Lothar Matth\u00e4us",
+        "output": "soccer"
+    },
+    {
+        "input": "Drew Brees",
+        "output": "football"
+    },
+    {
+        "input": "Howie Morenz",
+        "output": "hockey"
+    },
+    {
+        "input": "Michael Bradley",
+        "output": "soccer"
+    },
+    {
+        "input": "Warren Spahn",
+        "output": "baseball"
+    },
+    {
+        "input": "Oscar Robertson",
+        "output": "basketball"
+    },
+    {
+        "input": "Alan Ball, Jr.",
+        "output": "soccer"
+    },
+    {
+        "input": "Jermain Defoe",
+        "output": "soccer"
+    },
+    {
+        "input": "Ken Dryden",
+        "output": "hockey"
+    },
+    {
+        "input": "Woody Strode",
+        "output": "football"
+    },
+    {
+        "input": "Russell Wilson",
+        "output": "football"
+    },
+    {
+        "input": "Eric Lindros",
+        "output": "hockey"
+    },
+    {
+        "input": "Otto Graham",
+        "output": "basketball"
+    },
+    {
+        "input": "John Olerud",
+        "output": "baseball"
+    },
+    {
+        "input": "Terry Bradshaw",
+        "output": "football"
+    },
+    {
+        "input": "Pavel Datsyuk",
+        "output": "hockey"
+    },
+    {
+        "input": "Christy Mathewson",
+        "output": "baseball"
+    },
+    {
+        "input": "Timothy Brown",
+        "output": "football"
+    },
+    {
+        "input": "Nelson Valdez",
+        "output": "soccer"
+    },
+    {
+        "input": "Shaquille O'Neal",
+        "output": "basketball"
+    },
+    {
+        "input": "Jos\u00e9 Canseco",
+        "output": "baseball"
+    },
+    {
+        "input": "Siem de Jong",
+        "output": "soccer"
+    },
+    {
+        "input": "Dirk Nowitzki",
+        "output": "basketball"
+    },
+    {
+        "input": "Carlos Bocanegra",
+        "output": "soccer"
+    },
+    {
+        "input": "Tim Horton",
+        "output": "hockey"
+    },
+    {
+        "input": "Phil Esposito",
+        "output": "hockey"
+    },
+    {
+        "input": "Bob Cousy",
+        "output": "basketball"
+    },
+    {
+        "input": "Teemu S\u00e4l\u00e4nn\u00e4",
+        "output": "hockey"
+    },
+    {
+        "input": "Guus Hiddink",
+        "output": "soccer"
+    },
+    {
+        "input": "Connie Mack",
+        "output": "baseball"
+    },
+    {
+        "input": "Ernie Davis",
+        "output": "football"
+    },
+    {
+        "input": "Tim Cahill",
+        "output": "soccer"
+    },
+    {
+        "input": "George Best",
+        "output": "soccer"
+    },
+    {
+        "input": "Robbie Rogers",
+        "output": "soccer"
+    },
+    {
+        "input": "Ichiro Suzuki",
+        "output": "baseball"
+    },
+    {
+        "input": "LeBron James",
+        "output": "basketball"
+    },
+    {
+        "input": "Antonio Nocerino",
+        "output": "soccer"
+    },
+    {
+        "input": "Bubba Smith",
+        "output": "football"
+    },
+    {
+        "input": "Alexander Ovechkin",
+        "output": "hockey"
+    },
+    {
+        "input": "Efren Navarro",
+        "output": "baseball"
+    },
+    {
+        "input": "Edgaras Jankauskas",
+        "output": "soccer"
+    },
+    {
+        "input": "Marcos Mondaini",
+        "output": "soccer"
+    },
+    {
+        "input": "Scottie Pippen",
+        "output": "basketball"
+    },
+    {
+        "input": "Marc Gasol",
+        "output": "basketball"
+    },
+    {
+        "input": "Pat Tillman",
+        "output": "football"
+    },
+    {
+        "input": "Arne Friedrich",
+        "output": "soccer"
+    },
+    {
+        "input": "Bob Hayes",
+        "output": "football"
+    },
+    {
+        "input": "Corey Perry",
+        "output": "hockey"
+    },
+    {
+        "input": "Fred Williamson",
+        "output": "football"
+    },
+    {
+        "input": "Dra\u017een Petrovi\u0107",
+        "output": "basketball"
+    },
+    {
+        "input": "Karl Malone",
+        "output": "basketball"
+    },
+    {
+        "input": "Walter Zenga",
+        "output": "soccer"
+    },
+    {
+        "input": "Kendall Waston",
+        "output": "soccer"
+    },
+    {
+        "input": "Florent Sinama Pongolle",
+        "output": "soccer"
+    },
+    {
+        "input": "Freddy Adu",
+        "output": "soccer"
+    },
+    {
+        "input": "Kevin Durant",
+        "output": "basketball"
+    },
+    {
+        "input": "Bo Jackson",
+        "output": "baseball"
+    },
+    {
+        "input": "Ji\u0159\u00ed \u0160l\u00e9gr",
+        "output": "hockey"
+    },
+    {
+        "input": "Tom Brady",
+        "output": "football"
+    },
+    {
+        "input": "Blaise Matuidi",
+        "output": "soccer"
+    },
+    {
+        "input": "Alexei Kovalev",
+        "output": "hockey"
+    },
+    {
+        "input": "Kak\u00e1",
+        "output": "soccer"
+    },
+    {
+        "input": "George Halas",
+        "output": "baseball"
+    },
+    {
+        "input": "Aleksandar \u0110or\u0111evi\u0107",
+        "output": "basketball"
+    },
+    {
+        "input": "Dick Butkus",
+        "output": "football"
+    },
+    {
+        "input": "Pavol Demitra",
+        "output": "hockey"
+    },
+    {
+        "input": "Brad Friedel",
+        "output": "soccer"
+    },
+    {
+        "input": "Kasey Keller",
+        "output": "soccer"
+    },
+    {
+        "input": "Red Grange",
+        "output": "football"
+    },
+    {
+        "input": "Stan Musial",
+        "output": "baseball"
+    },
+    {
+        "input": "Billy Sunday",
+        "output": "baseball"
+    },
+    {
+        "input": "Tommie Smith",
+        "output": "football"
+    },
+    {
+        "input": "Herculez Gomez",
+        "output": "soccer"
+    },
+    {
+        "input": "Lionel Conacher",
+        "output": "hockey"
+    },
+    {
+        "input": "Derek Jeter",
+        "output": "baseball"
+    },
+    {
+        "input": "Honus Wagner",
+        "output": "baseball"
+    },
+    {
+        "input": "Mickey Mantle",
+        "output": "baseball"
+    },
+    {
+        "input": "Bastian Schweinsteiger",
+        "output": "soccer"
+    },
+    {
+        "input": "Hakeem Olajuwon",
+        "output": "basketball"
+    },
+    {
+        "input": "Allen Iverson",
+        "output": "basketball"
+    },
+    {
+        "input": "Marco Di Vaio",
+        "output": "soccer"
+    },
+    {
+        "input": "Tom Seaver",
+        "output": "baseball"
+    },
+    {
+        "input": "Jozy Altidore",
+        "output": "soccer"
+    },
+    {
+        "input": "Tim Duncan",
+        "output": "basketball"
+    },
+    {
+        "input": "Chase Young",
+        "output": "football"
+    },
+    {
+        "input": "Brett Favre",
+        "output": "football"
+    },
+    {
+        "input": "Michael Strahan",
+        "output": "football"
+    }
+]

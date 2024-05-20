@@ -1,0 +1,1630 @@
+[
+    {
+        "input": "exquisite",
+        "output": "C"
+    },
+    {
+        "input": "out",
+        "output": "C"
+    },
+    {
+        "input": "bad",
+        "output": "N"
+    },
+    {
+        "input": "inside",
+        "output": "W"
+    },
+    {
+        "input": "zany",
+        "output": "B"
+    },
+    {
+        "input": "jellyfish",
+        "output": "H"
+    },
+    {
+        "input": "you",
+        "output": "E"
+    },
+    {
+        "input": "grateful",
+        "output": "C"
+    },
+    {
+        "input": "below",
+        "output": "W"
+    },
+    {
+        "input": "white",
+        "output": "F"
+    },
+    {
+        "input": "microphone",
+        "output": "D"
+    },
+    {
+        "input": "tranquil",
+        "output": "B"
+    },
+    {
+        "input": "dark",
+        "output": "S"
+    },
+    {
+        "input": "vivacious",
+        "output": "Y"
+    },
+    {
+        "input": "trustworthy",
+        "output": "F"
+    },
+    {
+        "input": "ukulele",
+        "output": "G"
+    },
+    {
+        "input": "zipper",
+        "output": "N"
+    },
+    {
+        "input": "we",
+        "output": "G"
+    },
+    {
+        "input": "raspberry",
+        "output": "Q"
+    },
+    {
+        "input": "sensitive",
+        "output": "O"
+    },
+    {
+        "input": "down",
+        "output": "M"
+    },
+    {
+        "input": "decide",
+        "output": "A"
+    },
+    {
+        "input": "nurturing",
+        "output": "J"
+    },
+    {
+        "input": "kite",
+        "output": "C"
+    },
+    {
+        "input": "ink",
+        "output": "F"
+    },
+    {
+        "input": "paper",
+        "output": "U"
+    },
+    {
+        "input": "violin",
+        "output": "D"
+    },
+    {
+        "input": "unwavering",
+        "output": "W"
+    },
+    {
+        "input": "carrot",
+        "output": "M"
+    },
+    {
+        "input": "but",
+        "output": "A"
+    },
+    {
+        "input": "talk",
+        "output": "S"
+    },
+    {
+        "input": "her",
+        "output": "E"
+    },
+    {
+        "input": "crane",
+        "output": "P"
+    },
+    {
+        "input": "crab",
+        "output": "H"
+    },
+    {
+        "input": "incense",
+        "output": "Y"
+    },
+    {
+        "input": "past",
+        "output": "H"
+    },
+    {
+        "input": "resourceful",
+        "output": "T"
+    },
+    {
+        "input": "launch",
+        "output": "R"
+    },
+    {
+        "input": "near",
+        "output": "N"
+    },
+    {
+        "input": "donkey",
+        "output": "E"
+    },
+    {
+        "input": "tennis racket",
+        "output": "I"
+    },
+    {
+        "input": "loud",
+        "output": "B"
+    },
+    {
+        "input": "envelope",
+        "output": "W"
+    },
+    {
+        "input": "peaceful",
+        "output": "D"
+    },
+    {
+        "input": "feather",
+        "output": "V"
+    },
+    {
+        "input": "gather",
+        "output": "L"
+    },
+    {
+        "input": "red",
+        "output": "S"
+    },
+    {
+        "input": "chair",
+        "output": "K"
+    },
+    {
+        "input": "which",
+        "output": "C"
+    },
+    {
+        "input": "since",
+        "output": "H"
+    },
+    {
+        "input": "create",
+        "output": "B"
+    },
+    {
+        "input": "curtain",
+        "output": "P"
+    },
+    {
+        "input": "us",
+        "output": "Q"
+    },
+    {
+        "input": "toward",
+        "output": "D"
+    },
+    {
+        "input": "zealous",
+        "output": "K"
+    },
+    {
+        "input": "mellow",
+        "output": "J"
+    },
+    {
+        "input": "salamander",
+        "output": "J"
+    },
+    {
+        "input": "puzzle",
+        "output": "E"
+    },
+    {
+        "input": "knit",
+        "output": "P"
+    },
+    {
+        "input": "wristwatch",
+        "output": "D"
+    },
+    {
+        "input": "search",
+        "output": "G"
+    },
+    {
+        "input": "dolphin",
+        "output": "S"
+    },
+    {
+        "input": "brave",
+        "output": "B"
+    },
+    {
+        "input": "fierce",
+        "output": "T"
+    },
+    {
+        "input": "ocelot",
+        "output": "S"
+    },
+    {
+        "input": "notice",
+        "output": "O"
+    },
+    {
+        "input": "candle",
+        "output": "L"
+    },
+    {
+        "input": "orangutan",
+        "output": "S"
+    },
+    {
+        "input": "zoom",
+        "output": "U"
+    },
+    {
+        "input": "papaya",
+        "output": "B"
+    },
+    {
+        "input": "destroy",
+        "output": "O"
+    },
+    {
+        "input": "fishing pole",
+        "output": "R"
+    },
+    {
+        "input": "visit",
+        "output": "L"
+    },
+    {
+        "input": "understand",
+        "output": "L"
+    },
+    {
+        "input": "calm",
+        "output": "W"
+    },
+    {
+        "input": "hammer",
+        "output": "E"
+    },
+    {
+        "input": "hairbrush",
+        "output": "D"
+    },
+    {
+        "input": "leopard",
+        "output": "V"
+    },
+    {
+        "input": "passionate",
+        "output": "F"
+    },
+    {
+        "input": "teach",
+        "output": "G"
+    },
+    {
+        "input": "chinchilla",
+        "output": "T"
+    },
+    {
+        "input": "radiant",
+        "output": "H"
+    },
+    {
+        "input": "agreeable",
+        "output": "H"
+    },
+    {
+        "input": "pasta",
+        "output": "A"
+    },
+    {
+        "input": "perform",
+        "output": "K"
+    },
+    {
+        "input": "intuitive",
+        "output": "B"
+    },
+    {
+        "input": "remote",
+        "output": "O"
+    },
+    {
+        "input": "adoring",
+        "output": "A"
+    },
+    {
+        "input": "worm",
+        "output": "K"
+    },
+    {
+        "input": "whimsical",
+        "output": "M"
+    },
+    {
+        "input": "loving",
+        "output": "F"
+    },
+    {
+        "input": "judge",
+        "output": "R"
+    },
+    {
+        "input": "sloth",
+        "output": "T"
+    },
+    {
+        "input": "salmon",
+        "output": "B"
+    },
+    {
+        "input": "x-ray",
+        "output": "D"
+    },
+    {
+        "input": "small",
+        "output": "M"
+    },
+    {
+        "input": "into",
+        "output": "D"
+    },
+    {
+        "input": "volunteer",
+        "output": "R"
+    },
+    {
+        "input": "serve",
+        "output": "A"
+    },
+    {
+        "input": "wise",
+        "output": "S"
+    },
+    {
+        "input": "hornet",
+        "output": "S"
+    },
+    {
+        "input": "for",
+        "output": "P"
+    },
+    {
+        "input": "monkey",
+        "output": "C"
+    },
+    {
+        "input": "kettle",
+        "output": "V"
+    },
+    {
+        "input": "peacock",
+        "output": "G"
+    },
+    {
+        "input": "themselves",
+        "output": "H"
+    },
+    {
+        "input": "baboon",
+        "output": "Z"
+    },
+    {
+        "input": "whoever",
+        "output": "R"
+    },
+    {
+        "input": "sheep",
+        "output": "O"
+    },
+    {
+        "input": "rock",
+        "output": "I"
+    },
+    {
+        "input": "update",
+        "output": "W"
+    },
+    {
+        "input": "lamp",
+        "output": "T"
+    },
+    {
+        "input": "piano",
+        "output": "B"
+    },
+    {
+        "input": "hopeful",
+        "output": "B"
+    },
+    {
+        "input": "kindred",
+        "output": "G"
+    },
+    {
+        "input": "realize",
+        "output": "W"
+    },
+    {
+        "input": "during",
+        "output": "I"
+    },
+    {
+        "input": "ibex",
+        "output": "R"
+    },
+    {
+        "input": "drum",
+        "output": "J"
+    },
+    {
+        "input": "butterfly",
+        "output": "I"
+    },
+    {
+        "input": "light",
+        "output": "P"
+    },
+    {
+        "input": "olive",
+        "output": "T"
+    },
+    {
+        "input": "manatee",
+        "output": "T"
+    },
+    {
+        "input": "plant",
+        "output": "O"
+    },
+    {
+        "input": "merge",
+        "output": "L"
+    },
+    {
+        "input": "gnu",
+        "output": "Z"
+    },
+    {
+        "input": "guitar",
+        "output": "G"
+    },
+    {
+        "input": "skates",
+        "output": "U"
+    },
+    {
+        "input": "measure",
+        "output": "I"
+    },
+    {
+        "input": "pelican",
+        "output": "B"
+    },
+    {
+        "input": "idealistic",
+        "output": "C"
+    },
+    {
+        "input": "bitter",
+        "output": "L"
+    },
+    {
+        "input": "overcome",
+        "output": "K"
+    },
+    {
+        "input": "garlic",
+        "output": "I"
+    },
+    {
+        "input": "strawberry",
+        "output": "B"
+    },
+    {
+        "input": "verify",
+        "output": "S"
+    },
+    {
+        "input": "big",
+        "output": "B"
+    },
+    {
+        "input": "jackfruit",
+        "output": "R"
+    },
+    {
+        "input": "innocent",
+        "output": "P"
+    },
+    {
+        "input": "nurture",
+        "output": "C"
+    },
+    {
+        "input": "lemon",
+        "output": "N"
+    },
+    {
+        "input": "silly",
+        "output": "C"
+    },
+    {
+        "input": "participate",
+        "output": "D"
+    },
+    {
+        "input": "humble",
+        "output": "P"
+    },
+    {
+        "input": "seahorse",
+        "output": "G"
+    },
+    {
+        "input": "select",
+        "output": "W"
+    },
+    {
+        "input": "emu",
+        "output": "T"
+    },
+    {
+        "input": "thirsty",
+        "output": "P"
+    },
+    {
+        "input": "turtle",
+        "output": "P"
+    },
+    {
+        "input": "dice",
+        "output": "A"
+    },
+    {
+        "input": "gold",
+        "output": "M"
+    },
+    {
+        "input": "coconut",
+        "output": "L"
+    },
+    {
+        "input": "resolute",
+        "output": "O"
+    },
+    {
+        "input": "herself",
+        "output": "W"
+    },
+    {
+        "input": "apron",
+        "output": "G"
+    },
+    {
+        "input": "globe",
+        "output": "C"
+    },
+    {
+        "input": "boar",
+        "output": "J"
+    },
+    {
+        "input": "snake",
+        "output": "Y"
+    },
+    {
+        "input": "finch",
+        "output": "L"
+    },
+    {
+        "input": "of",
+        "output": "C"
+    },
+    {
+        "input": "mustard",
+        "output": "H"
+    },
+    {
+        "input": "notebook",
+        "output": "G"
+    },
+    {
+        "input": "from",
+        "output": "L"
+    },
+    {
+        "input": "practice",
+        "output": "Y"
+    },
+    {
+        "input": "buffalo",
+        "output": "D"
+    },
+    {
+        "input": "argue",
+        "output": "M"
+    },
+    {
+        "input": "unite",
+        "output": "A"
+    },
+    {
+        "input": "yield",
+        "output": "A"
+    },
+    {
+        "input": "duster",
+        "output": "F"
+    },
+    {
+        "input": "hoop",
+        "output": "S"
+    },
+    {
+        "input": "zesty",
+        "output": "O"
+    },
+    {
+        "input": "cheetah",
+        "output": "H"
+    },
+    {
+        "input": "vibrant",
+        "output": "T"
+    },
+    {
+        "input": "uncover",
+        "output": "E"
+    },
+    {
+        "input": "macaw",
+        "output": "T"
+    },
+    {
+        "input": "pink",
+        "output": "C"
+    },
+    {
+        "input": "among",
+        "output": "P"
+    },
+    {
+        "input": "pillow",
+        "output": "A"
+    },
+    {
+        "input": "rat",
+        "output": "E"
+    },
+    {
+        "input": "devoted",
+        "output": "S"
+    },
+    {
+        "input": "query",
+        "output": "C"
+    },
+    {
+        "input": "make",
+        "output": "A"
+    },
+    {
+        "input": "test",
+        "output": "D"
+    },
+    {
+        "input": "believe",
+        "output": "K"
+    },
+    {
+        "input": "mint",
+        "output": "A"
+    },
+    {
+        "input": "gumball",
+        "output": "L"
+    },
+    {
+        "input": "treat",
+        "output": "S"
+    },
+    {
+        "input": "weak",
+        "output": "K"
+    },
+    {
+        "input": "tomato",
+        "output": "H"
+    },
+    {
+        "input": "hear",
+        "output": "V"
+    },
+    {
+        "input": "unselfish",
+        "output": "C"
+    },
+    {
+        "input": "falcon",
+        "output": "M"
+    },
+    {
+        "input": "intrepid",
+        "output": "H"
+    },
+    {
+        "input": "manage",
+        "output": "L"
+    },
+    {
+        "input": "by",
+        "output": "R"
+    },
+    {
+        "input": "knowledgeable",
+        "output": "W"
+    },
+    {
+        "input": "gecko",
+        "output": "D"
+    },
+    {
+        "input": "resilient",
+        "output": "K"
+    },
+    {
+        "input": "joyful",
+        "output": "E"
+    },
+    {
+        "input": "observant",
+        "output": "U"
+    },
+    {
+        "input": "yogurt",
+        "output": "M"
+    },
+    {
+        "input": "octopus",
+        "output": "D"
+    },
+    {
+        "input": "focus",
+        "output": "C"
+    },
+    {
+        "input": "me",
+        "output": "Y"
+    },
+    {
+        "input": "warm",
+        "output": "I"
+    },
+    {
+        "input": "gazelle",
+        "output": "N"
+    },
+    {
+        "input": "plate",
+        "output": "L"
+    },
+    {
+        "input": "knot",
+        "output": "C"
+    },
+    {
+        "input": "banana",
+        "output": "L"
+    },
+    {
+        "input": "dislike",
+        "output": "R"
+    },
+    {
+        "input": "off",
+        "output": "B"
+    },
+    {
+        "input": "tangerine",
+        "output": "N"
+    },
+    {
+        "input": "laugh",
+        "output": "O"
+    },
+    {
+        "input": "need",
+        "output": "P"
+    },
+    {
+        "input": "pomegranate",
+        "output": "R"
+    },
+    {
+        "input": "around",
+        "output": "D"
+    },
+    {
+        "input": "igloo",
+        "output": "R"
+    },
+    {
+        "input": "eager",
+        "output": "C"
+    },
+    {
+        "input": "breathe",
+        "output": "D"
+    },
+    {
+        "input": "wombat",
+        "output": "J"
+    },
+    {
+        "input": "date",
+        "output": "V"
+    },
+    {
+        "input": "cold",
+        "output": "P"
+    },
+    {
+        "input": "choose",
+        "output": "Z"
+    },
+    {
+        "input": "about",
+        "output": "F"
+    },
+    {
+        "input": "him",
+        "output": "T"
+    },
+    {
+        "input": "listen",
+        "output": "E"
+    },
+    {
+        "input": "camera",
+        "output": "C"
+    },
+    {
+        "input": "mirthful",
+        "output": "R"
+    },
+    {
+        "input": "blackberry",
+        "output": "K"
+    },
+    {
+        "input": "produce",
+        "output": "F"
+    },
+    {
+        "input": "narwhal",
+        "output": "T"
+    },
+    {
+        "input": "maximize",
+        "output": "R"
+    },
+    {
+        "input": "sofa",
+        "output": "M"
+    },
+    {
+        "input": "behind",
+        "output": "T"
+    },
+    {
+        "input": "friendly",
+        "output": "E"
+    },
+    {
+        "input": "value",
+        "output": "C"
+    },
+    {
+        "input": "sour",
+        "output": "P"
+    },
+    {
+        "input": "at",
+        "output": "V"
+    },
+    {
+        "input": "eagle",
+        "output": "G"
+    },
+    {
+        "input": "stapler",
+        "output": "A"
+    },
+    {
+        "input": "old",
+        "output": "S"
+    },
+    {
+        "input": "transform",
+        "output": "L"
+    },
+    {
+        "input": "fear",
+        "output": "W"
+    },
+    {
+        "input": "cry",
+        "output": "D"
+    },
+    {
+        "input": "caribou",
+        "output": "D"
+    },
+    {
+        "input": "blanket",
+        "output": "G"
+    },
+    {
+        "input": "blue",
+        "output": "N"
+    },
+    {
+        "input": "tenacious",
+        "output": "W"
+    },
+    {
+        "input": "pig",
+        "output": "B"
+    },
+    {
+        "input": "kayak",
+        "output": "H"
+    },
+    {
+        "input": "keep",
+        "output": "M"
+    },
+    {
+        "input": "compete",
+        "output": "D"
+    },
+    {
+        "input": "organize",
+        "output": "K"
+    },
+    {
+        "input": "quick-witted",
+        "output": "H"
+    },
+    {
+        "input": "they",
+        "output": "F"
+    },
+    {
+        "input": "tiger",
+        "output": "P"
+    },
+    {
+        "input": "cowardly",
+        "output": "I"
+    },
+    {
+        "input": "rabbit",
+        "output": "U"
+    },
+    {
+        "input": "jacket",
+        "output": "S"
+    },
+    {
+        "input": "persimmon",
+        "output": "O"
+    },
+    {
+        "input": "phone",
+        "output": "A"
+    },
+    {
+        "input": "negotiate",
+        "output": "S"
+    },
+    {
+        "input": "dove",
+        "output": "L"
+    },
+    {
+        "input": "chimpanzee",
+        "output": "H"
+    },
+    {
+        "input": "fearless",
+        "output": "K"
+    },
+    {
+        "input": "dazzling",
+        "output": "F"
+    },
+    {
+        "input": "yacht",
+        "output": "R"
+    },
+    {
+        "input": "juice",
+        "output": "F"
+    },
+    {
+        "input": "kind",
+        "output": "P"
+    },
+    {
+        "input": "shirt",
+        "output": "P"
+    },
+    {
+        "input": "thoughtful",
+        "output": "N"
+    },
+    {
+        "input": "cockroach",
+        "output": "B"
+    },
+    {
+        "input": "paint",
+        "output": "B"
+    },
+    {
+        "input": "grape",
+        "output": "R"
+    },
+    {
+        "input": "peach",
+        "output": "T"
+    },
+    {
+        "input": "energetic",
+        "output": "G"
+    },
+    {
+        "input": "myself",
+        "output": "Q"
+    },
+    {
+        "input": "to",
+        "output": "O"
+    },
+    {
+        "input": "clementine",
+        "output": "A"
+    },
+    {
+        "input": "ecstatic",
+        "output": "T"
+    },
+    {
+        "input": "generous",
+        "output": "W"
+    },
+    {
+        "input": "crow",
+        "output": "P"
+    },
+    {
+        "input": "approve",
+        "output": "B"
+    },
+    {
+        "input": "dynamic",
+        "output": "T"
+    },
+    {
+        "input": "whale",
+        "output": "B"
+    },
+    {
+        "input": "like",
+        "output": "A"
+    },
+    {
+        "input": "green",
+        "output": "C"
+    },
+    {
+        "input": "memorize",
+        "output": "P"
+    },
+    {
+        "input": "puma",
+        "output": "N"
+    },
+    {
+        "input": "reach",
+        "output": "W"
+    },
+    {
+        "input": "manipulate",
+        "output": "T"
+    },
+    {
+        "input": "plan",
+        "output": "V"
+    },
+    {
+        "input": "ostrich",
+        "output": "M"
+    },
+    {
+        "input": "towel",
+        "output": "W"
+    },
+    {
+        "input": "slow",
+        "output": "P"
+    },
+    {
+        "input": "before",
+        "output": "C"
+    },
+    {
+        "input": "bear",
+        "output": "C"
+    },
+    {
+        "input": "bottle",
+        "output": "I"
+    },
+    {
+        "input": "fan",
+        "output": "D"
+    },
+    {
+        "input": "badger",
+        "output": "P"
+    },
+    {
+        "input": "blissful",
+        "output": "B"
+    },
+    {
+        "input": "fresh",
+        "output": "C"
+    },
+    {
+        "input": "wet",
+        "output": "W"
+    },
+    {
+        "input": "juggle",
+        "output": "O"
+    },
+    {
+        "input": "maracas",
+        "output": "A"
+    },
+    {
+        "input": "net",
+        "output": "D"
+    },
+    {
+        "input": "mandarine",
+        "output": "R"
+    },
+    {
+        "input": "genuine",
+        "output": "O"
+    },
+    {
+        "input": "over",
+        "output": "B"
+    },
+    {
+        "input": "duck",
+        "output": "P"
+    },
+    {
+        "input": "firefly",
+        "output": "E"
+    },
+    {
+        "input": "nourish",
+        "output": "M"
+    },
+    {
+        "input": "sensible",
+        "output": "C"
+    },
+    {
+        "input": "relax",
+        "output": "O"
+    },
+    {
+        "input": "earring",
+        "output": "F"
+    },
+    {
+        "input": "okapi",
+        "output": "B"
+    },
+    {
+        "input": "laptop",
+        "output": "E"
+    },
+    {
+        "input": "examine",
+        "output": "S"
+    },
+    {
+        "input": "coral",
+        "output": "W"
+    },
+    {
+        "input": "plum",
+        "output": "M"
+    },
+    {
+        "input": "window",
+        "output": "P"
+    },
+    {
+        "input": "luminous",
+        "output": "R"
+    },
+    {
+        "input": "crocodile",
+        "output": "H"
+    },
+    {
+        "input": "develop",
+        "output": "O"
+    },
+    {
+        "input": "lovely",
+        "output": "P"
+    },
+    {
+        "input": "kill",
+        "output": "N"
+    },
+    {
+        "input": "cactus",
+        "output": "T"
+    },
+    {
+        "input": "coyote",
+        "output": "I"
+    },
+    {
+        "input": "open",
+        "output": "T"
+    },
+    {
+        "input": "collect",
+        "output": "H"
+    },
+    {
+        "input": "lynx",
+        "output": "C"
+    },
+    {
+        "input": "violet",
+        "output": "A"
+    },
+    {
+        "input": "vase",
+        "output": "B"
+    },
+    {
+        "input": "koala",
+        "output": "E"
+    },
+    {
+        "input": "fork",
+        "output": "L"
+    },
+    {
+        "input": "basket",
+        "output": "P"
+    },
+    {
+        "input": "walk",
+        "output": "D"
+    },
+    {
+        "input": "caterpillar",
+        "output": "J"
+    },
+    {
+        "input": "cream",
+        "output": "I"
+    },
+    {
+        "input": "skunk",
+        "output": "P"
+    },
+    {
+        "input": "pen",
+        "output": "F"
+    },
+    {
+        "input": "cheap",
+        "output": "G"
+    },
+    {
+        "input": "that",
+        "output": "B"
+    },
+    {
+        "input": "cake",
+        "output": "C"
+    },
+    {
+        "input": "hungry",
+        "output": "B"
+    },
+    {
+        "input": "label",
+        "output": "H"
+    },
+    {
+        "input": "mango",
+        "output": "E"
+    },
+    {
+        "input": "lucky",
+        "output": "P"
+    },
+    {
+        "input": "hate",
+        "output": "K"
+    },
+    {
+        "input": "fig",
+        "output": "J"
+    },
+    {
+        "input": "huckleberry",
+        "output": "S"
+    },
+    {
+        "input": "moose",
+        "output": "S"
+    },
+    {
+        "input": "daring",
+        "output": "E"
+    },
+    {
+        "input": "fossa",
+        "output": "C"
+    },
+    {
+        "input": "bat",
+        "output": "C"
+    },
+    {
+        "input": "beneath",
+        "output": "S"
+    },
+    {
+        "input": "handle",
+        "output": "V"
+    },
+    {
+        "input": "kindle",
+        "output": "H"
+    },
+    {
+        "input": "reindeer",
+        "output": "T"
+    },
+    {
+        "input": "impala",
+        "output": "M"
+    },
+    {
+        "input": "gentle",
+        "output": "Q"
+    },
+    {
+        "input": "earmuffs",
+        "output": "C"
+    },
+    {
+        "input": "television",
+        "output": "S"
+    },
+    {
+        "input": "map",
+        "output": "Y"
+    },
+    {
+        "input": "naughty",
+        "output": "M"
+    },
+    {
+        "input": "smart",
+        "output": "A"
+    },
+    {
+        "input": "those",
+        "output": "T"
+    },
+    {
+        "input": "oryx",
+        "output": "Y"
+    },
+    {
+        "input": "noble",
+        "output": "N"
+    },
+    {
+        "input": "orange",
+        "output": "O"
+    },
+    {
+        "input": "mild",
+        "output": "R"
+    },
+    {
+        "input": "cube",
+        "output": "T"
+    },
+    {
+        "input": "watermelon",
+        "output": "W"
+    },
+    {
+        "input": "discover",
+        "output": "C"
+    },
+    {
+        "input": "minimize",
+        "output": "A"
+    },
+    {
+        "input": "ant",
+        "output": "C"
+    },
+    {
+        "input": "scorpion",
+        "output": "C"
+    },
+    {
+        "input": "soft",
+        "output": "P"
+    },
+    {
+        "input": "obtain",
+        "output": "T"
+    },
+    {
+        "input": "on",
+        "output": "P"
+    },
+    {
+        "input": "cookie",
+        "output": "U"
+    },
+    {
+        "input": "mantis",
+        "output": "E"
+    },
+    {
+        "input": "work",
+        "output": "Y"
+    },
+    {
+        "input": "prepare",
+        "output": "U"
+    },
+    {
+        "input": "wallet",
+        "output": "W"
+    },
+    {
+        "input": "cougar",
+        "output": "B"
+    },
+    {
+        "input": "toucan",
+        "output": "Y"
+    },
+    {
+        "input": "zucchini",
+        "output": "M"
+    },
+    {
+        "input": "snorkel",
+        "output": "P"
+    },
+    {
+        "input": "affectionate",
+        "output": "Q"
+    },
+    {
+        "input": "magnificent",
+        "output": "G"
+    },
+    {
+        "input": "celebrate",
+        "output": "F"
+    },
+    {
+        "input": "strong",
+        "output": "J"
+    },
+    {
+        "input": "beyond",
+        "output": "E"
+    },
+    {
+        "input": "concerning",
+        "output": "A"
+    },
+    {
+        "input": "swan",
+        "output": "P"
+    },
+    {
+        "input": "pork",
+        "output": "N"
+    },
+    {
+        "input": "giraffe",
+        "output": "P"
+    },
+    {
+        "input": "cobra",
+        "output": "S"
+    },
+    {
+        "input": "exuberant",
+        "output": "W"
+    },
+    {
+        "input": "throughout",
+        "output": "S"
+    },
+    {
+        "input": "silver",
+        "output": "S"
+    },
+    {
+        "input": "until",
+        "output": "D"
+    },
+    {
+        "input": "yellow",
+        "output": "S"
+    },
+    {
+        "input": "gracious",
+        "output": "H"
+    },
+    {
+        "input": "recruit",
+        "output": "P"
+    },
+    {
+        "input": "explore",
+        "output": "T"
+    }
+]

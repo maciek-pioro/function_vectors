@@ -1,0 +1,454 @@
+[
+    {
+        "input": "NN",
+        "output": "OO"
+    },
+    {
+        "input": "OO",
+        "output": "PP"
+    },
+    {
+        "input": "PP",
+        "output": "QQ"
+    },
+    {
+        "input": "QQ",
+        "output": "RR"
+    },
+    {
+        "input": "RR",
+        "output": "SS"
+    },
+    {
+        "input": "SS",
+        "output": "TT"
+    },
+    {
+        "input": "TT",
+        "output": "UU"
+    },
+    {
+        "input": "UU",
+        "output": "VV"
+    },
+    {
+        "input": "VV",
+        "output": "WW"
+    },
+    {
+        "input": "WW",
+        "output": "XX"
+    },
+    {
+        "input": "XX",
+        "output": "YY"
+    },
+    {
+        "input": "YY",
+        "output": "ZZ"
+    },
+    {
+        "input": "aa",
+        "output": "bb"
+    },
+    {
+        "input": "bb",
+        "output": "cc"
+    },
+    {
+        "input": "cc",
+        "output": "dd"
+    },
+    {
+        "input": "dd",
+        "output": "ee"
+    },
+    {
+        "input": "ee",
+        "output": "ff"
+    },
+    {
+        "input": "ff",
+        "output": "gg"
+    },
+    {
+        "input": "gg",
+        "output": "hh"
+    },
+    {
+        "input": "hh",
+        "output": "ii"
+    },
+    {
+        "input": "ii",
+        "output": "jj"
+    },
+    {
+        "input": "jj",
+        "output": "kk"
+    },
+    {
+        "input": "kk",
+        "output": "ll"
+    },
+    {
+        "input": "ll",
+        "output": "mm"
+    },
+    {
+        "input": "mm",
+        "output": "nn"
+    },
+    {
+        "input": "nn",
+        "output": "oo"
+    },
+    {
+        "input": "oo",
+        "output": "pp"
+    },
+    {
+        "input": "pp",
+        "output": "qq"
+    },
+    {
+        "input": "qq",
+        "output": "rr"
+    },
+    {
+        "input": "rr",
+        "output": "ss"
+    },
+    {
+        "input": "ss",
+        "output": "tt"
+    },
+    {
+        "input": "tt",
+        "output": "uu"
+    },
+    {
+        "input": "uu",
+        "output": "vv"
+    },
+    {
+        "input": "vv",
+        "output": "ww"
+    },
+    {
+        "input": "ww",
+        "output": "xx"
+    },
+    {
+        "input": "xx",
+        "output": "yy"
+    },
+    {
+        "input": "yy",
+        "output": "zz"
+    },
+    {
+        "input": "I",
+        "output": "II"
+    },
+    {
+        "input": "II",
+        "output": "III"
+    },
+    {
+        "input": "III",
+        "output": "IV"
+    },
+    {
+        "input": "IV",
+        "output": "V"
+    },
+    {
+        "input": "V",
+        "output": "VI"
+    },
+    {
+        "input": "VI",
+        "output": "VII"
+    },
+    {
+        "input": "VII",
+        "output": "VIII"
+    },
+    {
+        "input": "VIII",
+        "output": "IX"
+    },
+    {
+        "input": "IX",
+        "output": "X"
+    },
+    {
+        "input": "X",
+        "output": "XI"
+    },
+    {
+        "input": "XI",
+        "output": "XII"
+    },
+    {
+        "input": "XII",
+        "output": "XIII"
+    },
+    {
+        "input": "XIII",
+        "output": "XIV"
+    },
+    {
+        "input": "XIV",
+        "output": "XV"
+    },
+    {
+        "input": "XV",
+        "output": "XVI"
+    },
+    {
+        "input": "XVI",
+        "output": "XVII"
+    },
+    {
+        "input": "XVII",
+        "output": "XVIII"
+    },
+    {
+        "input": "XVIII",
+        "output": "XIX"
+    },
+    {
+        "input": "XIX",
+        "output": "XX"
+    },
+    {
+        "input": "i",
+        "output": "ii"
+    },
+    {
+        "input": "ii",
+        "output": "iii"
+    },
+    {
+        "input": "iii",
+        "output": "iv"
+    },
+    {
+        "input": "iv",
+        "output": "v"
+    },
+    {
+        "input": "v",
+        "output": "vi"
+    },
+    {
+        "input": "vi",
+        "output": "vii"
+    },
+    {
+        "input": "vii",
+        "output": "viii"
+    },
+    {
+        "input": "viii",
+        "output": "ix"
+    },
+    {
+        "input": "ix",
+        "output": "x"
+    },
+    {
+        "input": "x",
+        "output": "xi"
+    },
+    {
+        "input": "xi",
+        "output": "xii"
+    },
+    {
+        "input": "xii",
+        "output": "xiii"
+    },
+    {
+        "input": "xiii",
+        "output": "xiv"
+    },
+    {
+        "input": "xiv",
+        "output": "xv"
+    },
+    {
+        "input": "xv",
+        "output": "xvi"
+    },
+    {
+        "input": "xvi",
+        "output": "xvii"
+    },
+    {
+        "input": "xvii",
+        "output": "xviii"
+    },
+    {
+        "input": "xviii",
+        "output": "xix"
+    },
+    {
+        "input": "xix",
+        "output": "xx"
+    },
+    {
+        "input": "monday",
+        "output": "tuesday"
+    },
+    {
+        "input": "tuesday",
+        "output": "wednesday"
+    },
+    {
+        "input": "wednesday",
+        "output": "thursday"
+    },
+    {
+        "input": "thursday",
+        "output": "friday"
+    },
+    {
+        "input": "friday",
+        "output": "saturday"
+    },
+    {
+        "input": "saturday",
+        "output": "sunday"
+    },
+    {
+        "input": "january",
+        "output": "february"
+    },
+    {
+        "input": "february",
+        "output": "march"
+    },
+    {
+        "input": "march",
+        "output": "april"
+    },
+    {
+        "input": "april",
+        "output": "may"
+    },
+    {
+        "input": "may",
+        "output": "june"
+    },
+    {
+        "input": "june",
+        "output": "july"
+    },
+    {
+        "input": "july",
+        "output": "august"
+    },
+    {
+        "input": "august",
+        "output": "september"
+    },
+    {
+        "input": "september",
+        "output": "october"
+    },
+    {
+        "input": "october",
+        "output": "november"
+    },
+    {
+        "input": "november",
+        "output": "december"
+    },
+    {
+        "input": "Monday",
+        "output": "Tuesday"
+    },
+    {
+        "input": "Tuesday",
+        "output": "Wednesday"
+    },
+    {
+        "input": "Wednesday",
+        "output": "Thursday"
+    },
+    {
+        "input": "Thursday",
+        "output": "Friday"
+    },
+    {
+        "input": "Friday",
+        "output": "Saturday"
+    },
+    {
+        "input": "Saturday",
+        "output": "Sunday"
+    },
+    {
+        "input": "January",
+        "output": "February"
+    },
+    {
+        "input": "February",
+        "output": "March"
+    },
+    {
+        "input": "March",
+        "output": "April"
+    },
+    {
+        "input": "April",
+        "output": "May"
+    },
+    {
+        "input": "May",
+        "output": "June"
+    },
+    {
+        "input": "June",
+        "output": "July"
+    },
+    {
+        "input": "July",
+        "output": "August"
+    },
+    {
+        "input": "August",
+        "output": "September"
+    },
+    {
+        "input": "September",
+        "output": "October"
+    },
+    {
+        "input": "October",
+        "output": "November"
+    },
+    {
+        "input": "November",
+        "output": "December"
+    },
+    {
+        "input": "sunday",
+        "output": "monday"
+    },
+    {
+        "input": "december",
+        "output": "january"
+    },
+    {
+        "input": "Sunday",
+        "output": "Monday"
+    },
+    {
+        "input": "December",
+        "output": "January"
+    }
+]

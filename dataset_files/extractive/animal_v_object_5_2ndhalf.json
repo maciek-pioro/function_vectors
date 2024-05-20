@@ -1,0 +1,2002 @@
+[
+    {
+        "input": "wristwatch, bee, glasses, curtain, envelope",
+        "output": "bee"
+    },
+    {
+        "input": "anchor, map, computer, phone, cockroach",
+        "output": "cockroach"
+    },
+    {
+        "input": "fox, carrot, pizza, bowl, dice",
+        "output": "fox"
+    },
+    {
+        "input": "rifle, meerkat, rice, guitar, vase",
+        "output": "meerkat"
+    },
+    {
+        "input": "plate, notebook, walrus, zucchini, tennis racket",
+        "output": "walrus"
+    },
+    {
+        "input": "boomerang, microphone, phone, woodpecker, spoon",
+        "output": "woodpecker"
+    },
+    {
+        "input": "knife, marker, ladder, rice, chinchilla",
+        "output": "chinchilla"
+    },
+    {
+        "input": "drum, okapi, plant, rifle, airplane",
+        "output": "okapi"
+    },
+    {
+        "input": "fountain, earring, watermelon, frog, paper",
+        "output": "frog"
+    },
+    {
+        "input": "spoon, kayak, snorkel, rock, bunny",
+        "output": "bunny"
+    },
+    {
+        "input": "panther, yo-yo, x-ray, newspaper, olive",
+        "output": "panther"
+    },
+    {
+        "input": "hamster, eraser, toilet, jeans, rock",
+        "output": "hamster"
+    },
+    {
+        "input": "necklace, tambourine, dolphin, tennis racket, book",
+        "output": "dolphin"
+    },
+    {
+        "input": "towel, pasta, bear, glass, tennis racket",
+        "output": "bear"
+    },
+    {
+        "input": "volleyball, jaguar, painting, sculpture, yogurt",
+        "output": "jaguar"
+    },
+    {
+        "input": "socks, paper, donkey, notebook, towel",
+        "output": "donkey"
+    },
+    {
+        "input": "finch, robot, boat, desk, hoop",
+        "output": "finch"
+    },
+    {
+        "input": "jaguar, pasta, easel, oven, boomerang",
+        "output": "jaguar"
+    },
+    {
+        "input": "kayak, lamp, aardvark, necklace, igloo",
+        "output": "aardvark"
+    },
+    {
+        "input": "airplane, jar, cream, x-ray, donkey",
+        "output": "donkey"
+    },
+    {
+        "input": "book, pillow, scorpion, scissors, shoe",
+        "output": "scorpion"
+    },
+    {
+        "input": "ball, globe, motorcycle, violin, shark",
+        "output": "shark"
+    },
+    {
+        "input": "pizza, macaw, globe, skates, quill",
+        "output": "macaw"
+    },
+    {
+        "input": "kite, plate, ball, chicken, zucchini",
+        "output": "chicken"
+    },
+    {
+        "input": "cup, pasta, shoe, falcon, boat",
+        "output": "falcon"
+    },
+    {
+        "input": "bicycle, plate, easel, parrot, cake",
+        "output": "parrot"
+    },
+    {
+        "input": "oven, maracas, bird, fountain, shirt",
+        "output": "bird"
+    },
+    {
+        "input": "cube, airplane, house, dove, chocolate",
+        "output": "dove"
+    },
+    {
+        "input": "goat, cookie, potato, stapler, kite",
+        "output": "goat"
+    },
+    {
+        "input": "pencil, piano, radio, plate, vulture",
+        "output": "vulture"
+    },
+    {
+        "input": "puzzle, lemur, rake, cake, hammock",
+        "output": "lemur"
+    },
+    {
+        "input": "umbrella, house, rifle, turkey, yacht",
+        "output": "turkey"
+    },
+    {
+        "input": "sheep, onion, quilt, anchor, toilet",
+        "output": "sheep"
+    },
+    {
+        "input": "gumball, zipper, bag, chicken, pillow",
+        "output": "chicken"
+    },
+    {
+        "input": "elephant, cream, paper, towel, jeans",
+        "output": "elephant"
+    },
+    {
+        "input": "paper, feather, boomerang, alligator, microphone",
+        "output": "alligator"
+    },
+    {
+        "input": "ball, computer, lantern, worm, donut",
+        "output": "worm"
+    },
+    {
+        "input": "penguin, drum, piano, cookie, globe",
+        "output": "penguin"
+    },
+    {
+        "input": "sofa, candlestick, leopard, rake, egg",
+        "output": "leopard"
+    },
+    {
+        "input": "notebook, frog, zipper, umbrella, cake",
+        "output": "frog"
+    },
+    {
+        "input": "desk, paper, moray, car, jacket",
+        "output": "moray"
+    },
+    {
+        "input": "phone, dog, hammer, quill, paintbrush",
+        "output": "dog"
+    },
+    {
+        "input": "candy, toilet, paintbrush, ostrich, boat",
+        "output": "ostrich"
+    },
+    {
+        "input": "umbrella, candlestick, quilt, bunny, yarn",
+        "output": "bunny"
+    },
+    {
+        "input": "quill, jar, microphone, spider, marker",
+        "output": "spider"
+    },
+    {
+        "input": "kettle, olive, cake, robot, cougar",
+        "output": "cougar"
+    },
+    {
+        "input": "beef, sofa, x-ray, window, alligator",
+        "output": "alligator"
+    },
+    {
+        "input": "zipper, plate, frog, whistle, basketball",
+        "output": "frog"
+    },
+    {
+        "input": "rake, soda, crane, hairbrush, pizza",
+        "output": "crane"
+    },
+    {
+        "input": "paintbrush, crow, jacket, notebook, sculpture",
+        "output": "crow"
+    },
+    {
+        "input": "quill, hammock, house, gazelle, basket",
+        "output": "gazelle"
+    },
+    {
+        "input": "jeans, hammock, eraser, paper, fossa",
+        "output": "fossa"
+    },
+    {
+        "input": "easel, quill, candy, fishing pole, penguin",
+        "output": "penguin"
+    },
+    {
+        "input": "table, chimpanzee, newspaper, wristwatch, accordion",
+        "output": "chimpanzee"
+    },
+    {
+        "input": "kettle, car, scorpion, spoon, rifle",
+        "output": "scorpion"
+    },
+    {
+        "input": "computer, maracas, gumball, pencil, bear",
+        "output": "bear"
+    },
+    {
+        "input": "house, pigeon, laptop, eraser, yarn",
+        "output": "pigeon"
+    },
+    {
+        "input": "zebra, quill, kettle, rock, hammer",
+        "output": "zebra"
+    },
+    {
+        "input": "hammock, buffalo, eraser, fork, towel",
+        "output": "buffalo"
+    },
+    {
+        "input": "okapi, lantern, sofa, clock, car",
+        "output": "okapi"
+    },
+    {
+        "input": "door, glasses, computer, hippopotamus, igloo",
+        "output": "hippopotamus"
+    },
+    {
+        "input": "chocolate, otter, watermelon, igloo, shoe",
+        "output": "otter"
+    },
+    {
+        "input": "chair, pencil, pasta, toucan, potato",
+        "output": "toucan"
+    },
+    {
+        "input": "puma, snorkel, onion, tomato, curtain",
+        "output": "puma"
+    },
+    {
+        "input": "socks, desk, turtle, toilet, hoop",
+        "output": "turtle"
+    },
+    {
+        "input": "umbrella, beef, fossa, jigsaw, curtain",
+        "output": "fossa"
+    },
+    {
+        "input": "basketball, wristwatch, turkey, remote, marker",
+        "output": "turkey"
+    },
+    {
+        "input": "fishing pole, scissors, teapot, cake, dingo",
+        "output": "dingo"
+    },
+    {
+        "input": "ice, toilet, jar, squirrel, hammer",
+        "output": "squirrel"
+    },
+    {
+        "input": "ice, bowl, window, pigeon, microphone",
+        "output": "pigeon"
+    },
+    {
+        "input": "shark, fan, glasses, scissors, igloo",
+        "output": "shark"
+    },
+    {
+        "input": "pizza, maracas, oven, bunny, rug",
+        "output": "bunny"
+    },
+    {
+        "input": "giraffe, umbrella, cake, anchor, painting",
+        "output": "giraffe"
+    },
+    {
+        "input": "paper, hoop, onion, finch, notebook",
+        "output": "finch"
+    },
+    {
+        "input": "ostrich, soda, kite, rice, stapler",
+        "output": "ostrich"
+    },
+    {
+        "input": "anchor, kettle, boar, duster, flower",
+        "output": "boar"
+    },
+    {
+        "input": "cactus, jacket, worm, jar, sculpture",
+        "output": "worm"
+    },
+    {
+        "input": "kettle, raccoon, boomerang, hoop, guitar",
+        "output": "raccoon"
+    },
+    {
+        "input": "manatee, scissors, egg, picture, rice",
+        "output": "manatee"
+    },
+    {
+        "input": "blanket, volleyball, candlestick, microphone, jackal",
+        "output": "jackal"
+    },
+    {
+        "input": "plant, chair, lynx, remote, socks",
+        "output": "lynx"
+    },
+    {
+        "input": "yogurt, microphone, pasta, key, tiger",
+        "output": "tiger"
+    },
+    {
+        "input": "kite, leopard, bag, dumbbell, necklace",
+        "output": "leopard"
+    },
+    {
+        "input": "rice, chinchilla, feather, x-ray, window",
+        "output": "chinchilla"
+    },
+    {
+        "input": "plant, bicycle, mantis, xylophone, book",
+        "output": "mantis"
+    },
+    {
+        "input": "impala, net, anchor, x-ray, beef",
+        "output": "impala"
+    },
+    {
+        "input": "rice, apron, microphone, duck, hairbrush",
+        "output": "duck"
+    },
+    {
+        "input": "grizzly, hammock, pasta, pillow, painting",
+        "output": "grizzly"
+    },
+    {
+        "input": "incense, yarn, watermelon, goat, easel",
+        "output": "goat"
+    },
+    {
+        "input": "x-ray, volleyball, alligator, hammer, cookie",
+        "output": "alligator"
+    },
+    {
+        "input": "remote, snorkel, moray, glass, watermelon",
+        "output": "moray"
+    },
+    {
+        "input": "paper, teapot, table, sofa, newt",
+        "output": "newt"
+    },
+    {
+        "input": "juice, deer, dress, onion, television",
+        "output": "deer"
+    },
+    {
+        "input": "jar, globe, moose, watermelon, camera",
+        "output": "moose"
+    },
+    {
+        "input": "wallet, impala, fishing pole, radio, accordion",
+        "output": "impala"
+    },
+    {
+        "input": "onion, table, ice, lynx, zucchini",
+        "output": "lynx"
+    },
+    {
+        "input": "computer, komodo, blanket, vacuum, tennis racket",
+        "output": "komodo"
+    },
+    {
+        "input": "mirror, jeans, ball, envelope, fox",
+        "output": "fox"
+    },
+    {
+        "input": "dog, easel, cup, remote, teapot",
+        "output": "dog"
+    },
+    {
+        "input": "crab, cookie, candy, fishing pole, duster",
+        "output": "crab"
+    },
+    {
+        "input": "yacht, dragonfly, quill, ball, motorcycle",
+        "output": "dragonfly"
+    },
+    {
+        "input": "bowl, computer, toilet, blanket, squirrel",
+        "output": "squirrel"
+    },
+    {
+        "input": "candlestick, key, kettle, cockroach, incense",
+        "output": "cockroach"
+    },
+    {
+        "input": "pen, vacuum, horse, easel, lettuce",
+        "output": "horse"
+    },
+    {
+        "input": "door, maracas, quilt, crocodile, beef",
+        "output": "crocodile"
+    },
+    {
+        "input": "lizard, onion, cake, book, phone",
+        "output": "lizard"
+    },
+    {
+        "input": "match, socks, wallet, barracuda, door",
+        "output": "barracuda"
+    },
+    {
+        "input": "toilet, sheep, book, tennis racket, robot",
+        "output": "sheep"
+    },
+    {
+        "input": "bicycle, donut, zeppelin, panther, pencil",
+        "output": "panther"
+    },
+    {
+        "input": "net, drum, sofa, pasta, pig",
+        "output": "pig"
+    },
+    {
+        "input": "rake, crocodile, hammock, paper, quilt",
+        "output": "crocodile"
+    },
+    {
+        "input": "potato, paintbrush, drum, armadillo, globe",
+        "output": "armadillo"
+    },
+    {
+        "input": "yacht, juice, duster, eagle, xylophone",
+        "output": "eagle"
+    },
+    {
+        "input": "yarn, x-ray, guitar, barracuda, kettle",
+        "output": "barracuda"
+    },
+    {
+        "input": "vacuum, bag, pelican, watermelon, cake",
+        "output": "pelican"
+    },
+    {
+        "input": "ice, cougar, wallet, clock, alarm",
+        "output": "cougar"
+    },
+    {
+        "input": "jigsaw, picture, paper, violin, giraffe",
+        "output": "giraffe"
+    },
+    {
+        "input": "deer, book, bag, zipper, rifle",
+        "output": "deer"
+    },
+    {
+        "input": "socks, table, hoop, hyena, sofa",
+        "output": "hyena"
+    },
+    {
+        "input": "rug, chinchilla, boat, spoon, jeans",
+        "output": "chinchilla"
+    },
+    {
+        "input": "earring, scorpion, bottle, shirt, alarm",
+        "output": "scorpion"
+    },
+    {
+        "input": "knife, emu, hat, cake, desk",
+        "output": "emu"
+    },
+    {
+        "input": "spoon, juice, incense, dice, gnu",
+        "output": "gnu"
+    },
+    {
+        "input": "woodpecker, plant, kayak, fork, dress",
+        "output": "woodpecker"
+    },
+    {
+        "input": "jackal, pork, airplane, laptop, jacket",
+        "output": "jackal"
+    },
+    {
+        "input": "cube, x-ray, wristwatch, crocodile, cake",
+        "output": "crocodile"
+    },
+    {
+        "input": "apron, vulture, rifle, quilt, dress",
+        "output": "vulture"
+    },
+    {
+        "input": "vase, bear, yacht, volleyball, yarn",
+        "output": "bear"
+    },
+    {
+        "input": "map, apron, bicycle, finch, paper",
+        "output": "finch"
+    },
+    {
+        "input": "puma, book, kayak, map, egg",
+        "output": "puma"
+    },
+    {
+        "input": "earmuffs, candle, hoop, gloves, owl",
+        "output": "owl"
+    },
+    {
+        "input": "dress, giraffe, airplane, cookie, puzzle",
+        "output": "giraffe"
+    },
+    {
+        "input": "earmuffs, bottle, orangutan, airplane, carrot",
+        "output": "orangutan"
+    },
+    {
+        "input": "garlic, snorkel, vulture, zeppelin, bag",
+        "output": "vulture"
+    },
+    {
+        "input": "hammock, okapi, juice, guitar, spoon",
+        "output": "okapi"
+    },
+    {
+        "input": "skates, hoop, picture, salamander, newspaper",
+        "output": "salamander"
+    },
+    {
+        "input": "rabbit, table, chair, vacuum, envelope",
+        "output": "rabbit"
+    },
+    {
+        "input": "clock, moray, onion, spoon, marker",
+        "output": "moray"
+    },
+    {
+        "input": "radio, ant, paintbrush, incense, ruler",
+        "output": "ant"
+    },
+    {
+        "input": "elk, hammock, feather, blanket, rug",
+        "output": "elk"
+    },
+    {
+        "input": "butterfly, plant, lettuce, teapot, desk",
+        "output": "butterfly"
+    },
+    {
+        "input": "pasta, earmuffs, glasses, wolverine, gloves",
+        "output": "wolverine"
+    },
+    {
+        "input": "blanket, bowl, wombat, candle, potato",
+        "output": "wombat"
+    },
+    {
+        "input": "bear, feather, ruler, window, juice",
+        "output": "bear"
+    },
+    {
+        "input": "ball, picture, fishing pole, gecko, net",
+        "output": "gecko"
+    },
+    {
+        "input": "gecko, lantern, microphone, match, envelope",
+        "output": "gecko"
+    },
+    {
+        "input": "basketball, squirrel, flower, shirt, rice",
+        "output": "squirrel"
+    },
+    {
+        "input": "mirror, chocolate, camera, hat, cobra",
+        "output": "cobra"
+    },
+    {
+        "input": "woodpecker, motorcycle, gumball, earmuffs, zeppelin",
+        "output": "woodpecker"
+    },
+    {
+        "input": "ostrich, pencil, yo-yo, egg, violin",
+        "output": "ostrich"
+    },
+    {
+        "input": "skates, donut, apron, wolf, eraser",
+        "output": "wolf"
+    },
+    {
+        "input": "basket, pillow, yo-yo, monkey, book",
+        "output": "monkey"
+    },
+    {
+        "input": "ruler, koala, ink, ladder, desk",
+        "output": "koala"
+    },
+    {
+        "input": "snake, candlestick, whistle, rake, cake",
+        "output": "snake"
+    },
+    {
+        "input": "olive, volleyball, jeans, chocolate, lion",
+        "output": "lion"
+    },
+    {
+        "input": "hammer, ukulele, mantis, necklace, egg",
+        "output": "mantis"
+    },
+    {
+        "input": "kettle, remote, lettuce, iguana, dice",
+        "output": "iguana"
+    },
+    {
+        "input": "zeppelin, curtain, camera, quokka, ukulele",
+        "output": "quokka"
+    },
+    {
+        "input": "tambourine, barracuda, fork, cookie, vase",
+        "output": "barracuda"
+    },
+    {
+        "input": "guitar, clock, chair, lion, soda",
+        "output": "lion"
+    },
+    {
+        "input": "zebra, accordion, knife, tape, socks",
+        "output": "zebra"
+    },
+    {
+        "input": "alpaca, tomato, book, car, pillow",
+        "output": "alpaca"
+    },
+    {
+        "input": "jellyfish, earring, phone, incense, pen",
+        "output": "jellyfish"
+    },
+    {
+        "input": "chimpanzee, picture, piano, egg, camera",
+        "output": "chimpanzee"
+    },
+    {
+        "input": "igloo, potato, guitar, finch, car",
+        "output": "finch"
+    },
+    {
+        "input": "curtain, picture, feather, butterfly, vase",
+        "output": "butterfly"
+    },
+    {
+        "input": "zebra, pasta, vase, envelope, desk",
+        "output": "zebra"
+    },
+    {
+        "input": "dumbbell, dress, rat, umbrella, wallet",
+        "output": "rat"
+    },
+    {
+        "input": "pork, shirt, jigsaw, puzzle, turtle",
+        "output": "turtle"
+    },
+    {
+        "input": "desk, lamp, camera, oven, hippopotamus",
+        "output": "hippopotamus"
+    },
+    {
+        "input": "earring, whistle, guitar, crane, house",
+        "output": "crane"
+    },
+    {
+        "input": "cream, jeans, tambourine, map, mandrill",
+        "output": "mandrill"
+    },
+    {
+        "input": "ostrich, newspaper, potato, apron, duster",
+        "output": "ostrich"
+    },
+    {
+        "input": "book, computer, rabbit, socks, dice",
+        "output": "rabbit"
+    },
+    {
+        "input": "robot, computer, sculpture, jellyfish, incense",
+        "output": "jellyfish"
+    },
+    {
+        "input": "bowl, alpaca, camera, door, duster",
+        "output": "alpaca"
+    },
+    {
+        "input": "maracas, fishing pole, moray, donut, umbrella",
+        "output": "moray"
+    },
+    {
+        "input": "beef, envelope, cup, window, hyena",
+        "output": "hyena"
+    },
+    {
+        "input": "moray, fork, lamp, blanket, hammock",
+        "output": "moray"
+    },
+    {
+        "input": "zucchini, mirror, key, shirt, spider",
+        "output": "spider"
+    },
+    {
+        "input": "rug, door, wristwatch, raccoon, pencil",
+        "output": "raccoon"
+    },
+    {
+        "input": "scissors, pepper, hippopotamus, television, clock",
+        "output": "hippopotamus"
+    },
+    {
+        "input": "vase, toucan, pasta, computer, towel",
+        "output": "toucan"
+    },
+    {
+        "input": "rabbit, boat, onion, easel, alarm",
+        "output": "rabbit"
+    },
+    {
+        "input": "hairbrush, pen, crow, remote, car",
+        "output": "crow"
+    },
+    {
+        "input": "okapi, duster, newspaper, pillow, x-ray",
+        "output": "okapi"
+    },
+    {
+        "input": "cougar, x-ray, watermelon, kettle, camera",
+        "output": "cougar"
+    },
+    {
+        "input": "clock, blanket, yogurt, fossa, plate",
+        "output": "fossa"
+    },
+    {
+        "input": "cactus, robot, envelope, kettle, octopus",
+        "output": "octopus"
+    },
+    {
+        "input": "toilet, earring, accordion, snail, envelope",
+        "output": "snail"
+    },
+    {
+        "input": "shark, yacht, bottle, pasta, rice",
+        "output": "shark"
+    },
+    {
+        "input": "newspaper, bag, guitar, motorcycle, dolphin",
+        "output": "dolphin"
+    },
+    {
+        "input": "spoon, capybara, cookie, pasta, yo-yo",
+        "output": "capybara"
+    },
+    {
+        "input": "hammer, worm, oven, pork, envelope",
+        "output": "worm"
+    },
+    {
+        "input": "ladder, bear, rake, pork, guitar",
+        "output": "bear"
+    },
+    {
+        "input": "cup, house, gecko, anchor, earring",
+        "output": "gecko"
+    },
+    {
+        "input": "horse, house, motorcycle, juice, plant",
+        "output": "horse"
+    },
+    {
+        "input": "goat, painting, spoon, clock, umbrella",
+        "output": "goat"
+    },
+    {
+        "input": "glasses, ukulele, television, flamingo, candy",
+        "output": "flamingo"
+    },
+    {
+        "input": "dice, bag, shoe, badger, zeppelin",
+        "output": "badger"
+    },
+    {
+        "input": "kite, cake, komodo, plant, candy",
+        "output": "komodo"
+    },
+    {
+        "input": "painting, hat, barracuda, plate, curtain",
+        "output": "barracuda"
+    },
+    {
+        "input": "hat, pasta, flower, grizzly, net",
+        "output": "grizzly"
+    },
+    {
+        "input": "oryx, rug, soda, marker, tape",
+        "output": "oryx"
+    },
+    {
+        "input": "skates, key, rug, earring, magpie",
+        "output": "magpie"
+    },
+    {
+        "input": "incense, soda, cube, dress, badger",
+        "output": "badger"
+    },
+    {
+        "input": "wallet, candy, teapot, weasel, lamp",
+        "output": "weasel"
+    },
+    {
+        "input": "mirror, picture, egg, cow, basket",
+        "output": "cow"
+    },
+    {
+        "input": "rug, notebook, drum, bunny, volleyball",
+        "output": "bunny"
+    },
+    {
+        "input": "dice, laptop, cow, tambourine, teapot",
+        "output": "cow"
+    },
+    {
+        "input": "picture, bat, teapot, table, quilt",
+        "output": "bat"
+    },
+    {
+        "input": "television, woodpecker, umbrella, garlic, alarm",
+        "output": "woodpecker"
+    },
+    {
+        "input": "zeppelin, dice, jeans, elephant, window",
+        "output": "elephant"
+    },
+    {
+        "input": "candy, paper, dress, yogurt, frog",
+        "output": "frog"
+    },
+    {
+        "input": "plate, fishing pole, barracuda, olive, teapot",
+        "output": "barracuda"
+    },
+    {
+        "input": "rice, vacuum, rat, snorkel, pillow",
+        "output": "rat"
+    },
+    {
+        "input": "duster, pork, python, jeans, ball",
+        "output": "python"
+    },
+    {
+        "input": "earmuffs, tomato, globe, narwhal, desk",
+        "output": "narwhal"
+    },
+    {
+        "input": "newspaper, ink, kettle, fish, alarm",
+        "output": "fish"
+    },
+    {
+        "input": "radio, newspaper, ball, dress, macaw",
+        "output": "macaw"
+    },
+    {
+        "input": "beef, egg, picture, raccoon, anchor",
+        "output": "raccoon"
+    },
+    {
+        "input": "worm, carrot, basketball, ball, tambourine",
+        "output": "worm"
+    },
+    {
+        "input": "cookie, lizard, jigsaw, earring, television",
+        "output": "lizard"
+    },
+    {
+        "input": "lobster, zucchini, table, sculpture, candy",
+        "output": "lobster"
+    },
+    {
+        "input": "pelican, computer, hammock, hammer, flower",
+        "output": "pelican"
+    },
+    {
+        "input": "dolphin, net, computer, flower, camera",
+        "output": "dolphin"
+    },
+    {
+        "input": "teapot, opossum, onion, guitar, ruler",
+        "output": "opossum"
+    },
+    {
+        "input": "spoon, cactus, mantis, pencil, potato",
+        "output": "mantis"
+    },
+    {
+        "input": "zipper, car, basketball, hoop, bear",
+        "output": "bear"
+    },
+    {
+        "input": "remote, woodpecker, zeppelin, jar, microphone",
+        "output": "woodpecker"
+    },
+    {
+        "input": "anchor, vase, manatee, ice, stapler",
+        "output": "manatee"
+    },
+    {
+        "input": "gumball, yak, wallet, shirt, bottle",
+        "output": "yak"
+    },
+    {
+        "input": "bowl, umbrella, armadillo, hat, newspaper",
+        "output": "armadillo"
+    },
+    {
+        "input": "whale, boat, envelope, microphone, jigsaw",
+        "output": "whale"
+    },
+    {
+        "input": "window, pelican, soda, potato, desk",
+        "output": "pelican"
+    },
+    {
+        "input": "zucchini, phone, hammock, sheep, tape",
+        "output": "sheep"
+    },
+    {
+        "input": "egg, quokka, dress, radio, bag",
+        "output": "quokka"
+    },
+    {
+        "input": "radio, juice, zucchini, pelican, lamp",
+        "output": "pelican"
+    },
+    {
+        "input": "candlestick, clock, otter, gumball, donut",
+        "output": "otter"
+    },
+    {
+        "input": "xylophone, duster, pelican, dress, net",
+        "output": "pelican"
+    },
+    {
+        "input": "dress, picture, alarm, yogurt, fox",
+        "output": "fox"
+    },
+    {
+        "input": "lantern, toilet, skates, earring, mouse",
+        "output": "mouse"
+    },
+    {
+        "input": "watermelon, flamingo, easel, mirror, teapot",
+        "output": "flamingo"
+    },
+    {
+        "input": "rake, egg, chair, donut, pelican",
+        "output": "pelican"
+    },
+    {
+        "input": "volleyball, lettuce, ladder, chair, capybara",
+        "output": "capybara"
+    },
+    {
+        "input": "robot, teapot, lantern, curtain, goose",
+        "output": "goose"
+    },
+    {
+        "input": "apron, match, onion, jaguar, ball",
+        "output": "jaguar"
+    },
+    {
+        "input": "fan, scissors, duck, ice, lamp",
+        "output": "duck"
+    },
+    {
+        "input": "ice, microphone, manatee, glass, puzzle",
+        "output": "manatee"
+    },
+    {
+        "input": "house, snake, ink, knife, carrot",
+        "output": "snake"
+    },
+    {
+        "input": "tape, lobster, igloo, pencil, necklace",
+        "output": "lobster"
+    },
+    {
+        "input": "pasta, spoon, peacock, notebook, piano",
+        "output": "peacock"
+    },
+    {
+        "input": "beef, bowl, magpie, spoon, fan",
+        "output": "magpie"
+    },
+    {
+        "input": "zucchini, dingo, shoe, eraser, rake",
+        "output": "dingo"
+    },
+    {
+        "input": "eraser, piano, ice, gnu, bicycle",
+        "output": "gnu"
+    },
+    {
+        "input": "xylophone, rake, lettuce, sofa, buffalo",
+        "output": "buffalo"
+    },
+    {
+        "input": "lettuce, maracas, globe, motorcycle, hyena",
+        "output": "hyena"
+    },
+    {
+        "input": "peacock, flower, toilet, book, laptop",
+        "output": "peacock"
+    },
+    {
+        "input": "glasses, bicycle, drum, bison, hoop",
+        "output": "bison"
+    },
+    {
+        "input": "candlestick, skunk, gloves, plate, net",
+        "output": "skunk"
+    },
+    {
+        "input": "ferret, flower, yo-yo, carrot, maracas",
+        "output": "ferret"
+    },
+    {
+        "input": "narwhal, socks, net, flower, boomerang",
+        "output": "narwhal"
+    },
+    {
+        "input": "easel, flower, paintbrush, gecko, pork",
+        "output": "gecko"
+    },
+    {
+        "input": "sloth, quilt, duster, potato, anchor",
+        "output": "sloth"
+    },
+    {
+        "input": "pencil, duster, gnu, kite, ladder",
+        "output": "gnu"
+    },
+    {
+        "input": "ladder, lobster, plate, scissors, match",
+        "output": "lobster"
+    },
+    {
+        "input": "hippopotamus, jigsaw, necklace, hairbrush, spoon",
+        "output": "hippopotamus"
+    },
+    {
+        "input": "newt, earring, pork, picture, pillow",
+        "output": "newt"
+    },
+    {
+        "input": "skunk, dumbbell, rice, laptop, match",
+        "output": "skunk"
+    },
+    {
+        "input": "igloo, snail, glass, dumbbell, cream",
+        "output": "snail"
+    },
+    {
+        "input": "scorpion, jigsaw, egg, eraser, camera",
+        "output": "scorpion"
+    },
+    {
+        "input": "curtain, earring, moray, maracas, car",
+        "output": "moray"
+    },
+    {
+        "input": "yo-yo, necklace, hamster, puzzle, tennis racket",
+        "output": "hamster"
+    },
+    {
+        "input": "candle, earring, scissors, chimpanzee, bowl",
+        "output": "chimpanzee"
+    },
+    {
+        "input": "spider, fan, candle, vacuum, x-ray",
+        "output": "spider"
+    },
+    {
+        "input": "accordion, gumball, maracas, spoon, quokka",
+        "output": "quokka"
+    },
+    {
+        "input": "hammock, goat, cake, newspaper, anchor",
+        "output": "goat"
+    },
+    {
+        "input": "rug, notebook, zeppelin, plate, horse",
+        "output": "horse"
+    },
+    {
+        "input": "carrot, pig, knife, hammock, soda",
+        "output": "pig"
+    },
+    {
+        "input": "kettle, seahorse, bicycle, radio, door",
+        "output": "seahorse"
+    },
+    {
+        "input": "bottle, plant, pig, plate, juice",
+        "output": "pig"
+    },
+    {
+        "input": "rock, candlestick, whale, watermelon, cup",
+        "output": "whale"
+    },
+    {
+        "input": "gnu, desk, quill, duster, spoon",
+        "output": "gnu"
+    },
+    {
+        "input": "teapot, chipmunk, eraser, rock, vacuum",
+        "output": "chipmunk"
+    },
+    {
+        "input": "umbrella, hornet, basketball, candle, paintbrush",
+        "output": "hornet"
+    },
+    {
+        "input": "umbrella, oven, seahorse, tomato, pork",
+        "output": "seahorse"
+    },
+    {
+        "input": "ink, bicycle, sloth, necklace, table",
+        "output": "sloth"
+    },
+    {
+        "input": "pen, crow, envelope, igloo, bag",
+        "output": "crow"
+    },
+    {
+        "input": "basketball, motorcycle, duster, camera, emu",
+        "output": "emu"
+    },
+    {
+        "input": "woodpecker, vacuum, laptop, yarn, hoop",
+        "output": "woodpecker"
+    },
+    {
+        "input": "boat, ibex, basket, yarn, cake",
+        "output": "ibex"
+    },
+    {
+        "input": "manatee, television, map, ink, accordion",
+        "output": "manatee"
+    },
+    {
+        "input": "hoop, beef, feather, cake, zebra",
+        "output": "zebra"
+    },
+    {
+        "input": "anchor, wristwatch, crab, table, dumbbell",
+        "output": "crab"
+    },
+    {
+        "input": "goat, hammer, dumbbell, necklace, pillow",
+        "output": "goat"
+    },
+    {
+        "input": "yogurt, rice, match, necklace, goat",
+        "output": "goat"
+    },
+    {
+        "input": "umbrella, computer, guitar, hat, cockroach",
+        "output": "cockroach"
+    },
+    {
+        "input": "swan, yogurt, candlestick, watermelon, kettle",
+        "output": "swan"
+    },
+    {
+        "input": "ladder, newspaper, toucan, bowl, shoe",
+        "output": "toucan"
+    },
+    {
+        "input": "clock, spoon, lemur, picture, bicycle",
+        "output": "lemur"
+    },
+    {
+        "input": "watermelon, table, airplane, caribou, juice",
+        "output": "caribou"
+    },
+    {
+        "input": "dice, door, toilet, ostrich, hairbrush",
+        "output": "ostrich"
+    },
+    {
+        "input": "cat, umbrella, envelope, tambourine, scissors",
+        "output": "cat"
+    },
+    {
+        "input": "toilet, scissors, worm, stapler, gloves",
+        "output": "worm"
+    },
+    {
+        "input": "mouse, clock, camera, ladder, pasta",
+        "output": "mouse"
+    },
+    {
+        "input": "plate, dress, pen, meerkat, table",
+        "output": "meerkat"
+    },
+    {
+        "input": "earmuffs, picture, bison, kite, donut",
+        "output": "bison"
+    },
+    {
+        "input": "umbrella, egg, moth, towel, soda",
+        "output": "moth"
+    },
+    {
+        "input": "oven, ukulele, gumball, glass, beaver",
+        "output": "beaver"
+    },
+    {
+        "input": "bee, vacuum, jacket, dice, fan",
+        "output": "bee"
+    },
+    {
+        "input": "capybara, fan, phone, ball, tape",
+        "output": "capybara"
+    },
+    {
+        "input": "zucchini, olive, umbrella, socks, caterpillar",
+        "output": "caterpillar"
+    },
+    {
+        "input": "window, jackal, jar, table, juice",
+        "output": "jackal"
+    },
+    {
+        "input": "umbrella, glasses, carrot, eagle, pencil",
+        "output": "eagle"
+    },
+    {
+        "input": "cake, zucchini, yacht, notebook, elephant",
+        "output": "elephant"
+    },
+    {
+        "input": "vase, pork, cream, chicken, easel",
+        "output": "chicken"
+    },
+    {
+        "input": "carrot, kite, camera, tape, mantis",
+        "output": "mantis"
+    },
+    {
+        "input": "whistle, candle, pizza, pasta, hyena",
+        "output": "hyena"
+    },
+    {
+        "input": "plant, yogurt, lamp, motorcycle, scorpion",
+        "output": "scorpion"
+    },
+    {
+        "input": "ferret, wristwatch, camera, clock, egg",
+        "output": "ferret"
+    },
+    {
+        "input": "tambourine, remote, gloves, bison, house",
+        "output": "bison"
+    },
+    {
+        "input": "fishing pole, fan, oryx, bottle, igloo",
+        "output": "oryx"
+    },
+    {
+        "input": "cactus, microphone, penguin, chair, pasta",
+        "output": "penguin"
+    },
+    {
+        "input": "beef, flower, piano, wristwatch, wolf",
+        "output": "wolf"
+    },
+    {
+        "input": "dolphin, shoe, yogurt, door, pizza",
+        "output": "dolphin"
+    },
+    {
+        "input": "zipper, glasses, candlestick, lemur, snorkel",
+        "output": "lemur"
+    },
+    {
+        "input": "car, falcon, dress, quill, tomato",
+        "output": "falcon"
+    },
+    {
+        "input": "plant, envelope, tambourine, gloves, python",
+        "output": "python"
+    },
+    {
+        "input": "pasta, zucchini, marker, fishing pole, python",
+        "output": "python"
+    },
+    {
+        "input": "ukulele, globe, donut, pen, mandrill",
+        "output": "mandrill"
+    },
+    {
+        "input": "igloo, hat, chocolate, pillow, salamander",
+        "output": "salamander"
+    },
+    {
+        "input": "seahorse, fishing pole, ukulele, tambourine, yo-yo",
+        "output": "seahorse"
+    },
+    {
+        "input": "kayak, soda, quill, dumbbell, yak",
+        "output": "yak"
+    },
+    {
+        "input": "swan, puzzle, notebook, fan, teapot",
+        "output": "swan"
+    },
+    {
+        "input": "glass, ibex, basket, rifle, net",
+        "output": "ibex"
+    },
+    {
+        "input": "house, alligator, cactus, paper, zipper",
+        "output": "alligator"
+    },
+    {
+        "input": "necklace, duster, candle, baboon, ball",
+        "output": "baboon"
+    },
+    {
+        "input": "panther, xylophone, earring, boat, envelope",
+        "output": "panther"
+    },
+    {
+        "input": "owl, hoop, computer, paper, jacket",
+        "output": "owl"
+    },
+    {
+        "input": "cougar, lamp, shoe, airplane, wallet",
+        "output": "cougar"
+    },
+    {
+        "input": "dress, bag, hammock, yogurt, penguin",
+        "output": "penguin"
+    },
+    {
+        "input": "alarm, eraser, spoon, tambourine, fossa",
+        "output": "fossa"
+    },
+    {
+        "input": "egg, cow, vase, bicycle, x-ray",
+        "output": "cow"
+    },
+    {
+        "input": "cobra, quill, yacht, maracas, remote",
+        "output": "cobra"
+    },
+    {
+        "input": "picture, bag, table, seal, flower",
+        "output": "seal"
+    },
+    {
+        "input": "zucchini, okapi, book, yo-yo, necklace",
+        "output": "okapi"
+    },
+    {
+        "input": "rice, television, guitar, hoop, gecko",
+        "output": "gecko"
+    },
+    {
+        "input": "map, juice, drum, earmuffs, fish",
+        "output": "fish"
+    },
+    {
+        "input": "alarm, x-ray, dice, tape, python",
+        "output": "python"
+    },
+    {
+        "input": "book, bat, duster, paper, hammer",
+        "output": "bat"
+    },
+    {
+        "input": "jigsaw, grizzly, car, stapler, net",
+        "output": "grizzly"
+    },
+    {
+        "input": "ink, jeans, feather, phone, buffalo",
+        "output": "buffalo"
+    },
+    {
+        "input": "television, map, rake, ink, chimpanzee",
+        "output": "chimpanzee"
+    },
+    {
+        "input": "fork, socks, window, eraser, alpaca",
+        "output": "alpaca"
+    },
+    {
+        "input": "newspaper, toilet, mirror, lamp, impala",
+        "output": "impala"
+    },
+    {
+        "input": "woodpecker, apron, bicycle, jeans, dumbbell",
+        "output": "woodpecker"
+    },
+    {
+        "input": "pen, fox, rifle, cube, yarn",
+        "output": "fox"
+    },
+    {
+        "input": "paper, easel, laptop, finch, xylophone",
+        "output": "finch"
+    },
+    {
+        "input": "chocolate, puzzle, x-ray, scissors, ibex",
+        "output": "ibex"
+    },
+    {
+        "input": "guitar, eraser, otter, snorkel, sofa",
+        "output": "otter"
+    },
+    {
+        "input": "quilt, oryx, sculpture, picture, zipper",
+        "output": "oryx"
+    },
+    {
+        "input": "cake, remote, camera, jigsaw, python",
+        "output": "python"
+    },
+    {
+        "input": "pork, plant, pig, car, rake",
+        "output": "pig"
+    },
+    {
+        "input": "kayak, peacock, basketball, net, anchor",
+        "output": "peacock"
+    },
+    {
+        "input": "zeppelin, lamp, beef, rhinoceros, garlic",
+        "output": "rhinoceros"
+    },
+    {
+        "input": "onion, okapi, volleyball, ukulele, juice",
+        "output": "okapi"
+    },
+    {
+        "input": "parrot, rake, fan, basketball, cactus",
+        "output": "parrot"
+    },
+    {
+        "input": "map, donut, jacket, buffalo, rice",
+        "output": "buffalo"
+    },
+    {
+        "input": "vacuum, towel, notebook, cake, elephant",
+        "output": "elephant"
+    },
+    {
+        "input": "laptop, knife, picture, donut, coyote",
+        "output": "coyote"
+    },
+    {
+        "input": "olive, pelican, candy, jar, knife",
+        "output": "pelican"
+    },
+    {
+        "input": "chair, jacket, clock, horse, cup",
+        "output": "horse"
+    },
+    {
+        "input": "butterfly, tomato, plate, fan, flower",
+        "output": "butterfly"
+    },
+    {
+        "input": "shirt, mirror, coyote, ball, house",
+        "output": "coyote"
+    },
+    {
+        "input": "yarn, robot, toilet, earmuffs, scorpion",
+        "output": "scorpion"
+    },
+    {
+        "input": "airplane, x-ray, grizzly, candy, dice",
+        "output": "grizzly"
+    },
+    {
+        "input": "net, chinchilla, kayak, zipper, boat",
+        "output": "chinchilla"
+    },
+    {
+        "input": "xylophone, meerkat, olive, curtain, yacht",
+        "output": "meerkat"
+    },
+    {
+        "input": "lynx, x-ray, blanket, door, hammer",
+        "output": "lynx"
+    },
+    {
+        "input": "buffalo, puzzle, computer, airplane, watermelon",
+        "output": "buffalo"
+    },
+    {
+        "input": "ant, chair, kite, quill, rug",
+        "output": "ant"
+    },
+    {
+        "input": "boat, pasta, mirror, panda, net",
+        "output": "panda"
+    },
+    {
+        "input": "puzzle, scorpion, necklace, ruler, glass",
+        "output": "scorpion"
+    },
+    {
+        "input": "clock, boat, lemur, globe, sculpture",
+        "output": "lemur"
+    },
+    {
+        "input": "snorkel, glass, wallet, opossum, bicycle",
+        "output": "opossum"
+    },
+    {
+        "input": "microphone, ink, pillow, car, crocodile",
+        "output": "crocodile"
+    },
+    {
+        "input": "macaw, dice, olive, pillow, shoe",
+        "output": "macaw"
+    },
+    {
+        "input": "caterpillar, snorkel, mirror, potato, painting",
+        "output": "caterpillar"
+    },
+    {
+        "input": "umbrella, rice, seal, garlic, lantern",
+        "output": "seal"
+    },
+    {
+        "input": "newspaper, egg, macaw, gumball, book",
+        "output": "macaw"
+    },
+    {
+        "input": "tape, net, candlestick, bison, hammock",
+        "output": "bison"
+    },
+    {
+        "input": "hairbrush, pencil, fork, flower, scorpion",
+        "output": "scorpion"
+    },
+    {
+        "input": "quokka, remote, pen, earring, computer",
+        "output": "quokka"
+    },
+    {
+        "input": "eel, radio, dice, hairbrush, cookie",
+        "output": "eel"
+    },
+    {
+        "input": "pork, cup, chair, boat, worm",
+        "output": "worm"
+    },
+    {
+        "input": "basket, tambourine, toucan, rug, onion",
+        "output": "toucan"
+    },
+    {
+        "input": "bottle, bunny, hammock, maracas, xylophone",
+        "output": "bunny"
+    },
+    {
+        "input": "glasses, bowl, caribou, cup, picture",
+        "output": "caribou"
+    },
+    {
+        "input": "pepper, notebook, narwhal, ice, microphone",
+        "output": "narwhal"
+    },
+    {
+        "input": "socks, eraser, sofa, accordion, baboon",
+        "output": "baboon"
+    },
+    {
+        "input": "finch, yogurt, ink, beef, match",
+        "output": "finch"
+    },
+    {
+        "input": "eraser, crocodile, anchor, beef, puzzle",
+        "output": "crocodile"
+    },
+    {
+        "input": "lynx, dumbbell, marker, rake, x-ray",
+        "output": "lynx"
+    },
+    {
+        "input": "pasta, hairbrush, xylophone, radio, ostrich",
+        "output": "ostrich"
+    },
+    {
+        "input": "violin, egg, rug, pig, jigsaw",
+        "output": "pig"
+    },
+    {
+        "input": "bunny, chocolate, snorkel, marker, yogurt",
+        "output": "bunny"
+    },
+    {
+        "input": "hoop, chicken, car, lantern, boomerang",
+        "output": "chicken"
+    },
+    {
+        "input": "accordion, remote, vacuum, shoe, fox",
+        "output": "fox"
+    },
+    {
+        "input": "butterfly, vacuum, glasses, hammock, yo-yo",
+        "output": "butterfly"
+    },
+    {
+        "input": "blanket, quilt, cream, gnu, plant",
+        "output": "gnu"
+    },
+    {
+        "input": "bowl, skates, piano, maracas, anteater",
+        "output": "anteater"
+    },
+    {
+        "input": "yacht, cream, crow, boomerang, motorcycle",
+        "output": "crow"
+    },
+    {
+        "input": "zipper, crow, candlestick, plate, fan",
+        "output": "crow"
+    },
+    {
+        "input": "feather, sculpture, boat, igloo, gnu",
+        "output": "gnu"
+    },
+    {
+        "input": "rock, x-ray, window, leopard, beef",
+        "output": "leopard"
+    },
+    {
+        "input": "puzzle, radio, candy, whistle, turkey",
+        "output": "turkey"
+    },
+    {
+        "input": "wombat, jigsaw, igloo, door, ice",
+        "output": "wombat"
+    },
+    {
+        "input": "drum, ukulele, rice, dingo, vacuum",
+        "output": "dingo"
+    },
+    {
+        "input": "scorpion, sculpture, guitar, pork, notebook",
+        "output": "scorpion"
+    },
+    {
+        "input": "rug, fossa, dress, ice, quilt",
+        "output": "fossa"
+    },
+    {
+        "input": "shark, net, feather, drum, oven",
+        "output": "shark"
+    },
+    {
+        "input": "match, moray, teapot, basket, paper",
+        "output": "moray"
+    },
+    {
+        "input": "picture, chair, jigsaw, raccoon, easel",
+        "output": "raccoon"
+    },
+    {
+        "input": "pizza, narwhal, paintbrush, beef, puzzle",
+        "output": "narwhal"
+    },
+    {
+        "input": "rock, coyote, violin, net, plate",
+        "output": "coyote"
+    },
+    {
+        "input": "shirt, computer, quilt, donut, ant",
+        "output": "ant"
+    },
+    {
+        "input": "beef, alarm, sofa, clock, mandrill",
+        "output": "mandrill"
+    },
+    {
+        "input": "candle, laptop, sloth, quilt, stapler",
+        "output": "sloth"
+    },
+    {
+        "input": "lettuce, cup, table, paintbrush, fossa",
+        "output": "fossa"
+    },
+    {
+        "input": "newt, notebook, curtain, pillow, phone",
+        "output": "newt"
+    },
+    {
+        "input": "umbrella, jeans, pepper, impala, necklace",
+        "output": "impala"
+    },
+    {
+        "input": "sheep, puzzle, dumbbell, rug, ink",
+        "output": "sheep"
+    },
+    {
+        "input": "incense, globe, guitar, moray, paper",
+        "output": "moray"
+    },
+    {
+        "input": "computer, lantern, alligator, yogurt, pencil",
+        "output": "alligator"
+    },
+    {
+        "input": "skunk, marker, olive, match, zucchini",
+        "output": "skunk"
+    },
+    {
+        "input": "globe, alarm, juice, moose, anchor",
+        "output": "moose"
+    },
+    {
+        "input": "bowl, door, cobra, fountain, accordion",
+        "output": "cobra"
+    },
+    {
+        "input": "socks, watermelon, moray, paper, newspaper",
+        "output": "moray"
+    },
+    {
+        "input": "fishing pole, glass, jacket, rug, dragonfly",
+        "output": "dragonfly"
+    },
+    {
+        "input": "spoon, table, scorpion, plant, cup",
+        "output": "scorpion"
+    },
+    {
+        "input": "watermelon, earring, basketball, moray, painting",
+        "output": "moray"
+    },
+    {
+        "input": "door, newt, knife, donut, easel",
+        "output": "newt"
+    },
+    {
+        "input": "lizard, car, bicycle, drum, jeans",
+        "output": "lizard"
+    },
+    {
+        "input": "dog, vase, incense, ball, window",
+        "output": "dog"
+    },
+    {
+        "input": "kayak, orangutan, plant, boat, tennis racket",
+        "output": "orangutan"
+    },
+    {
+        "input": "gumball, globe, clock, dumbbell, rat",
+        "output": "rat"
+    },
+    {
+        "input": "net, rake, ice, dolphin, plate",
+        "output": "dolphin"
+    },
+    {
+        "input": "cookie, candlestick, panda, piano, net",
+        "output": "panda"
+    },
+    {
+        "input": "macaw, hat, towel, boat, stapler",
+        "output": "macaw"
+    },
+    {
+        "input": "igloo, chicken, shoe, plant, zeppelin",
+        "output": "chicken"
+    },
+    {
+        "input": "cactus, candy, clock, motorcycle, seal",
+        "output": "seal"
+    },
+    {
+        "input": "gazelle, earmuffs, jeans, fountain, pasta",
+        "output": "gazelle"
+    },
+    {
+        "input": "yarn, lettuce, quill, pepper, okapi",
+        "output": "okapi"
+    },
+    {
+        "input": "lamp, mandrill, basket, camera, volleyball",
+        "output": "mandrill"
+    },
+    {
+        "input": "car, sofa, zipper, boat, manatee",
+        "output": "manatee"
+    },
+    {
+        "input": "beef, zipper, goat, desk, bowl",
+        "output": "goat"
+    },
+    {
+        "input": "curtain, radio, hamster, ink, olive",
+        "output": "hamster"
+    },
+    {
+        "input": "scissors, python, ink, candy, shirt",
+        "output": "python"
+    },
+    {
+        "input": "car, eraser, duster, baboon, basketball",
+        "output": "baboon"
+    },
+    {
+        "input": "hippopotamus, computer, violin, map, gumball",
+        "output": "hippopotamus"
+    },
+    {
+        "input": "hairbrush, beaver, computer, anchor, sofa",
+        "output": "beaver"
+    },
+    {
+        "input": "phone, fan, window, weasel, blanket",
+        "output": "weasel"
+    },
+    {
+        "input": "otter, candy, mirror, map, shirt",
+        "output": "otter"
+    },
+    {
+        "input": "motorcycle, bat, sofa, volleyball, dress",
+        "output": "bat"
+    },
+    {
+        "input": "lizard, stapler, map, feather, basketball",
+        "output": "lizard"
+    },
+    {
+        "input": "map, horse, sculpture, toilet, pasta",
+        "output": "horse"
+    },
+    {
+        "input": "ink, robot, lamp, caterpillar, painting",
+        "output": "caterpillar"
+    },
+    {
+        "input": "hairbrush, table, lamp, igloo, rhinoceros",
+        "output": "rhinoceros"
+    },
+    {
+        "input": "donut, cream, wallet, meerkat, bowl",
+        "output": "meerkat"
+    },
+    {
+        "input": "airplane, ukulele, net, jellyfish, map",
+        "output": "jellyfish"
+    },
+    {
+        "input": "glasses, easel, marker, lamp, duck",
+        "output": "duck"
+    },
+    {
+        "input": "hyena, ball, plant, pepper, rake",
+        "output": "hyena"
+    },
+    {
+        "input": "snorkel, car, table, pigeon, x-ray",
+        "output": "pigeon"
+    },
+    {
+        "input": "bag, hornet, motorcycle, clock, zeppelin",
+        "output": "hornet"
+    },
+    {
+        "input": "motorcycle, camera, alpaca, cookie, envelope",
+        "output": "alpaca"
+    },
+    {
+        "input": "sofa, komodo, easel, incense, anchor",
+        "output": "komodo"
+    },
+    {
+        "input": "map, olive, rice, caterpillar, marker",
+        "output": "caterpillar"
+    },
+    {
+        "input": "chocolate, shoe, opossum, kite, phone",
+        "output": "opossum"
+    },
+    {
+        "input": "volleyball, hippopotamus, pen, alarm, egg",
+        "output": "hippopotamus"
+    },
+    {
+        "input": "quill, shirt, blanket, alligator, candle",
+        "output": "alligator"
+    },
+    {
+        "input": "puzzle, basketball, meerkat, cup, teapot",
+        "output": "meerkat"
+    },
+    {
+        "input": "sofa, television, badger, jigsaw, bowl",
+        "output": "badger"
+    },
+    {
+        "input": "zucchini, basket, rock, jackal, earmuffs",
+        "output": "jackal"
+    },
+    {
+        "input": "olive, crocodile, globe, ladder, whistle",
+        "output": "crocodile"
+    },
+    {
+        "input": "dice, sloth, shoe, whistle, easel",
+        "output": "sloth"
+    },
+    {
+        "input": "mouse, fork, glass, x-ray, kite",
+        "output": "mouse"
+    },
+    {
+        "input": "turtle, yarn, rake, vase, spoon",
+        "output": "turtle"
+    },
+    {
+        "input": "bag, candlestick, mandrill, ice, igloo",
+        "output": "mandrill"
+    },
+    {
+        "input": "car, dumbbell, wristwatch, horse, wallet",
+        "output": "horse"
+    },
+    {
+        "input": "bag, jeans, falcon, cream, sculpture",
+        "output": "falcon"
+    },
+    {
+        "input": "oven, lettuce, bottle, moth, net",
+        "output": "moth"
+    },
+    {
+        "input": "map, jacket, duster, finch, yo-yo",
+        "output": "finch"
+    },
+    {
+        "input": "boomerang, door, tambourine, television, worm",
+        "output": "worm"
+    },
+    {
+        "input": "necklace, glass, dice, desk, skunk",
+        "output": "skunk"
+    },
+    {
+        "input": "whistle, maracas, robot, meerkat, flower",
+        "output": "meerkat"
+    },
+    {
+        "input": "book, xylophone, window, sheep, bicycle",
+        "output": "sheep"
+    },
+    {
+        "input": "candle, glasses, television, oven, okapi",
+        "output": "okapi"
+    },
+    {
+        "input": "remote, lobster, flower, computer, boomerang",
+        "output": "lobster"
+    },
+    {
+        "input": "tomato, grizzly, duster, accordion, violin",
+        "output": "grizzly"
+    },
+    {
+        "input": "bicycle, fan, badger, watermelon, snorkel",
+        "output": "badger"
+    }
+]
