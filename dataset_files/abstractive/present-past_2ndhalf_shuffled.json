@@ -1,0 +1,590 @@
+[
+    {
+        "input": "value",
+        "output": "valued"
+    },
+    {
+        "input": "utilize",
+        "output": "utilized"
+    },
+    {
+        "input": "trust",
+        "output": "trusted"
+    },
+    {
+        "input": "change",
+        "output": "changed"
+    },
+    {
+        "input": "describe",
+        "output": "described"
+    },
+    {
+        "input": "turn",
+        "output": "turned"
+    },
+    {
+        "input": "address",
+        "output": "addressed"
+    },
+    {
+        "input": "express",
+        "output": "expressed"
+    },
+    {
+        "input": "organize",
+        "output": "organized"
+    },
+    {
+        "input": "compose",
+        "output": "composed"
+    },
+    {
+        "input": "provide",
+        "output": "provided"
+    },
+    {
+        "input": "revise",
+        "output": "revised"
+    },
+    {
+        "input": "face",
+        "output": "faced"
+    },
+    {
+        "input": "separate",
+        "output": "separated"
+    },
+    {
+        "input": "lift",
+        "output": "lifted"
+    },
+    {
+        "input": "model",
+        "output": "modelled"
+    },
+    {
+        "input": "devise",
+        "output": "devised"
+    },
+    {
+        "input": "check",
+        "output": "checked"
+    },
+    {
+        "input": "know",
+        "output": "knew"
+    },
+    {
+        "input": "strive",
+        "output": "strived"
+    },
+    {
+        "input": "prepare",
+        "output": "prepared"
+    },
+    {
+        "input": "leave",
+        "output": "left"
+    },
+    {
+        "input": "influence",
+        "output": "influenced"
+    },
+    {
+        "input": "construct",
+        "output": "constructed"
+    },
+    {
+        "input": "repair",
+        "output": "repaired"
+    },
+    {
+        "input": "set",
+        "output": "set"
+    },
+    {
+        "input": "develop",
+        "output": "developed"
+    },
+    {
+        "input": "adapt",
+        "output": "adapted"
+    },
+    {
+        "input": "succeed",
+        "output": "succeeded"
+    },
+    {
+        "input": "yield",
+        "output": "yielded"
+    },
+    {
+        "input": "define",
+        "output": "defined"
+    },
+    {
+        "input": "point",
+        "output": "pointed"
+    },
+    {
+        "input": "supply",
+        "output": "supplied"
+    },
+    {
+        "input": "command",
+        "output": "commanded"
+    },
+    {
+        "input": "charge",
+        "output": "charged"
+    },
+    {
+        "input": "explain",
+        "output": "explained"
+    },
+    {
+        "input": "accelerate",
+        "output": "accelerated"
+    },
+    {
+        "input": "persuade",
+        "output": "persuaded"
+    },
+    {
+        "input": "hang",
+        "output": "hung"
+    },
+    {
+        "input": "investigate",
+        "output": "investigated"
+    },
+    {
+        "input": "try",
+        "output": "tried"
+    },
+    {
+        "input": "simplify",
+        "output": "simplified"
+    },
+    {
+        "input": "stay",
+        "output": "stayed"
+    },
+    {
+        "input": "post",
+        "output": "posted"
+    },
+    {
+        "input": "release",
+        "output": "released"
+    },
+    {
+        "input": "clean",
+        "output": "cleaned"
+    },
+    {
+        "input": "help",
+        "output": "helped"
+    },
+    {
+        "input": "write",
+        "output": "wrote"
+    },
+    {
+        "input": "teach",
+        "output": "taught"
+    },
+    {
+        "input": "challenge",
+        "output": "challenged"
+    },
+    {
+        "input": "start",
+        "output": "started"
+    },
+    {
+        "input": "enlarge",
+        "output": "enlarged"
+    },
+    {
+        "input": "launch",
+        "output": "launched"
+    },
+    {
+        "input": "reduce",
+        "output": "reduced"
+    },
+    {
+        "input": "decide",
+        "output": "decided"
+    },
+    {
+        "input": "restore",
+        "output": "restored"
+    },
+    {
+        "input": "initiate",
+        "output": "initiated"
+    },
+    {
+        "input": "clarify",
+        "output": "clarified"
+    },
+    {
+        "input": "report",
+        "output": "reported"
+    },
+    {
+        "input": "order",
+        "output": "ordered"
+    },
+    {
+        "input": "project",
+        "output": "projected"
+    },
+    {
+        "input": "specify",
+        "output": "specified"
+    },
+    {
+        "input": "examine",
+        "output": "examined"
+    },
+    {
+        "input": "lead",
+        "output": "led"
+    },
+    {
+        "input": "run",
+        "output": "ran"
+    },
+    {
+        "input": "kick",
+        "output": "kicked"
+    },
+    {
+        "input": "conclude",
+        "output": "concluded"
+    },
+    {
+        "input": "jump",
+        "output": "jumped"
+    },
+    {
+        "input": "monitor",
+        "output": "monitored"
+    },
+    {
+        "input": "edit",
+        "output": "edited"
+    },
+    {
+        "input": "fight",
+        "output": "fought"
+    },
+    {
+        "input": "aim",
+        "output": "aimed"
+    },
+    {
+        "input": "earn",
+        "output": "earned"
+    },
+    {
+        "input": "hit",
+        "output": "hit"
+    },
+    {
+        "input": "perform",
+        "output": "performed"
+    },
+    {
+        "input": "think",
+        "output": "thought"
+    },
+    {
+        "input": "preserve",
+        "output": "preserved"
+    },
+    {
+        "input": "exceed",
+        "output": "exceeded"
+    },
+    {
+        "input": "hint",
+        "output": "hinted"
+    },
+    {
+        "input": "pursue",
+        "output": "pursued"
+    },
+    {
+        "input": "show",
+        "output": "showed"
+    },
+    {
+        "input": "build",
+        "output": "built"
+    },
+    {
+        "input": "compete",
+        "output": "competed"
+    },
+    {
+        "input": "let",
+        "output": "let"
+    },
+    {
+        "input": "serve",
+        "output": "served"
+    },
+    {
+        "input": "plan",
+        "output": "planned"
+    },
+    {
+        "input": "notice",
+        "output": "noticed"
+    },
+    {
+        "input": "indicate",
+        "output": "indicated"
+    },
+    {
+        "input": "found",
+        "output": "found"
+    },
+    {
+        "input": "encourage",
+        "output": "encouraged"
+    },
+    {
+        "input": "draft",
+        "output": "drafted"
+    },
+    {
+        "input": "trade",
+        "output": "traded"
+    },
+    {
+        "input": "enable",
+        "output": "enabled"
+    },
+    {
+        "input": "guide",
+        "output": "guided"
+    },
+    {
+        "input": "carry",
+        "output": "carried"
+    },
+    {
+        "input": "include",
+        "output": "included"
+    },
+    {
+        "input": "execute",
+        "output": "executed"
+    },
+    {
+        "input": "install",
+        "output": "installed"
+    },
+    {
+        "input": "take",
+        "output": "took"
+    },
+    {
+        "input": "last",
+        "output": "lasted"
+    },
+    {
+        "input": "support",
+        "output": "supported"
+    },
+    {
+        "input": "depend",
+        "output": "depended"
+    },
+    {
+        "input": "process",
+        "output": "processed"
+    },
+    {
+        "input": "manage",
+        "output": "managed"
+    },
+    {
+        "input": "program",
+        "output": "programmed"
+    },
+    {
+        "input": "listen",
+        "output": "listened"
+    },
+    {
+        "input": "occur",
+        "output": "occurred"
+    },
+    {
+        "input": "imply",
+        "output": "implied"
+    },
+    {
+        "input": "validate",
+        "output": "validated"
+    },
+    {
+        "input": "fasten",
+        "output": "fastened"
+    },
+    {
+        "input": "display",
+        "output": "displayed"
+    },
+    {
+        "input": "finish",
+        "output": "finished"
+    },
+    {
+        "input": "fade",
+        "output": "faded"
+    },
+    {
+        "input": "hide",
+        "output": "hid"
+    },
+    {
+        "input": "follow",
+        "output": "followed"
+    },
+    {
+        "input": "insert",
+        "output": "inserted"
+    },
+    {
+        "input": "lose",
+        "output": "lost"
+    },
+    {
+        "input": "destroy",
+        "output": "destroyed"
+    },
+    {
+        "input": "deny",
+        "output": "denied"
+    },
+    {
+        "input": "use",
+        "output": "used"
+    },
+    {
+        "input": "want",
+        "output": "wanted"
+    },
+    {
+        "input": "maintain",
+        "output": "maintained"
+    },
+    {
+        "input": "zoom",
+        "output": "zoomed"
+    },
+    {
+        "input": "remember",
+        "output": "remembered"
+    },
+    {
+        "input": "wait",
+        "output": "waited"
+    },
+    {
+        "input": "instruct",
+        "output": "instructed"
+    },
+    {
+        "input": "keep",
+        "output": "kept"
+    },
+    {
+        "input": "represent",
+        "output": "represented"
+    },
+    {
+        "input": "warn",
+        "output": "warned"
+    },
+    {
+        "input": "require",
+        "output": "required"
+    },
+    {
+        "input": "operate",
+        "output": "operated"
+    },
+    {
+        "input": "discover",
+        "output": "discovered"
+    },
+    {
+        "input": "illustrate",
+        "output": "illustrated"
+    },
+    {
+        "input": "publish",
+        "output": "published"
+    },
+    {
+        "input": "move",
+        "output": "moved"
+    },
+    {
+        "input": "choose",
+        "output": "chose"
+    },
+    {
+        "input": "consider",
+        "output": "considered"
+    },
+    {
+        "input": "join",
+        "output": "joined"
+    },
+    {
+        "input": "ignore",
+        "output": "ignored"
+    },
+    {
+        "input": "overcome",
+        "output": "overcame"
+    },
+    {
+        "input": "produce",
+        "output": "produced"
+    },
+    {
+        "input": "gain",
+        "output": "gained"
+    },
+    {
+        "input": "balance",
+        "output": "balanced"
+    },
+    {
+        "input": "eliminate",
+        "output": "eliminated"
+    },
+    {
+        "input": "prevent",
+        "output": "prevented"
+    },
+    {
+        "input": "view",
+        "output": "viewed"
+    },
+    {
+        "input": "study",
+        "output": "studied"
+    }
+]

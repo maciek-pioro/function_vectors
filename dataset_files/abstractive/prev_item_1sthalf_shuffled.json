@@ -1,0 +1,450 @@
+[
+    {
+        "input": "GG",
+        "output": "FF"
+    },
+    {
+        "input": "bb",
+        "output": "aa"
+    },
+    {
+        "input": "P",
+        "output": "O"
+    },
+    {
+        "input": "7",
+        "output": "6"
+    },
+    {
+        "input": "November",
+        "output": "October"
+    },
+    {
+        "input": "march",
+        "output": "february"
+    },
+    {
+        "input": "WW",
+        "output": "VV"
+    },
+    {
+        "input": "YY",
+        "output": "XX"
+    },
+    {
+        "input": "monday",
+        "output": "sunday"
+    },
+    {
+        "input": "ZZ",
+        "output": "YY"
+    },
+    {
+        "input": "xvi",
+        "output": "xv"
+    },
+    {
+        "input": "OO",
+        "output": "NN"
+    },
+    {
+        "input": "13",
+        "output": "12"
+    },
+    {
+        "input": "CC",
+        "output": "BB"
+    },
+    {
+        "input": "d",
+        "output": "c"
+    },
+    {
+        "input": "H",
+        "output": "G"
+    },
+    {
+        "input": "PP",
+        "output": "OO"
+    },
+    {
+        "input": "vii",
+        "output": "vi"
+    },
+    {
+        "input": "October",
+        "output": "September"
+    },
+    {
+        "input": "twenty",
+        "output": "nineteen"
+    },
+    {
+        "input": "iii",
+        "output": "ii"
+    },
+    {
+        "input": "Q",
+        "output": "P"
+    },
+    {
+        "input": "p",
+        "output": "o"
+    },
+    {
+        "input": "Saturday",
+        "output": "Friday"
+    },
+    {
+        "input": "xiv",
+        "output": "xiii"
+    },
+    {
+        "input": "G",
+        "output": "F"
+    },
+    {
+        "input": "11",
+        "output": "10"
+    },
+    {
+        "input": "NN",
+        "output": "MM"
+    },
+    {
+        "input": "20",
+        "output": "19"
+    },
+    {
+        "input": "v",
+        "output": "u"
+    },
+    {
+        "input": "QQ",
+        "output": "PP"
+    },
+    {
+        "input": "BB",
+        "output": "AA"
+    },
+    {
+        "input": "seventeen",
+        "output": "sixteen"
+    },
+    {
+        "input": "JJ",
+        "output": "II"
+    },
+    {
+        "input": "kk",
+        "output": "jj"
+    },
+    {
+        "input": "14",
+        "output": "13"
+    },
+    {
+        "input": "yy",
+        "output": "xx"
+    },
+    {
+        "input": "december",
+        "output": "november"
+    },
+    {
+        "input": "wednesday",
+        "output": "tuesday"
+    },
+    {
+        "input": "XII",
+        "output": "XI"
+    },
+    {
+        "input": "viii",
+        "output": "vii"
+    },
+    {
+        "input": "EE",
+        "output": "DD"
+    },
+    {
+        "input": "w",
+        "output": "v"
+    },
+    {
+        "input": "LL",
+        "output": "KK"
+    },
+    {
+        "input": "jj",
+        "output": "ii"
+    },
+    {
+        "input": "July",
+        "output": "June"
+    },
+    {
+        "input": "friday",
+        "output": "thursday"
+    },
+    {
+        "input": "rr",
+        "output": "qq"
+    },
+    {
+        "input": "XIX",
+        "output": "XVIII"
+    },
+    {
+        "input": "T",
+        "output": "S"
+    },
+    {
+        "input": "r",
+        "output": "q"
+    },
+    {
+        "input": "ff",
+        "output": "ee"
+    },
+    {
+        "input": "h",
+        "output": "g"
+    },
+    {
+        "input": "II",
+        "output": "I"
+    },
+    {
+        "input": "one",
+        "output": "zero"
+    },
+    {
+        "input": "10",
+        "output": "9"
+    },
+    {
+        "input": "xvii",
+        "output": "xvi"
+    },
+    {
+        "input": "N",
+        "output": "M"
+    },
+    {
+        "input": "17",
+        "output": "16"
+    },
+    {
+        "input": "ii",
+        "output": "i"
+    },
+    {
+        "input": "E",
+        "output": "D"
+    },
+    {
+        "input": "RR",
+        "output": "QQ"
+    },
+    {
+        "input": "xv",
+        "output": "xiv"
+    },
+    {
+        "input": "y",
+        "output": "x"
+    },
+    {
+        "input": "April",
+        "output": "March"
+    },
+    {
+        "input": "qq",
+        "output": "pp"
+    },
+    {
+        "input": "eight",
+        "output": "seven"
+    },
+    {
+        "input": "u",
+        "output": "t"
+    },
+    {
+        "input": "thursday",
+        "output": "wednesday"
+    },
+    {
+        "input": "seven",
+        "output": "six"
+    },
+    {
+        "input": "mm",
+        "output": "ll"
+    },
+    {
+        "input": "january",
+        "output": "december"
+    },
+    {
+        "input": "22",
+        "output": "21"
+    },
+    {
+        "input": "i",
+        "output": "h"
+    },
+    {
+        "input": "VIII",
+        "output": "VII"
+    },
+    {
+        "input": "3",
+        "output": "2"
+    },
+    {
+        "input": "l",
+        "output": "k"
+    },
+    {
+        "input": "26",
+        "output": "25"
+    },
+    {
+        "input": "cc",
+        "output": "bb"
+    },
+    {
+        "input": "sunday",
+        "output": "saturday"
+    },
+    {
+        "input": "W",
+        "output": "V"
+    },
+    {
+        "input": "n",
+        "output": "m"
+    },
+    {
+        "input": "ix",
+        "output": "viii"
+    },
+    {
+        "input": "IX",
+        "output": "VIII"
+    },
+    {
+        "input": "III",
+        "output": "II"
+    },
+    {
+        "input": "pp",
+        "output": "oo"
+    },
+    {
+        "input": "xviii",
+        "output": "xvii"
+    },
+    {
+        "input": "xiii",
+        "output": "xii"
+    },
+    {
+        "input": "october",
+        "output": "september"
+    },
+    {
+        "input": "TT",
+        "output": "SS"
+    },
+    {
+        "input": "m",
+        "output": "l"
+    },
+    {
+        "input": "23",
+        "output": "22"
+    },
+    {
+        "input": "15",
+        "output": "14"
+    },
+    {
+        "input": "XIV",
+        "output": "XIII"
+    },
+    {
+        "input": "o",
+        "output": "n"
+    },
+    {
+        "input": "b",
+        "output": "a"
+    },
+    {
+        "input": "tuesday",
+        "output": "monday"
+    },
+    {
+        "input": "j",
+        "output": "i"
+    },
+    {
+        "input": "Wednesday",
+        "output": "Tuesday"
+    },
+    {
+        "input": "F",
+        "output": "E"
+    },
+    {
+        "input": "24",
+        "output": "23"
+    },
+    {
+        "input": "1",
+        "output": "0"
+    },
+    {
+        "input": "oo",
+        "output": "nn"
+    },
+    {
+        "input": "XX",
+        "output": "WW"
+    },
+    {
+        "input": "six",
+        "output": "five"
+    },
+    {
+        "input": "19",
+        "output": "18"
+    },
+    {
+        "input": "eleven",
+        "output": "ten"
+    },
+    {
+        "input": "c",
+        "output": "b"
+    },
+    {
+        "input": "VI",
+        "output": "V"
+    },
+    {
+        "input": "5",
+        "output": "4"
+    },
+    {
+        "input": "three",
+        "output": "two"
+    },
+    {
+        "input": "June",
+        "output": "May"
+    }
+]

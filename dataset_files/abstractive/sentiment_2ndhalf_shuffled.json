@@ -1,0 +1,2338 @@
+[
+    {
+        "input": "The Komediant is a tale worth catching.",
+        "output": "positive"
+    },
+    {
+        "input": "A non-mystery mystery.",
+        "output": "negative"
+    },
+    {
+        "input": "Journalistically dubious, inept and often lethally dull.",
+        "output": "negative"
+    },
+    {
+        "input": "Richly entertaining and suggestive of any number of metaphorical readings.",
+        "output": "positive"
+    },
+    {
+        "input": "Fluffy and disposible.",
+        "output": "negative"
+    },
+    {
+        "input": "A tasty appetizer that leaves you wanting more.",
+        "output": "positive"
+    },
+    {
+        "input": "Fierce, glaring and unforgettable.",
+        "output": "positive"
+    },
+    {
+        "input": "...silly humbuggery...",
+        "output": "negative"
+    },
+    {
+        "input": "Probably the best case for Christianity since Chesterton and Lewis.",
+        "output": "positive"
+    },
+    {
+        "input": "There's lots of cool stuff packed into ESPN's Ultimate X.",
+        "output": "positive"
+    },
+    {
+        "input": "Drumline ably captures the complicated relationships in a marching band.",
+        "output": "positive"
+    },
+    {
+        "input": "Too infuriatingly quirky and taken with its own style.",
+        "output": "negative"
+    },
+    {
+        "input": "... a gleefully grungy, hilariously wicked black comedy ...",
+        "output": "positive"
+    },
+    {
+        "input": "An average kid-empowerment fantasy with slightly above-average brains.",
+        "output": "positive"
+    },
+    {
+        "input": "The satire is unfocused, while the story goes nowhere.",
+        "output": "negative"
+    },
+    {
+        "input": "Parris' performance is credible and remarkably mature.",
+        "output": "positive"
+    },
+    {
+        "input": "Little more than a well-mounted history lesson.",
+        "output": "negative"
+    },
+    {
+        "input": "This is one of the year's best films.",
+        "output": "positive"
+    },
+    {
+        "input": "It's endlessly inventive, consistently intelligent and sickeningly savage.",
+        "output": "positive"
+    },
+    {
+        "input": "Just another disjointed, fairly predictable psychological thriller.",
+        "output": "negative"
+    },
+    {
+        "input": "A Movie to Forget",
+        "output": "negative"
+    },
+    {
+        "input": "Has the capability of effecting change and inspiring hope.",
+        "output": "positive"
+    },
+    {
+        "input": "A good thriller.",
+        "output": "positive"
+    },
+    {
+        "input": "An awful snooze.",
+        "output": "negative"
+    },
+    {
+        "input": "The mushy finale turns John Q into a movie-of-the-week tearjerker.",
+        "output": "positive"
+    },
+    {
+        "input": "It looks closely, insightfully at fragile, complex relationships.",
+        "output": "positive"
+    },
+    {
+        "input": "Neatly constructed thriller.",
+        "output": "positive"
+    },
+    {
+        "input": "The beautifully choreographed kitchen ballet is simple but absorbing.",
+        "output": "positive"
+    },
+    {
+        "input": "Huppert and Girardot give performances of exceptional honesty.",
+        "output": "positive"
+    },
+    {
+        "input": "Skip the film and buy the Philip Glass soundtrack CD.",
+        "output": "negative"
+    },
+    {
+        "input": "The film can depress you about life itself.",
+        "output": "negative"
+    },
+    {
+        "input": "Sweetly sexy, funny and touching.",
+        "output": "positive"
+    },
+    {
+        "input": "A modestly surprising movie.",
+        "output": "positive"
+    },
+    {
+        "input": "Not so much farcical as sour.",
+        "output": "negative"
+    },
+    {
+        "input": "Something must have been lost in the translation.",
+        "output": "negative"
+    },
+    {
+        "input": "The whole thing plays like a tired Tyco ad.",
+        "output": "negative"
+    },
+    {
+        "input": "This is no ``Waterboy!''",
+        "output": "negative"
+    },
+    {
+        "input": "Wise and deadpan humorous.",
+        "output": "positive"
+    },
+    {
+        "input": "Worth catching for Griffiths' warm and winning central performance.",
+        "output": "positive"
+    },
+    {
+        "input": "...a movie that, quite simply, shouldn't have been made.",
+        "output": "negative"
+    },
+    {
+        "input": "Humor in I Spy is so anemic.",
+        "output": "negative"
+    },
+    {
+        "input": "A dull, inconsistent, dishonest female bonding picture.",
+        "output": "negative"
+    },
+    {
+        "input": "...irritating soul-searching garbage.",
+        "output": "negative"
+    },
+    {
+        "input": "A singularly off-putting romantic comedy.",
+        "output": "negative"
+    },
+    {
+        "input": "director Hoffman, his writer and Kline's agent should serve detention",
+        "output": "negative"
+    },
+    {
+        "input": "A sensitive and astute first feature by Anne-Sophie Birot.",
+        "output": "positive"
+    },
+    {
+        "input": "Entirely suspenseful, extremely well-paced and ultimately... dare I say, entertaining!",
+        "output": "positive"
+    },
+    {
+        "input": "A fun ride.",
+        "output": "positive"
+    },
+    {
+        "input": "Thoroughly enjoyable.",
+        "output": "positive"
+    },
+    {
+        "input": "The film is full of charm.",
+        "output": "positive"
+    },
+    {
+        "input": "Despite all the closed-door hanky-panky, the film is essentially juiceless.",
+        "output": "negative"
+    },
+    {
+        "input": "Boy, has this franchise ever run out of gas.",
+        "output": "negative"
+    },
+    {
+        "input": "An unsuccessful attempt at a movie of ideas.",
+        "output": "negative"
+    },
+    {
+        "input": "``Birthday Girl'' is an actor's movie first and foremost.",
+        "output": "positive"
+    },
+    {
+        "input": "One of the funnier movies in town.",
+        "output": "positive"
+    },
+    {
+        "input": "Dense, exhilarating documentary.",
+        "output": "positive"
+    },
+    {
+        "input": "A flick about our infantilized culture that isn't entirely infantile.",
+        "output": "positive"
+    },
+    {
+        "input": "An entertaining, if somewhat standardized, action movie.",
+        "output": "positive"
+    },
+    {
+        "input": "By turns fanciful, grisly and engagingly quixotic.",
+        "output": "positive"
+    },
+    {
+        "input": "Leaks treacle from every pore.",
+        "output": "negative"
+    },
+    {
+        "input": "A funny, triumphant, and moving documentary.",
+        "output": "positive"
+    },
+    {
+        "input": "A lovably old-school Hollywood confection.",
+        "output": "positive"
+    },
+    {
+        "input": "A marvel of production design.",
+        "output": "positive"
+    },
+    {
+        "input": "It's not original enough.",
+        "output": "negative"
+    },
+    {
+        "input": "A true-blue delight.",
+        "output": "positive"
+    },
+    {
+        "input": "Gets better after Foster leaves that little room.",
+        "output": "positive"
+    },
+    {
+        "input": "At times, it actually hurts to watch.",
+        "output": "negative"
+    },
+    {
+        "input": "A flawed but engrossing thriller.",
+        "output": "positive"
+    },
+    {
+        "input": "It's a sharp movie about otherwise dull subjects.",
+        "output": "positive"
+    },
+    {
+        "input": "An odd, haphazard, and inconsequential romantic comedy.",
+        "output": "negative"
+    },
+    {
+        "input": "Makes 98 minutes feel like three hours.",
+        "output": "negative"
+    },
+    {
+        "input": "As the dominant Christine, Sylvie Testud is icily brilliant.",
+        "output": "positive"
+    },
+    {
+        "input": "The action quickly sinks into by-the-numbers territory.",
+        "output": "negative"
+    },
+    {
+        "input": "Surprisingly insightful",
+        "output": "positive"
+    },
+    {
+        "input": "Murder by Numbers just doesn't add up.",
+        "output": "negative"
+    },
+    {
+        "input": "This strenuously unfunny Showtime deserves the hook.",
+        "output": "negative"
+    },
+    {
+        "input": "The movie is amateurish, but it's a minor treat.",
+        "output": "positive"
+    },
+    {
+        "input": "A truly wonderful tale combined with stunning animation.",
+        "output": "positive"
+    },
+    {
+        "input": "By-the-numbers yarn.",
+        "output": "negative"
+    },
+    {
+        "input": "A brutally dry satire of Middle American numbness.",
+        "output": "negative"
+    },
+    {
+        "input": "finely crafted, finely written, exquisitely performed",
+        "output": "positive"
+    },
+    {
+        "input": "Interesting and thoroughly unfaithful version of Carmen",
+        "output": "positive"
+    },
+    {
+        "input": "A bit too eager to please.",
+        "output": "negative"
+    },
+    {
+        "input": "What makes the movie special is its utter sincerity.",
+        "output": "positive"
+    },
+    {
+        "input": "In terms of execution this movie is careless and unfocused.",
+        "output": "negative"
+    },
+    {
+        "input": "The worst film of the year.",
+        "output": "negative"
+    },
+    {
+        "input": "Constantly touching, surprisingly funny, semi-surrealist exploration of the creative act.",
+        "output": "positive"
+    },
+    {
+        "input": "A feeble Tootsie knockoff.",
+        "output": "negative"
+    },
+    {
+        "input": "Told just proficiently enough to trounce its overly comfortable trappings.",
+        "output": "positive"
+    },
+    {
+        "input": "What a stiflingly unfunny and unoriginal mess this is!",
+        "output": "negative"
+    },
+    {
+        "input": "A sharp satire of desperation and cinematic deception.",
+        "output": "positive"
+    },
+    {
+        "input": "Enormously enjoyable, high-adrenaline documentary.",
+        "output": "positive"
+    },
+    {
+        "input": "It's pretentious in a way that verges on the amateurish.",
+        "output": "negative"
+    },
+    {
+        "input": "The movie is as padded as Allen's jelly belly.",
+        "output": "negative"
+    },
+    {
+        "input": "As plain and pedestrian as catsup--",
+        "output": "negative"
+    },
+    {
+        "input": "Unwieldy contraption.",
+        "output": "negative"
+    },
+    {
+        "input": "The script is smart, not cloying.",
+        "output": "positive"
+    },
+    {
+        "input": "An enjoyable above average summer diversion.",
+        "output": "positive"
+    },
+    {
+        "input": "A tremendous piece of work.",
+        "output": "positive"
+    },
+    {
+        "input": "Certainly not a good movie, but it wasn't horrible either.",
+        "output": "negative"
+    },
+    {
+        "input": "A timid, soggy near miss.",
+        "output": "negative"
+    },
+    {
+        "input": "An unsophisticated sci-fi drama that takes itself all too seriously.",
+        "output": "negative"
+    },
+    {
+        "input": "... a confusing drudgery.",
+        "output": "negative"
+    },
+    {
+        "input": "Terrific casting and solid execution give all three stories life.",
+        "output": "positive"
+    },
+    {
+        "input": "Been there done that.",
+        "output": "negative"
+    },
+    {
+        "input": "It's a satisfying summer blockbuster and worth a look.",
+        "output": "positive"
+    },
+    {
+        "input": "Diaz wears out her welcome in her most charmless performance",
+        "output": "negative"
+    },
+    {
+        "input": "Enriched by a strong and unforced supporting cast.",
+        "output": "positive"
+    },
+    {
+        "input": "plays like some corny television production from a bygone era",
+        "output": "negative"
+    },
+    {
+        "input": "An impenetrable and insufferable ball of pseudo-philosophic twaddle.",
+        "output": "negative"
+    },
+    {
+        "input": "Too much of Nemesis has a tired, talky feel.",
+        "output": "negative"
+    },
+    {
+        "input": "An uplifting, near-masterpiece.",
+        "output": "positive"
+    },
+    {
+        "input": "It's Splash without the jokes.",
+        "output": "negative"
+    },
+    {
+        "input": "A film of ideas and wry comic mayhem.",
+        "output": "positive"
+    },
+    {
+        "input": "Its sheer dynamism is infectious.",
+        "output": "positive"
+    },
+    {
+        "input": "Lightweight but appealing.",
+        "output": "positive"
+    },
+    {
+        "input": "It's unlikely we'll see a better thriller this year.",
+        "output": "positive"
+    },
+    {
+        "input": "The trashy teen-sleaze equivalent of Showgirls.",
+        "output": "negative"
+    },
+    {
+        "input": "A pale Xerox of other, better crime movies.",
+        "output": "negative"
+    },
+    {
+        "input": "It's fun, splashy and entertainingly nasty.",
+        "output": "positive"
+    },
+    {
+        "input": "Muddled, simplistic and more than a little pretentious.",
+        "output": "negative"
+    },
+    {
+        "input": "Never inspires more than an interested detachment.",
+        "output": "negative"
+    },
+    {
+        "input": "Witless, pointless, tasteless and idiotic.",
+        "output": "negative"
+    },
+    {
+        "input": "Like its bizarre heroine, it irrigates our souls.",
+        "output": "positive"
+    },
+    {
+        "input": "It's funny, as the old saying goes, because it's true.",
+        "output": "positive"
+    },
+    {
+        "input": "You can practically hear George Orwell turning over.",
+        "output": "negative"
+    },
+    {
+        "input": "A smart, sassy and exceptionally charming romantic comedy.",
+        "output": "positive"
+    },
+    {
+        "input": "Gives an intriguing twist to the French coming-of-age genre.",
+        "output": "positive"
+    },
+    {
+        "input": "Feels shrill, simple and soapy.",
+        "output": "negative"
+    },
+    {
+        "input": "Even better than the first one!",
+        "output": "positive"
+    },
+    {
+        "input": "The cast is phenomenal, especially the women.",
+        "output": "positive"
+    },
+    {
+        "input": "Hugely accomplished slice of Hitchcockian suspense.",
+        "output": "positive"
+    },
+    {
+        "input": "under-rehearsed and lifeless",
+        "output": "negative"
+    },
+    {
+        "input": "A must see for all sides of the political spectrum",
+        "output": "positive"
+    },
+    {
+        "input": "... better described as a ghost story gone badly awry.",
+        "output": "negative"
+    },
+    {
+        "input": "A lovely film for the holiday season.",
+        "output": "positive"
+    },
+    {
+        "input": "A moving and important film.",
+        "output": "positive"
+    },
+    {
+        "input": "Like Brosnan's performance, Evelyn comes from the heart.",
+        "output": "positive"
+    },
+    {
+        "input": "It's just plain lurid when it isn't downright silly.",
+        "output": "negative"
+    },
+    {
+        "input": "An exhilarating experience.",
+        "output": "positive"
+    },
+    {
+        "input": "more precious than perspicacious",
+        "output": "positive"
+    },
+    {
+        "input": "Consistently clever and suspenseful.",
+        "output": "positive"
+    },
+    {
+        "input": "Get out your pooper-scoopers.",
+        "output": "negative"
+    },
+    {
+        "input": "The verdict: Two bodies and hardly a laugh between them.",
+        "output": "negative"
+    },
+    {
+        "input": "Everything's serious, poetic, earnest and -- sadly -- dull.",
+        "output": "negative"
+    },
+    {
+        "input": "Exceptionally well acted by Diane Lane and Richard Gere.",
+        "output": "positive"
+    },
+    {
+        "input": "In the end, there isn't much to it.",
+        "output": "negative"
+    },
+    {
+        "input": "A perfectly pleasant if slightly pokey comedy.",
+        "output": "positive"
+    },
+    {
+        "input": "Qualities that were once amusing are becoming irritating.",
+        "output": "negative"
+    },
+    {
+        "input": "Maryam is a small film, but it offers large rewards.",
+        "output": "positive"
+    },
+    {
+        "input": "Anemic, pretentious.",
+        "output": "negative"
+    },
+    {
+        "input": "Fulford-Wierzbicki ... deftly captures the wise-beyond-her-years teen.",
+        "output": "positive"
+    },
+    {
+        "input": "Represents the depths to which the girls-behaving-badly film has fallen.",
+        "output": "negative"
+    },
+    {
+        "input": "One funny popcorn flick.",
+        "output": "positive"
+    },
+    {
+        "input": "If you've the patience, there are great rewards here.",
+        "output": "positive"
+    },
+    {
+        "input": "The production design, score and choreography are simply intoxicating.",
+        "output": "positive"
+    },
+    {
+        "input": "Another Best of the Year selection.",
+        "output": "positive"
+    },
+    {
+        "input": "Deadly dull, pointless meditation on losers in a gone-to-seed hotel.",
+        "output": "negative"
+    },
+    {
+        "input": "...stale and uninspired.",
+        "output": "negative"
+    },
+    {
+        "input": "Griffin & Co. manage to be spectacularly outrageous.",
+        "output": "positive"
+    },
+    {
+        "input": "Marvelously entertaining and deliriously joyous documentary.",
+        "output": "positive"
+    },
+    {
+        "input": "Incoherence reigns.",
+        "output": "negative"
+    },
+    {
+        "input": "There's more repetition than creativity throughout the movie.",
+        "output": "negative"
+    },
+    {
+        "input": "Ferrara's best film in years.",
+        "output": "positive"
+    },
+    {
+        "input": "Enjoyably fast-moving, hard-hitting documentary.",
+        "output": "positive"
+    },
+    {
+        "input": "A genuine mind-bender.",
+        "output": "positive"
+    },
+    {
+        "input": "Delivers more than its fair share of saucy hilarity.",
+        "output": "positive"
+    },
+    {
+        "input": "Highly watchable stuff.",
+        "output": "positive"
+    },
+    {
+        "input": "What an embarrassment.",
+        "output": "negative"
+    },
+    {
+        "input": "It'll keep you wide awake and ... very tense.",
+        "output": "positive"
+    },
+    {
+        "input": "Refreshing.",
+        "output": "positive"
+    },
+    {
+        "input": "Too much power, not enough puff.",
+        "output": "negative"
+    },
+    {
+        "input": "Plays like a glossy melodrama that occasionally verges on camp.",
+        "output": "negative"
+    },
+    {
+        "input": "Everything is off.",
+        "output": "negative"
+    },
+    {
+        "input": "A poignant comedy that offers food for thought.",
+        "output": "positive"
+    },
+    {
+        "input": "Parents beware; this is downright movie penance.",
+        "output": "negative"
+    },
+    {
+        "input": "As refreshing as a drink from a woodland stream.",
+        "output": "positive"
+    },
+    {
+        "input": "It's got the brawn, but not the brains.",
+        "output": "negative"
+    },
+    {
+        "input": "TV skit-com material fervently deposited on the big screen.",
+        "output": "negative"
+    },
+    {
+        "input": "Fantastic!",
+        "output": "positive"
+    },
+    {
+        "input": "Predictably soulless techno-tripe.",
+        "output": "negative"
+    },
+    {
+        "input": "A terrifically entertaining specimen of Spielbergian sci-fi.",
+        "output": "positive"
+    },
+    {
+        "input": "A French film with a more down-home flavor.",
+        "output": "positive"
+    },
+    {
+        "input": "It's leaden and predictable, and laughs are lacking.",
+        "output": "negative"
+    },
+    {
+        "input": "By its modest, straight-ahead standards, Undisputed scores a direct hit.",
+        "output": "positive"
+    },
+    {
+        "input": "An awkward hybrid of genres that just doesn't work.",
+        "output": "negative"
+    },
+    {
+        "input": "The all-French cast is marveilleux.",
+        "output": "positive"
+    },
+    {
+        "input": "Harmless fun.",
+        "output": "positive"
+    },
+    {
+        "input": "The rollerball sequences feel sanitised and stagey.",
+        "output": "negative"
+    },
+    {
+        "input": "A rote exercise in both animation and storytelling.",
+        "output": "negative"
+    },
+    {
+        "input": "Nothing happens, and it happens to flat characters.",
+        "output": "negative"
+    },
+    {
+        "input": "An escapist confection that's pure entertainment.",
+        "output": "positive"
+    },
+    {
+        "input": "One of the best inside-show-biz yarns ever.",
+        "output": "positive"
+    },
+    {
+        "input": "Forget the misleading title, what's with the unexplained baboon cameo?",
+        "output": "negative"
+    },
+    {
+        "input": "Formuliac, but fun.",
+        "output": "positive"
+    },
+    {
+        "input": "It's quite diverting nonsense.",
+        "output": "negative"
+    },
+    {
+        "input": "Hip-hop prison thriller of stupefying absurdity.",
+        "output": "negative"
+    },
+    {
+        "input": "Reassuring, retro uplifter.",
+        "output": "positive"
+    },
+    {
+        "input": "There's nothing remotely topical or sexy here.",
+        "output": "negative"
+    },
+    {
+        "input": "Another boorish movie from the I-heard-a-joke- at-a-frat-party school of screenwriting.",
+        "output": "negative"
+    },
+    {
+        "input": "A terrific insider look at the star-making machinery of tinseltown.",
+        "output": "positive"
+    },
+    {
+        "input": "Very well-written and very well-acted.",
+        "output": "positive"
+    },
+    {
+        "input": "Poetic, heartbreaking.",
+        "output": "positive"
+    },
+    {
+        "input": "A tasty masala.",
+        "output": "positive"
+    },
+    {
+        "input": "Family fare.",
+        "output": "positive"
+    },
+    {
+        "input": "Hardly a film that comes along every day.",
+        "output": "positive"
+    },
+    {
+        "input": "Kudos to the most enchanting film of the year.",
+        "output": "positive"
+    },
+    {
+        "input": "Poignant and funny.",
+        "output": "positive"
+    },
+    {
+        "input": "It's stylishly directed with verve...",
+        "output": "positive"
+    },
+    {
+        "input": "A lovely and beautifully photographed romance.",
+        "output": "positive"
+    },
+    {
+        "input": "Gooding offers a desperately ingratiating performance.",
+        "output": "negative"
+    },
+    {
+        "input": "An extraordinary dramatic experience.",
+        "output": "positive"
+    },
+    {
+        "input": "Definitely a crowd-pleaser, but then, so was the Roman Colosseum.",
+        "output": "positive"
+    },
+    {
+        "input": "...hypnotically dull.",
+        "output": "negative"
+    },
+    {
+        "input": "Glazed with a tawdry B-movie scum.",
+        "output": "negative"
+    },
+    {
+        "input": "Debut effort by ``Project Greenlight'' winner is sappy and amateurish.",
+        "output": "negative"
+    },
+    {
+        "input": "Laughably, irredeemably awful.",
+        "output": "negative"
+    },
+    {
+        "input": "More intellectually scary than dramatically involving.",
+        "output": "negative"
+    },
+    {
+        "input": "We want the funk - and this movie's got it.",
+        "output": "positive"
+    },
+    {
+        "input": "It's refreshing to see a romance this smart.",
+        "output": "positive"
+    },
+    {
+        "input": "Awesome work: ineffable, elusive, yet inexplicably powerful",
+        "output": "positive"
+    },
+    {
+        "input": "Elvira fans could hardly ask for more.",
+        "output": "positive"
+    },
+    {
+        "input": "Witty, contemplative, and sublimely beautiful.",
+        "output": "positive"
+    },
+    {
+        "input": "Where the film falters is in its tone.",
+        "output": "negative"
+    },
+    {
+        "input": "Crummy.",
+        "output": "negative"
+    },
+    {
+        "input": "This is a truly, truly bad movie.",
+        "output": "negative"
+    },
+    {
+        "input": "Bouquet gives a performance that is masterly.",
+        "output": "positive"
+    },
+    {
+        "input": "This thing is virtually unwatchable.",
+        "output": "negative"
+    },
+    {
+        "input": "Kitschy, flashy, overlong soap opera.",
+        "output": "negative"
+    },
+    {
+        "input": "A delightful, if minor, pastry of a movie.",
+        "output": "positive"
+    },
+    {
+        "input": "a screenplay more ingeniously constructed than ``Memento''",
+        "output": "positive"
+    },
+    {
+        "input": "Many insightful moments.",
+        "output": "positive"
+    },
+    {
+        "input": "A bad movie that happened to good actors.",
+        "output": "negative"
+    },
+    {
+        "input": "... very funny, very enjoyable ...",
+        "output": "positive"
+    },
+    {
+        "input": "Utter mush... conceited pap.",
+        "output": "negative"
+    },
+    {
+        "input": "A dull, dumb and derivative horror film.",
+        "output": "negative"
+    },
+    {
+        "input": "What a dumb, fun, curiously adolescent movie this is.",
+        "output": "positive"
+    },
+    {
+        "input": "The entire movie is in need of a scented bath.",
+        "output": "negative"
+    },
+    {
+        "input": "Consummate actor Barry has done excellent work here.",
+        "output": "positive"
+    },
+    {
+        "input": "Initially gripping, eventually cloying POW drama.",
+        "output": "positive"
+    },
+    {
+        "input": "Wow, so who knew Charles Dickens could be so light-hearted?",
+        "output": "positive"
+    },
+    {
+        "input": "Allen's underestimated charm delivers more goodies than lumps of coal.",
+        "output": "positive"
+    },
+    {
+        "input": "I don't think this movie loves women at all.",
+        "output": "negative"
+    },
+    {
+        "input": "The movie is so thoughtlessly assembled.",
+        "output": "positive"
+    },
+    {
+        "input": "Staggeringly dreadful romance.",
+        "output": "negative"
+    },
+    {
+        "input": "Shallow.",
+        "output": "negative"
+    },
+    {
+        "input": "A captivating and intimate study about dying and loving...",
+        "output": "positive"
+    },
+    {
+        "input": "It is bad, but certainly not without merit as entertainment.",
+        "output": "negative"
+    },
+    {
+        "input": "It's depressing to see how far Herzog has fallen.",
+        "output": "negative"
+    },
+    {
+        "input": "The closest thing to the experience of space travel",
+        "output": "positive"
+    },
+    {
+        "input": "The movie is a mess from start to finish.",
+        "output": "negative"
+    },
+    {
+        "input": "The formula is familiar but enjoyable.",
+        "output": "positive"
+    },
+    {
+        "input": "Satisfyingly scarifying, fresh and old-fashioned at the same time.",
+        "output": "positive"
+    },
+    {
+        "input": "Interminably bleak, to say nothing of boring.",
+        "output": "negative"
+    },
+    {
+        "input": "What begins brightly gets bogged down over 140 minutes.",
+        "output": "negative"
+    },
+    {
+        "input": "Video games are more involving than this mess.",
+        "output": "negative"
+    },
+    {
+        "input": "An Asian neo-realist treasure.",
+        "output": "positive"
+    },
+    {
+        "input": "A bland animated sequel that hardly seems worth the effort.",
+        "output": "negative"
+    },
+    {
+        "input": "An elegant and sly deadpan comedy.",
+        "output": "positive"
+    },
+    {
+        "input": "Believability wasn't one of the film's virtues.",
+        "output": "negative"
+    },
+    {
+        "input": "An emotionally strong and politically potent piece of cinema.",
+        "output": "positive"
+    },
+    {
+        "input": "It's never dull and always looks good.",
+        "output": "positive"
+    },
+    {
+        "input": "This may be Burns's strongest film since The Brothers McMullen.",
+        "output": "positive"
+    },
+    {
+        "input": "Fast-paced and wonderfully edited, the film is extremely thorough.",
+        "output": "positive"
+    },
+    {
+        "input": "A riveting documentary.",
+        "output": "positive"
+    },
+    {
+        "input": "Disjointed parody.",
+        "output": "negative"
+    },
+    {
+        "input": "A tone poem of transgression.",
+        "output": "positive"
+    },
+    {
+        "input": "A lot smarter than your average Bond.",
+        "output": "positive"
+    },
+    {
+        "input": "A chiller resolutely without chills.",
+        "output": "negative"
+    },
+    {
+        "input": "Death might be a release.",
+        "output": "negative"
+    },
+    {
+        "input": "Final verdict: You've seen it all before.",
+        "output": "negative"
+    },
+    {
+        "input": "A markedly inactive film, City is conversational bordering on confessional.",
+        "output": "negative"
+    },
+    {
+        "input": "It's weird, wonderful, and not necessarily for kids.",
+        "output": "positive"
+    },
+    {
+        "input": "Michel Piccoli's moving performance is this films reason for being.",
+        "output": "positive"
+    },
+    {
+        "input": "The film is a verbal duel between two gifted performers.",
+        "output": "positive"
+    },
+    {
+        "input": "A forceful drama of an alienated executive who re-invents himself.",
+        "output": "positive"
+    },
+    {
+        "input": "I simply can't recommend it enough.",
+        "output": "positive"
+    },
+    {
+        "input": "Imagine Susan Sontag falling in love with Howard Stern.",
+        "output": "negative"
+    },
+    {
+        "input": "An average B-movie with no aspirations to be anything more.",
+        "output": "negative"
+    },
+    {
+        "input": "If only it were, well, funnier.",
+        "output": "negative"
+    },
+    {
+        "input": "Russian Ark is a new treasure of the Hermitage.",
+        "output": "positive"
+    },
+    {
+        "input": "Bring on the sequel.",
+        "output": "positive"
+    },
+    {
+        "input": "A big fat pain.",
+        "output": "negative"
+    },
+    {
+        "input": "Inventive, fun, intoxicatingly sexy, violent, self-indulgent and maddening.",
+        "output": "positive"
+    },
+    {
+        "input": "...a true delight.",
+        "output": "positive"
+    },
+    {
+        "input": "Undoubtedly the scariest movie ever made about tattoos.",
+        "output": "positive"
+    },
+    {
+        "input": "K-19: The Widowmaker is a great yarn.",
+        "output": "positive"
+    },
+    {
+        "input": "An awkwardly contrived exercise in magic realism.",
+        "output": "negative"
+    },
+    {
+        "input": "Earnest and heartfelt but undernourished and plodding.",
+        "output": "positive"
+    },
+    {
+        "input": "Press the delete key.",
+        "output": "negative"
+    },
+    {
+        "input": "By turns very dark and very funny.",
+        "output": "positive"
+    },
+    {
+        "input": "Illiterate, often inert sci-fi action thriller.",
+        "output": "negative"
+    },
+    {
+        "input": "A well-put-together piece of urban satire.",
+        "output": "positive"
+    },
+    {
+        "input": "A wildly entertaining scan of Evans' career.",
+        "output": "positive"
+    },
+    {
+        "input": "A film of quiet power.",
+        "output": "positive"
+    },
+    {
+        "input": "Works as pretty contagious fun.",
+        "output": "positive"
+    },
+    {
+        "input": "A stirring road movie.",
+        "output": "positive"
+    },
+    {
+        "input": "Worth seeing just for Weaver and LaPaglia.",
+        "output": "positive"
+    },
+    {
+        "input": "Simplistic, silly and tedious.",
+        "output": "negative"
+    },
+    {
+        "input": "A superlative B movie -- funny, sexy, and rousing.",
+        "output": "positive"
+    },
+    {
+        "input": "Perhaps the best sports movie I've ever seen.",
+        "output": "positive"
+    },
+    {
+        "input": "A humorless journey into a philosophical void.",
+        "output": "negative"
+    },
+    {
+        "input": "Tends to plod.",
+        "output": "negative"
+    },
+    {
+        "input": "Its one-sidedness ... flirts with propaganda.",
+        "output": "negative"
+    },
+    {
+        "input": "An amused indictment of Jaglom's own profession.",
+        "output": "positive"
+    },
+    {
+        "input": "None of Birthday Girl's calculated events take us by surprise...",
+        "output": "negative"
+    },
+    {
+        "input": "Neither revelatory nor truly edgy--merely crassly flamboyant and comedically labored.",
+        "output": "negative"
+    },
+    {
+        "input": "Bad and baffling from the get-go.",
+        "output": "negative"
+    },
+    {
+        "input": "Pretty good little movie.",
+        "output": "positive"
+    },
+    {
+        "input": "A modest masterpiece.",
+        "output": "positive"
+    },
+    {
+        "input": "A little better than Sorcerer's Stone.",
+        "output": "positive"
+    },
+    {
+        "input": "Intriguing and downright intoxicating.",
+        "output": "positive"
+    },
+    {
+        "input": "Stale, futile scenario.",
+        "output": "negative"
+    },
+    {
+        "input": "A depraved, incoherent, instantly disposable piece of hackery.",
+        "output": "negative"
+    },
+    {
+        "input": "There's a reason why halftime is only fifteen minutes long.",
+        "output": "negative"
+    },
+    {
+        "input": "Don't even bother to rent this on video.",
+        "output": "negative"
+    },
+    {
+        "input": "Well-meant but unoriginal.",
+        "output": "negative"
+    },
+    {
+        "input": "Ryan Gosling ... is at 22 a powerful young actor.",
+        "output": "positive"
+    },
+    {
+        "input": "It's super- violent, super-serious and super-stupid.",
+        "output": "negative"
+    },
+    {
+        "input": "Banal and predictable.",
+        "output": "negative"
+    },
+    {
+        "input": "Dramatically lackluster.",
+        "output": "negative"
+    },
+    {
+        "input": "Intelligent and moving.",
+        "output": "positive"
+    },
+    {
+        "input": "Eight Legged Freaks falls flat as a spoof.",
+        "output": "negative"
+    },
+    {
+        "input": "an original and highly cerebral examination of the psychopathic mind",
+        "output": "positive"
+    },
+    {
+        "input": "Nearly every attempt at humor here is DOA.",
+        "output": "negative"
+    },
+    {
+        "input": "Dreary tale of middle-class angst",
+        "output": "negative"
+    },
+    {
+        "input": "If you like peace, you'll like Promises.",
+        "output": "positive"
+    },
+    {
+        "input": "A cultural wildcard experience: wacky, different, unusual, even nutty.",
+        "output": "positive"
+    },
+    {
+        "input": "It challenges, this nervy oddity, like modern art should.",
+        "output": "positive"
+    },
+    {
+        "input": "A surprisingly sweet and gentle comedy.",
+        "output": "positive"
+    },
+    {
+        "input": "An inconsequential, barely there bit of piffle.",
+        "output": "negative"
+    },
+    {
+        "input": "Familiar but utterly delightful.",
+        "output": "positive"
+    },
+    {
+        "input": "This is rote drivel aimed at Mom and Dad's wallet.",
+        "output": "negative"
+    },
+    {
+        "input": "The performances are remarkable.",
+        "output": "positive"
+    },
+    {
+        "input": "A prolonged extrusion of psychopathic pulp.",
+        "output": "negative"
+    },
+    {
+        "input": "A thought-provoking picture.",
+        "output": "positive"
+    },
+    {
+        "input": "A dark, quirky road movie that constantly defies expectation.",
+        "output": "positive"
+    },
+    {
+        "input": "A refreshingly realistic, affectation-free coming-of-age tale.",
+        "output": "positive"
+    },
+    {
+        "input": "The movie's blatant derivativeness is one reason it's so lackluster.",
+        "output": "negative"
+    },
+    {
+        "input": "It's funny, touching, dramatically forceful, and beautifully shot.",
+        "output": "positive"
+    },
+    {
+        "input": "Insufferably naive.",
+        "output": "negative"
+    },
+    {
+        "input": "A noble failure.",
+        "output": "negative"
+    },
+    {
+        "input": "A compelling film.",
+        "output": "positive"
+    },
+    {
+        "input": "Philosophically, intellectually and logistically a mess.",
+        "output": "negative"
+    },
+    {
+        "input": "Snipes is both a snore and utter tripe.",
+        "output": "negative"
+    },
+    {
+        "input": "Tells a fascinating, compelling story.",
+        "output": "positive"
+    },
+    {
+        "input": "Allen's funniest and most likeable movie in years.",
+        "output": "positive"
+    },
+    {
+        "input": "It is messy, uncouth, incomprehensible, vicious and absurd.",
+        "output": "negative"
+    },
+    {
+        "input": "The entire cast is extraordinarily good.",
+        "output": "positive"
+    },
+    {
+        "input": "Funny and also heartwarming without stooping to gooeyness.",
+        "output": "positive"
+    },
+    {
+        "input": "Too bland and fustily tasteful to be truly prurient.",
+        "output": "negative"
+    },
+    {
+        "input": "A cockeyed shot all the way.",
+        "output": "negative"
+    },
+    {
+        "input": "Sensual, funny and, in the end, very touching.",
+        "output": "positive"
+    },
+    {
+        "input": "These are textbook lives of quiet desperation.",
+        "output": "negative"
+    },
+    {
+        "input": "Smarter than its commercials make it seem.",
+        "output": "positive"
+    },
+    {
+        "input": "Lurid and less than lucid work.",
+        "output": "negative"
+    },
+    {
+        "input": "Well-acted, well-directed and, for all its moodiness, not too pretentious.",
+        "output": "positive"
+    },
+    {
+        "input": "He's the scariest guy you'll see all summer.",
+        "output": "positive"
+    },
+    {
+        "input": "All in all, a great party.",
+        "output": "positive"
+    },
+    {
+        "input": "There's back-stabbing, inter-racial desire and, most importantly, singing and dancing.",
+        "output": "positive"
+    },
+    {
+        "input": "A wild ride of a movie that keeps throwing fastballs.",
+        "output": "positive"
+    },
+    {
+        "input": "Intimate and panoramic.",
+        "output": "positive"
+    },
+    {
+        "input": "Includes too much obvious padding.",
+        "output": "negative"
+    },
+    {
+        "input": "... manages to deliver a fair bit of vampire fun.",
+        "output": "positive"
+    },
+    {
+        "input": "Very stupid and annoying.",
+        "output": "negative"
+    },
+    {
+        "input": "Hard to resist.",
+        "output": "positive"
+    },
+    {
+        "input": "A little weak -- and it isn't that funny.",
+        "output": "negative"
+    },
+    {
+        "input": "Nothing about this movie works.",
+        "output": "negative"
+    },
+    {
+        "input": "...the story is far-flung, illogical, and plain stupid.",
+        "output": "negative"
+    },
+    {
+        "input": "The Pianist is Polanski's best film.",
+        "output": "positive"
+    },
+    {
+        "input": "A selection of scenes in search of a movie.",
+        "output": "negative"
+    },
+    {
+        "input": "At once disarmingly straightforward and strikingly devious.",
+        "output": "positive"
+    },
+    {
+        "input": "A witty, whimsical feature debut.",
+        "output": "positive"
+    },
+    {
+        "input": "Deserving of its critical backlash and more.",
+        "output": "negative"
+    },
+    {
+        "input": "Plays like the old disease-of-the-week small-screen melodramas.",
+        "output": "negative"
+    },
+    {
+        "input": "Narratively, Trouble Every Day is a plodding mess.",
+        "output": "negative"
+    },
+    {
+        "input": "One of the greatest films I've ever seen.",
+        "output": "positive"
+    },
+    {
+        "input": "Overwrought, melodramatic bodice-ripper.",
+        "output": "negative"
+    },
+    {
+        "input": "Black-and-white and unrealistic.",
+        "output": "negative"
+    },
+    {
+        "input": "Kinnear's performance is a career-defining revelation.",
+        "output": "positive"
+    },
+    {
+        "input": "An awfully good, achingly human picture.",
+        "output": "positive"
+    },
+    {
+        "input": "The entire movie establishes a wonderfully creepy mood.",
+        "output": "positive"
+    },
+    {
+        "input": "Hopelessly inane, humorless and under-inspired.",
+        "output": "negative"
+    },
+    {
+        "input": "Friday After Next is a lot more bluster than bite.",
+        "output": "negative"
+    },
+    {
+        "input": "A classy, sprightly spin on film.",
+        "output": "positive"
+    },
+    {
+        "input": "Romantic, riveting and handsomely animated.",
+        "output": "positive"
+    },
+    {
+        "input": "Everything about The Quiet American is good, except its timing.",
+        "output": "positive"
+    },
+    {
+        "input": "Even the digressions are funny.",
+        "output": "positive"
+    },
+    {
+        "input": "Its initial excitement settles into a warmed over pastiche.",
+        "output": "negative"
+    },
+    {
+        "input": "Chai's structure and pacing are disconcertingly slack.",
+        "output": "negative"
+    },
+    {
+        "input": "Resembles a soft porn Brian De Palma pastiche.",
+        "output": "negative"
+    },
+    {
+        "input": "As saccharine as it is disposable.",
+        "output": "negative"
+    },
+    {
+        "input": "This is a superior horror flick.",
+        "output": "positive"
+    },
+    {
+        "input": "Essentially a collection of bits -- and they're all naughty.",
+        "output": "positive"
+    },
+    {
+        "input": "A solid, psychological action film from Hong Kong.",
+        "output": "positive"
+    },
+    {
+        "input": "Assayas' ambitious, sometimes beautiful adaptation of Jacques Chardonne's novel.",
+        "output": "positive"
+    },
+    {
+        "input": "...contains very few laughs and even less surprises.",
+        "output": "negative"
+    },
+    {
+        "input": "A pretty decent kid-pleasing, tolerable-to-adults lark of a movie.",
+        "output": "positive"
+    },
+    {
+        "input": "Thought-provoking and stylish, if also somewhat hermetic.",
+        "output": "positive"
+    },
+    {
+        "input": "Woody, what happened?",
+        "output": "negative"
+    },
+    {
+        "input": "A great companion piece to other Napoleon films.",
+        "output": "positive"
+    },
+    {
+        "input": "Kapur weighs down the tale with bogus profundities.",
+        "output": "negative"
+    },
+    {
+        "input": "Norton is magnetic as Graham.",
+        "output": "positive"
+    },
+    {
+        "input": "The film oozes craft.",
+        "output": "positive"
+    },
+    {
+        "input": "A cutesy romantic tale with a twist.",
+        "output": "positive"
+    },
+    {
+        "input": "Another entertaining romp from Robert Rodriguez.",
+        "output": "positive"
+    },
+    {
+        "input": "A chilling movie without oppressive gore.",
+        "output": "positive"
+    },
+    {
+        "input": "Bluto Blutarsky, we miss you.",
+        "output": "positive"
+    },
+    {
+        "input": "Assured, glossy and shot through with brittle desperation.",
+        "output": "positive"
+    },
+    {
+        "input": "Two badly interlocked stories drowned by all too clever complexity.",
+        "output": "negative"
+    },
+    {
+        "input": "...really horrible drek.",
+        "output": "negative"
+    },
+    {
+        "input": "All mood and no movie.",
+        "output": "negative"
+    },
+    {
+        "input": "A relative letdown.",
+        "output": "negative"
+    },
+    {
+        "input": "A full-frontal attack on audience patience.",
+        "output": "negative"
+    },
+    {
+        "input": "A deftly entertaining film, smartly played and smartly directed.",
+        "output": "positive"
+    },
+    {
+        "input": "...an interesting slice of history.",
+        "output": "positive"
+    },
+    {
+        "input": "classic cinema served up with heart and humor",
+        "output": "positive"
+    },
+    {
+        "input": "A particularly joyless, and exceedingly dull, period coming-of-age tale.",
+        "output": "negative"
+    },
+    {
+        "input": "Impostor is a step down for director Gary Fleder.",
+        "output": "negative"
+    },
+    {
+        "input": "Poignant Japanese epic about adolescent anomie and heartbreak.",
+        "output": "positive"
+    },
+    {
+        "input": "Suffers from all the excesses of the genre.",
+        "output": "negative"
+    },
+    {
+        "input": "Tense, terrific, sweaty-palmed fun.",
+        "output": "positive"
+    },
+    {
+        "input": "A low-rent retread of the Alien pictures.",
+        "output": "negative"
+    },
+    {
+        "input": "I've never bought from telemarketers, but I bought this movie.",
+        "output": "positive"
+    },
+    {
+        "input": "A fairly harmless but ultimately lifeless feature-length afterschool special.",
+        "output": "negative"
+    },
+    {
+        "input": "Invigorating, surreal, and resonant with a rainbow of emotion.",
+        "output": "positive"
+    },
+    {
+        "input": "Strange it is, but delightfully so.",
+        "output": "positive"
+    },
+    {
+        "input": "...``Bowling for Columbine'' remains a disquieting and thought-provoking film...",
+        "output": "positive"
+    },
+    {
+        "input": "unpretentious, charming, quirky, original",
+        "output": "positive"
+    },
+    {
+        "input": "An entertaining, if ultimately minor, thriller.",
+        "output": "positive"
+    },
+    {
+        "input": "Watching these eccentrics is both inspiring and pure joy.",
+        "output": "positive"
+    },
+    {
+        "input": "A bodice-ripper for intellectuals.",
+        "output": "positive"
+    },
+    {
+        "input": "A moving essay about the specter of death, especially suicide.",
+        "output": "positive"
+    },
+    {
+        "input": "The code talkers deserved better than a hollow tribute.",
+        "output": "negative"
+    },
+    {
+        "input": "...standard guns versus martial arts cliche with little new added.",
+        "output": "positive"
+    },
+    {
+        "input": "The IMAX screen enhances the personal touch of manual animation.",
+        "output": "positive"
+    },
+    {
+        "input": "Terminally brain dead production.",
+        "output": "negative"
+    },
+    {
+        "input": "Too daft by half ... but supremely good natured.",
+        "output": "positive"
+    },
+    {
+        "input": "The satire is just too easy to be genuinely satisfying.",
+        "output": "negative"
+    },
+    {
+        "input": "I found it slow, predictable and not very amusing.",
+        "output": "negative"
+    },
+    {
+        "input": "Really quite funny.",
+        "output": "positive"
+    },
+    {
+        "input": "A tour de force of modern cinema.",
+        "output": "positive"
+    },
+    {
+        "input": "Top-notch action powers this romantic drama.",
+        "output": "positive"
+    },
+    {
+        "input": "A finely tuned mood piece, a model of menacing atmosphere.",
+        "output": "positive"
+    },
+    {
+        "input": "A cleverly crafted but ultimately hollow mockumentary.",
+        "output": "negative"
+    },
+    {
+        "input": "Mediocre fable from Burkina Faso.",
+        "output": "negative"
+    },
+    {
+        "input": "A thriller without a lot of thrills.",
+        "output": "negative"
+    },
+    {
+        "input": "Remarkable for its intelligence and intensity.",
+        "output": "positive"
+    },
+    {
+        "input": "The jokes are flat, and the action looks fake.",
+        "output": "negative"
+    },
+    {
+        "input": "It's sweet, funny, charming, and completely delightful.",
+        "output": "positive"
+    },
+    {
+        "input": "Another useless recycling of a brutal mid-'70s American sports movie.",
+        "output": "negative"
+    },
+    {
+        "input": "A backstage must-see for true fans of comedy.",
+        "output": "positive"
+    },
+    {
+        "input": "Too slick and manufactured to claim street credibility.",
+        "output": "negative"
+    },
+    {
+        "input": "Priggish, lethargically paced parable of renewal.",
+        "output": "negative"
+    },
+    {
+        "input": "I'd rather watch a rerun of The Powerpuff Girls",
+        "output": "negative"
+    },
+    {
+        "input": "The problem with all of this: It's not really funny.",
+        "output": "negative"
+    },
+    {
+        "input": "overburdened with complicated plotting and banal dialogue",
+        "output": "negative"
+    },
+    {
+        "input": "Tedious Norwegian offering which somehow snagged an Oscar nomination.",
+        "output": "negative"
+    },
+    {
+        "input": "We've liked Klein's other work but Rollerball left us cold.",
+        "output": "negative"
+    },
+    {
+        "input": "Highly engaging.",
+        "output": "positive"
+    },
+    {
+        "input": "It's the funniest American comedy since Graffiti Bridge.",
+        "output": "positive"
+    },
+    {
+        "input": "How this one escaped the Lifetime network I'll never know.",
+        "output": "negative"
+    },
+    {
+        "input": "A big, loud, bang-the-drum bore.",
+        "output": "negative"
+    },
+    {
+        "input": "Often hilarious.",
+        "output": "positive"
+    },
+    {
+        "input": "...a guiltless film for nice evening out.",
+        "output": "positive"
+    },
+    {
+        "input": "A thoroughly engaging, surprisingly touching British comedy.",
+        "output": "positive"
+    },
+    {
+        "input": "Intriguing and stylish.",
+        "output": "positive"
+    },
+    {
+        "input": "The Pool drowned me in boredom.",
+        "output": "negative"
+    },
+    {
+        "input": "Strange and beautiful film.",
+        "output": "positive"
+    },
+    {
+        "input": "Compellingly watchable.",
+        "output": "positive"
+    },
+    {
+        "input": "The story has little wit and no surprises.",
+        "output": "negative"
+    },
+    {
+        "input": "A loud, brash and mainly unfunny high school comedy.",
+        "output": "negative"
+    },
+    {
+        "input": "Aggravating and tedious.",
+        "output": "negative"
+    },
+    {
+        "input": "A comedy that is warm, inviting, and surprising.",
+        "output": "positive"
+    },
+    {
+        "input": "About as big a crowdpleaser as they possibly come.",
+        "output": "positive"
+    },
+    {
+        "input": "Rarely has sex on screen been so aggressively anti-erotic.",
+        "output": "negative"
+    },
+    {
+        "input": "A portrait of hell so shattering it's impossible to shake.",
+        "output": "positive"
+    },
+    {
+        "input": "Storytelling feels slight.",
+        "output": "negative"
+    },
+    {
+        "input": "This cloying, voices-from-the-other-side story is hell.",
+        "output": "negative"
+    },
+    {
+        "input": "Bland but harmless.",
+        "output": "negative"
+    },
+    {
+        "input": "I liked this film a lot...",
+        "output": "positive"
+    },
+    {
+        "input": "A brisk, reverent, and subtly different sequel.",
+        "output": "positive"
+    },
+    {
+        "input": "A well-done film of a self-reflexive, philosophical nature.",
+        "output": "positive"
+    },
+    {
+        "input": "Oddly compelling.",
+        "output": "positive"
+    },
+    {
+        "input": "The best part about ``Gangs'' was Daniel Day-Lewis.",
+        "output": "positive"
+    },
+    {
+        "input": "It's a rare window on an artistic collaboration.",
+        "output": "positive"
+    },
+    {
+        "input": "There's not a comedic moment in this romantic comedy.",
+        "output": "negative"
+    },
+    {
+        "input": "A real winner -- smart, funny, subtle, and resonant.",
+        "output": "positive"
+    },
+    {
+        "input": "A true pleasure.",
+        "output": "positive"
+    },
+    {
+        "input": "...too sappy for its own good.",
+        "output": "negative"
+    },
+    {
+        "input": "A party-hearty teen flick that scalds like acid.",
+        "output": "negative"
+    },
+    {
+        "input": "An unexpectedly sweet story of sisterhood.",
+        "output": "positive"
+    },
+    {
+        "input": "A sentimental mess that never rings true.",
+        "output": "negative"
+    },
+    {
+        "input": "Seriously, rent the Disney version.",
+        "output": "negative"
+    },
+    {
+        "input": "Chalk it up as the worst kind of hubristic folly.",
+        "output": "negative"
+    },
+    {
+        "input": "Fairly run-of-the-mill.",
+        "output": "negative"
+    },
+    {
+        "input": "Brisk hack job.",
+        "output": "negative"
+    },
+    {
+        "input": "Your children will be occupied for 72 minutes.",
+        "output": "positive"
+    },
+    {
+        "input": "Provides a very moving and revelatory footnote to the Holocaust.",
+        "output": "positive"
+    },
+    {
+        "input": "An enjoyable, if occasionally flawed, experiment.",
+        "output": "positive"
+    },
+    {
+        "input": "Two-bit potboiler.",
+        "output": "negative"
+    },
+    {
+        "input": "A domestic melodrama with weak dialogue and biopic cliches.",
+        "output": "negative"
+    },
+    {
+        "input": "Rarely does such high-profile talent serve such literate material.",
+        "output": "positive"
+    },
+    {
+        "input": "I haven't seen such self-amused trash since Freddy Got Fingered.",
+        "output": "negative"
+    },
+    {
+        "input": "...quite good at providing some good old fashioned spooks.",
+        "output": "positive"
+    },
+    {
+        "input": "The film proves unrelentingly grim -- and equally engrossing.",
+        "output": "positive"
+    },
+    {
+        "input": "Compulsively watchable, no matter how degraded things get.",
+        "output": "positive"
+    },
+    {
+        "input": "A well-executed spy-thriller.",
+        "output": "positive"
+    },
+    {
+        "input": "By turns pretentious, fascinating, ludicrous, provocative and vainglorious.",
+        "output": "positive"
+    },
+    {
+        "input": "Oscar caliber cast doesn't live up to material",
+        "output": "negative"
+    },
+    {
+        "input": "A very capable nailbiter.",
+        "output": "positive"
+    },
+    {
+        "input": "Fluffy neo-noir hiding behind cutesy film references.",
+        "output": "negative"
+    },
+    {
+        "input": "The premise of Jason X is silly but strangely believable.",
+        "output": "positive"
+    },
+    {
+        "input": "Well-made but mush-hearted.",
+        "output": "positive"
+    },
+    {
+        "input": "There is greatness here.",
+        "output": "positive"
+    },
+    {
+        "input": "A smart little indie.",
+        "output": "positive"
+    },
+    {
+        "input": "Piccoli gives a superb performance full of deep feeling.",
+        "output": "positive"
+    },
+    {
+        "input": "These characters become wearisome.",
+        "output": "negative"
+    },
+    {
+        "input": "A reality-snubbing hodgepodge.",
+        "output": "negative"
+    },
+    {
+        "input": "A smart, compelling drama.",
+        "output": "positive"
+    },
+    {
+        "input": "Marshall puts a suspenseful spin on standard horror flick formula.",
+        "output": "positive"
+    },
+    {
+        "input": "The laughs are as rare as snake foo yung.",
+        "output": "negative"
+    },
+    {
+        "input": "Below is well below expectations.",
+        "output": "negative"
+    },
+    {
+        "input": "As it turns out, you can go home again.",
+        "output": "positive"
+    },
+    {
+        "input": "Generates an enormous feeling of empathy for its characters.",
+        "output": "positive"
+    },
+    {
+        "input": "A weird and wonderful comedy.",
+        "output": "positive"
+    },
+    {
+        "input": "Gangster No. 1 is solid, satisfying fare for adults.",
+        "output": "positive"
+    },
+    {
+        "input": "A heartening tale of small victories and enduring hope.",
+        "output": "positive"
+    },
+    {
+        "input": "Both damning and damned compelling.",
+        "output": "positive"
+    },
+    {
+        "input": "The writing is clever and the cast is appealing.",
+        "output": "positive"
+    },
+    {
+        "input": "This comic gem is as delightful as it is derivative.",
+        "output": "positive"
+    },
+    {
+        "input": "A processed comedy chop suey.",
+        "output": "negative"
+    },
+    {
+        "input": "Manages to be both hugely entertaining and uplifting.",
+        "output": "positive"
+    },
+    {
+        "input": "The cumulative effect of the movie is repulsive and depressing.",
+        "output": "negative"
+    },
+    {
+        "input": "An alternately fascinating and frustrating documentary.",
+        "output": "positive"
+    },
+    {
+        "input": "A high-minded snoozer.",
+        "output": "negative"
+    },
+    {
+        "input": "Without Shakespeare's eloquent language, the update is dreary and sluggish.",
+        "output": "negative"
+    },
+    {
+        "input": "Manages to be wholesome and subversive at the same time.",
+        "output": "positive"
+    },
+    {
+        "input": "A surprisingly funny movie.",
+        "output": "positive"
+    },
+    {
+        "input": "A winning and wildly fascinating work.",
+        "output": "positive"
+    },
+    {
+        "input": "Strange, funny, twisted, brilliant and macabre.",
+        "output": "positive"
+    },
+    {
+        "input": "Shyamalan should stop trying to please his mom.",
+        "output": "negative"
+    },
+    {
+        "input": "Technically and artistically inept.",
+        "output": "negative"
+    },
+    {
+        "input": "Duvall is strong as always.",
+        "output": "positive"
+    },
+    {
+        "input": "A movie of riveting power and sadness.",
+        "output": "positive"
+    },
+    {
+        "input": "The comedy is nonexistent.",
+        "output": "negative"
+    },
+    {
+        "input": "Cold, Sterile And Lacking Any Color Or Warmth.",
+        "output": "negative"
+    },
+    {
+        "input": "Much of the cast is stiff or just plain bad.",
+        "output": "negative"
+    },
+    {
+        "input": "It's all surface psychodramatics.",
+        "output": "negative"
+    },
+    {
+        "input": "Hollywood Ending is not show-stoppingly hilarious, but scathingly witty nonetheless.",
+        "output": "positive"
+    },
+    {
+        "input": "What makes it worth watching is Quaid's performance.",
+        "output": "positive"
+    },
+    {
+        "input": "Catch it... if you can!",
+        "output": "positive"
+    },
+    {
+        "input": "This is a finely written, superbly acted offbeat thriller.",
+        "output": "positive"
+    },
+    {
+        "input": "If only Merchant paid more attention the story.",
+        "output": "negative"
+    },
+    {
+        "input": "Third time's the charm...yeah, baby!",
+        "output": "positive"
+    },
+    {
+        "input": "Charming and witty, it's also somewhat clumsy.",
+        "output": "positive"
+    },
+    {
+        "input": "Cold, pretentious, thoroughly dislikable study in sociopathy.",
+        "output": "negative"
+    },
+    {
+        "input": "Steadfastly uncinematic but powerfully dramatic.",
+        "output": "positive"
+    },
+    {
+        "input": "Shallow, noisy and pretentious.",
+        "output": "negative"
+    },
+    {
+        "input": "Move over Bond; this girl deserves a sequel.",
+        "output": "positive"
+    },
+    {
+        "input": "...a rather bland affair.",
+        "output": "negative"
+    },
+    {
+        "input": "Psychologically savvy.",
+        "output": "positive"
+    },
+    {
+        "input": "The Sweetest Thing leaves a bitter taste.",
+        "output": "negative"
+    },
+    {
+        "input": "This beautifully animated epic is never dull.",
+        "output": "positive"
+    },
+    {
+        "input": "An engrossing and infectiously enthusiastic documentary.",
+        "output": "positive"
+    },
+    {
+        "input": "It's virtually impossible to like any of these despicable characters.",
+        "output": "negative"
+    },
+    {
+        "input": "A haunting tale of murder and mayhem.",
+        "output": "positive"
+    },
+    {
+        "input": "Sex With Strangers is fascinating ...",
+        "output": "positive"
+    },
+    {
+        "input": "A smart, arch and rather cold-blooded comedy.",
+        "output": "positive"
+    },
+    {
+        "input": "...a bland murder-on-campus yawner.",
+        "output": "negative"
+    },
+    {
+        "input": "Meticulously uncovers a trail of outrageous force and craven concealment.",
+        "output": "positive"
+    },
+    {
+        "input": "Shrewd but pointless.",
+        "output": "negative"
+    },
+    {
+        "input": "Forgettable, if good-hearted, movie.",
+        "output": "negative"
+    },
+    {
+        "input": "Violent, vulgar and forgettably entertaining.",
+        "output": "negative"
+    },
+    {
+        "input": "``Freaky Friday,'' it's not.",
+        "output": "negative"
+    },
+    {
+        "input": "An even more predictable, cliche-ridden endeavor than its predecessor.",
+        "output": "negative"
+    },
+    {
+        "input": "The feature-length stretch ... strains the show's concept.",
+        "output": "negative"
+    },
+    {
+        "input": "Meyjes's movie, like Max Rothman's future, does not work.",
+        "output": "negative"
+    },
+    {
+        "input": "A vibrant, colorful, semimusical rendition.",
+        "output": "positive"
+    },
+    {
+        "input": "A quaint, romanticized rendering.",
+        "output": "positive"
+    },
+    {
+        "input": "The story ultimately takes hold and grips hard.",
+        "output": "positive"
+    },
+    {
+        "input": "...the plot weaves us into a complex web.",
+        "output": "positive"
+    },
+    {
+        "input": "A devastating indictment of unbridled greed and materalism.",
+        "output": "negative"
+    },
+    {
+        "input": "A stylish thriller.",
+        "output": "positive"
+    }
+]

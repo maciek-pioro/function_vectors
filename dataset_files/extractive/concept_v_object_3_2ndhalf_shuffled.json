@@ -1,0 +1,2002 @@
+[
+    {
+        "input": "curtain, whimsical, pork",
+        "output": "whimsical"
+    },
+    {
+        "input": "quilt, bountiful, pepper",
+        "output": "bountiful"
+    },
+    {
+        "input": "ink, rock, determined",
+        "output": "determined"
+    },
+    {
+        "input": "kind, quilt, potato",
+        "output": "kind"
+    },
+    {
+        "input": "cup, kneel, hammer",
+        "output": "kneel"
+    },
+    {
+        "input": "amazing, key, duster",
+        "output": "amazing"
+    },
+    {
+        "input": "toilet, wristwatch, loud",
+        "output": "loud"
+    },
+    {
+        "input": "through, clock, kite",
+        "output": "through"
+    },
+    {
+        "input": "necklace, toilet, among",
+        "output": "among"
+    },
+    {
+        "input": "jeans, eloquent, incense",
+        "output": "eloquent"
+    },
+    {
+        "input": "wonderful, shoe, xylophone",
+        "output": "wonderful"
+    },
+    {
+        "input": "glasses, master, puzzle",
+        "output": "master"
+    },
+    {
+        "input": "inside, ice, kettle",
+        "output": "inside"
+    },
+    {
+        "input": "oven, kindle, rake",
+        "output": "kindle"
+    },
+    {
+        "input": "oven, microphone, warm",
+        "output": "warm"
+    },
+    {
+        "input": "knife, piano, jump",
+        "output": "jump"
+    },
+    {
+        "input": "shirt, fishing pole, exquisite",
+        "output": "exquisite"
+    },
+    {
+        "input": "modern, dice, robot",
+        "output": "modern"
+    },
+    {
+        "input": "jacket, tennis racket, new",
+        "output": "new"
+    },
+    {
+        "input": "tomato, table, kind-hearted",
+        "output": "kind-hearted"
+    },
+    {
+        "input": "watermelon, view, piano",
+        "output": "view"
+    },
+    {
+        "input": "dumbbell, alarm, enjoy",
+        "output": "enjoy"
+    },
+    {
+        "input": "altruistic, glass, tambourine",
+        "output": "altruistic"
+    },
+    {
+        "input": "violin, past, ruler",
+        "output": "past"
+    },
+    {
+        "input": "marker, magnificent, wristwatch",
+        "output": "magnificent"
+    },
+    {
+        "input": "naughty, quill, cake",
+        "output": "naughty"
+    },
+    {
+        "input": "phone, benevolent, candlestick",
+        "output": "benevolent"
+    },
+    {
+        "input": "rug, during, cup",
+        "output": "during"
+    },
+    {
+        "input": "peaceful, door, fishing pole",
+        "output": "peaceful"
+    },
+    {
+        "input": "read, sculpture, basketball",
+        "output": "read"
+    },
+    {
+        "input": "maracas, sensitive, whistle",
+        "output": "sensitive"
+    },
+    {
+        "input": "curtain, launch, glasses",
+        "output": "launch"
+    },
+    {
+        "input": "mellow, lamp, ice",
+        "output": "mellow"
+    },
+    {
+        "input": "hammer, juice, participate",
+        "output": "participate"
+    },
+    {
+        "input": "necklace, except, table",
+        "output": "except"
+    },
+    {
+        "input": "globe, incense, quiet",
+        "output": "quiet"
+    },
+    {
+        "input": "bicycle, pasta, visit",
+        "output": "visit"
+    },
+    {
+        "input": "phone, on, zucchini",
+        "output": "on"
+    },
+    {
+        "input": "alarm, jar, arrive",
+        "output": "arrive"
+    },
+    {
+        "input": "jacket, concerning, desk",
+        "output": "concerning"
+    },
+    {
+        "input": "diligent, teapot, earmuffs",
+        "output": "diligent"
+    },
+    {
+        "input": "travel, stapler, cookie",
+        "output": "travel"
+    },
+    {
+        "input": "phone, pillow, delightful",
+        "output": "delightful"
+    },
+    {
+        "input": "robot, validate, curtain",
+        "output": "validate"
+    },
+    {
+        "input": "sensitive, zeppelin, scissors",
+        "output": "sensitive"
+    },
+    {
+        "input": "search, dice, lamp",
+        "output": "search"
+    },
+    {
+        "input": "joyful, kettle, pillow",
+        "output": "joyful"
+    },
+    {
+        "input": "jigsaw, sweet, hammock",
+        "output": "sweet"
+    },
+    {
+        "input": "ladder, race, gumball",
+        "output": "race"
+    },
+    {
+        "input": "chocolate, observe, lamp",
+        "output": "observe"
+    },
+    {
+        "input": "rock, zucchini, teach",
+        "output": "teach"
+    },
+    {
+        "input": "boat, earring, diligent",
+        "output": "diligent"
+    },
+    {
+        "input": "yacht, envelope, zealous",
+        "output": "zealous"
+    },
+    {
+        "input": "marker, notebook, organize",
+        "output": "organize"
+    },
+    {
+        "input": "accordion, vibrant, juice",
+        "output": "vibrant"
+    },
+    {
+        "input": "rifle, past, rug",
+        "output": "past"
+    },
+    {
+        "input": "gloves, teapot, obtain",
+        "output": "obtain"
+    },
+    {
+        "input": "yo-yo, robot, gather",
+        "output": "gather"
+    },
+    {
+        "input": "robot, zipper, from",
+        "output": "from"
+    },
+    {
+        "input": "glass, jolt, ball",
+        "output": "jolt"
+    },
+    {
+        "input": "bitter, kayak, yo-yo",
+        "output": "bitter"
+    },
+    {
+        "input": "cube, lucky, apron",
+        "output": "lucky"
+    },
+    {
+        "input": "dice, honest, pepper",
+        "output": "honest"
+    },
+    {
+        "input": "inside, marker, picture",
+        "output": "inside"
+    },
+    {
+        "input": "quiet, guitar, carrot",
+        "output": "quiet"
+    },
+    {
+        "input": "hate, watermelon, violin",
+        "output": "hate"
+    },
+    {
+        "input": "jar, insightful, television",
+        "output": "insightful"
+    },
+    {
+        "input": "below, pencil, window",
+        "output": "below"
+    },
+    {
+        "input": "lettuce, decide, plant",
+        "output": "decide"
+    },
+    {
+        "input": "hate, blanket, duster",
+        "output": "hate"
+    },
+    {
+        "input": "toilet, violin, achieve",
+        "output": "achieve"
+    },
+    {
+        "input": "towel, explore, match",
+        "output": "explore"
+    },
+    {
+        "input": "down, bowl, paintbrush",
+        "output": "down"
+    },
+    {
+        "input": "book, basketball, bad",
+        "output": "bad"
+    },
+    {
+        "input": "noble, scissors, paper",
+        "output": "noble"
+    },
+    {
+        "input": "fan, yacht, remember",
+        "output": "remember"
+    },
+    {
+        "input": "inventive, wristwatch, mirror",
+        "output": "inventive"
+    },
+    {
+        "input": "x-ray, jolt, kite",
+        "output": "jolt"
+    },
+    {
+        "input": "guitar, build, match",
+        "output": "build"
+    },
+    {
+        "input": "yacht, doubt, skates",
+        "output": "doubt"
+    },
+    {
+        "input": "solve, fountain, yo-yo",
+        "output": "solve"
+    },
+    {
+        "input": "toilet, easel, juggle",
+        "output": "juggle"
+    },
+    {
+        "input": "book, optimistic, puzzle",
+        "output": "optimistic"
+    },
+    {
+        "input": "snorkel, car, serious",
+        "output": "serious"
+    },
+    {
+        "input": "long, whistle, kite",
+        "output": "long"
+    },
+    {
+        "input": "igloo, upon, book",
+        "output": "upon"
+    },
+    {
+        "input": "drum, negotiate, pillow",
+        "output": "negotiate"
+    },
+    {
+        "input": "rice, kind, jeans",
+        "output": "kind"
+    },
+    {
+        "input": "watermelon, search, socks",
+        "output": "search"
+    },
+    {
+        "input": "considering, hat, x-ray",
+        "output": "considering"
+    },
+    {
+        "input": "generous, jeans, hat",
+        "output": "generous"
+    },
+    {
+        "input": "grow, eraser, globe",
+        "output": "grow"
+    },
+    {
+        "input": "ladder, soft, watermelon",
+        "output": "soft"
+    },
+    {
+        "input": "yogurt, tall, ruler",
+        "output": "tall"
+    },
+    {
+        "input": "intuitive, laptop, hoop",
+        "output": "intuitive"
+    },
+    {
+        "input": "win, tape, envelope",
+        "output": "win"
+    },
+    {
+        "input": "faithful, painting, bicycle",
+        "output": "faithful"
+    },
+    {
+        "input": "transform, potato, toilet",
+        "output": "transform"
+    },
+    {
+        "input": "wallet, yogurt, fierce",
+        "output": "fierce"
+    },
+    {
+        "input": "tranquil, snorkel, maracas",
+        "output": "tranquil"
+    },
+    {
+        "input": "toilet, match, yield",
+        "output": "yield"
+    },
+    {
+        "input": "pencil, cookie, handle",
+        "output": "handle"
+    },
+    {
+        "input": "ice, outside, jar",
+        "output": "outside"
+    },
+    {
+        "input": "dice, sour, kettle",
+        "output": "sour"
+    },
+    {
+        "input": "accordion, glasses, walk",
+        "output": "walk"
+    },
+    {
+        "input": "paintbrush, celebrate, microphone",
+        "output": "celebrate"
+    },
+    {
+        "input": "computer, harmonious, cube",
+        "output": "harmonious"
+    },
+    {
+        "input": "produce, envelope, ice",
+        "output": "produce"
+    },
+    {
+        "input": "socks, lantern, without",
+        "output": "without"
+    },
+    {
+        "input": "pillow, book, vivacious",
+        "output": "vivacious"
+    },
+    {
+        "input": "incense, notice, pasta",
+        "output": "notice"
+    },
+    {
+        "input": "honest, ink, drum",
+        "output": "honest"
+    },
+    {
+        "input": "skates, fast, mirror",
+        "output": "fast"
+    },
+    {
+        "input": "lucky, wristwatch, shirt",
+        "output": "lucky"
+    },
+    {
+        "input": "kite, perform, puzzle",
+        "output": "perform"
+    },
+    {
+        "input": "tall, blanket, zucchini",
+        "output": "tall"
+    },
+    {
+        "input": "blanket, long, glass",
+        "output": "long"
+    },
+    {
+        "input": "cube, gumball, zany",
+        "output": "zany"
+    },
+    {
+        "input": "olive, wristwatch, quiet",
+        "output": "quiet"
+    },
+    {
+        "input": "eager, cup, beef",
+        "output": "eager"
+    },
+    {
+        "input": "earring, enchanting, kettle",
+        "output": "enchanting"
+    },
+    {
+        "input": "innocent, accordion, pencil",
+        "output": "innocent"
+    },
+    {
+        "input": "from, bottle, easel",
+        "output": "from"
+    },
+    {
+        "input": "up, fork, ice",
+        "output": "up"
+    },
+    {
+        "input": "innocent, tennis racket, rifle",
+        "output": "innocent"
+    },
+    {
+        "input": "sculpture, ball, unselfish",
+        "output": "unselfish"
+    },
+    {
+        "input": "intrepid, ink, pillow",
+        "output": "intrepid"
+    },
+    {
+        "input": "magnificent, house, skates",
+        "output": "magnificent"
+    },
+    {
+        "input": "puzzle, drum, across",
+        "output": "across"
+    },
+    {
+        "input": "x-ray, perform, boat",
+        "output": "perform"
+    },
+    {
+        "input": "earmuffs, dice, kind-hearted",
+        "output": "kind-hearted"
+    },
+    {
+        "input": "onion, naughty, duster",
+        "output": "naughty"
+    },
+    {
+        "input": "sculpture, toilet, fierce",
+        "output": "fierce"
+    },
+    {
+        "input": "make, rice, glass",
+        "output": "make"
+    },
+    {
+        "input": "bountiful, socks, cake",
+        "output": "bountiful"
+    },
+    {
+        "input": "lamp, keen, violin",
+        "output": "keen"
+    },
+    {
+        "input": "boomerang, negotiate, hammock",
+        "output": "negotiate"
+    },
+    {
+        "input": "chair, brave, ball",
+        "output": "brave"
+    },
+    {
+        "input": "vase, calculate, match",
+        "output": "calculate"
+    },
+    {
+        "input": "clean, cactus, boomerang",
+        "output": "clean"
+    },
+    {
+        "input": "hopeful, jar, yarn",
+        "output": "hopeful"
+    },
+    {
+        "input": "chair, pasta, of",
+        "output": "of"
+    },
+    {
+        "input": "olive, discuss, x-ray",
+        "output": "discuss"
+    },
+    {
+        "input": "pizza, volleyball, before",
+        "output": "before"
+    },
+    {
+        "input": "rake, kettle, obtain",
+        "output": "obtain"
+    },
+    {
+        "input": "globe, kayak, wonderful",
+        "output": "wonderful"
+    },
+    {
+        "input": "chair, serene, scissors",
+        "output": "serene"
+    },
+    {
+        "input": "piano, hat, join",
+        "output": "join"
+    },
+    {
+        "input": "juice, match, attack",
+        "output": "attack"
+    },
+    {
+        "input": "sofa, match, bountiful",
+        "output": "bountiful"
+    },
+    {
+        "input": "book, joyous, bag",
+        "output": "joyous"
+    },
+    {
+        "input": "gumball, produce, cream",
+        "output": "produce"
+    },
+    {
+        "input": "maracas, bag, round",
+        "output": "round"
+    },
+    {
+        "input": "study, computer, bag",
+        "output": "study"
+    },
+    {
+        "input": "guitar, pasta, test",
+        "output": "test"
+    },
+    {
+        "input": "pepper, zucchini, lovely",
+        "output": "lovely"
+    },
+    {
+        "input": "pasta, notebook, strong",
+        "output": "strong"
+    },
+    {
+        "input": "try, quill, zeppelin",
+        "output": "try"
+    },
+    {
+        "input": "jacket, lively, car",
+        "output": "lively"
+    },
+    {
+        "input": "search, cream, bicycle",
+        "output": "search"
+    },
+    {
+        "input": "calm, hairbrush, notebook",
+        "output": "calm"
+    },
+    {
+        "input": "bottle, ladder, magnificent",
+        "output": "magnificent"
+    },
+    {
+        "input": "net, zucchini, tall",
+        "output": "tall"
+    },
+    {
+        "input": "joyful, cup, rice",
+        "output": "joyful"
+    },
+    {
+        "input": "towel, above, knife",
+        "output": "above"
+    },
+    {
+        "input": "perform, camera, vacuum",
+        "output": "perform"
+    },
+    {
+        "input": "lantern, define, yarn",
+        "output": "define"
+    },
+    {
+        "input": "toilet, boat, joyful",
+        "output": "joyful"
+    },
+    {
+        "input": "pensive, hairbrush, umbrella",
+        "output": "pensive"
+    },
+    {
+        "input": "peaceful, candlestick, fan",
+        "output": "peaceful"
+    },
+    {
+        "input": "skates, cookie, bold",
+        "output": "bold"
+    },
+    {
+        "input": "piano, playful, towel",
+        "output": "playful"
+    },
+    {
+        "input": "guitar, make, ruler",
+        "output": "make"
+    },
+    {
+        "input": "volleyball, witty, igloo",
+        "output": "witty"
+    },
+    {
+        "input": "towel, easel, nourish",
+        "output": "nourish"
+    },
+    {
+        "input": "towel, hat, zap",
+        "output": "zap"
+    },
+    {
+        "input": "robot, maximize, plate",
+        "output": "maximize"
+    },
+    {
+        "input": "easel, eloquent, yacht",
+        "output": "eloquent"
+    },
+    {
+        "input": "reflect, duster, book",
+        "output": "reflect"
+    },
+    {
+        "input": "luminous, tennis racket, dumbbell",
+        "output": "luminous"
+    },
+    {
+        "input": "pen, painting, achieve",
+        "output": "achieve"
+    },
+    {
+        "input": "kill, easel, basket",
+        "output": "kill"
+    },
+    {
+        "input": "fearless, hammer, umbrella",
+        "output": "fearless"
+    },
+    {
+        "input": "silly, quill, pork",
+        "output": "silly"
+    },
+    {
+        "input": "painting, kind, hammer",
+        "output": "kind"
+    },
+    {
+        "input": "jar, laughing, pasta",
+        "output": "laughing"
+    },
+    {
+        "input": "cake, versatile, teapot",
+        "output": "versatile"
+    },
+    {
+        "input": "above, candy, snorkel",
+        "output": "above"
+    },
+    {
+        "input": "paper, laughing, chair",
+        "output": "laughing"
+    },
+    {
+        "input": "x-ray, discuss, rice",
+        "output": "discuss"
+    },
+    {
+        "input": "tranquil, candlestick, ladder",
+        "output": "tranquil"
+    },
+    {
+        "input": "calculate, laptop, jacket",
+        "output": "calculate"
+    },
+    {
+        "input": "thirsty, earring, knife",
+        "output": "thirsty"
+    },
+    {
+        "input": "fishing pole, vase, bad",
+        "output": "bad"
+    },
+    {
+        "input": "for, map, painting",
+        "output": "for"
+    },
+    {
+        "input": "puzzle, maracas, uncover",
+        "output": "uncover"
+    },
+    {
+        "input": "boomerang, serene, skates",
+        "output": "serene"
+    },
+    {
+        "input": "fountain, candy, target",
+        "output": "target"
+    },
+    {
+        "input": "candy, basketball, innocent",
+        "output": "innocent"
+    },
+    {
+        "input": "understand, hammock, ice",
+        "output": "understand"
+    },
+    {
+        "input": "thick, xylophone, tambourine",
+        "output": "thick"
+    },
+    {
+        "input": "knot, book, garlic",
+        "output": "knot"
+    },
+    {
+        "input": "listen, ice, car",
+        "output": "listen"
+    },
+    {
+        "input": "teapot, computer, courageous",
+        "output": "courageous"
+    },
+    {
+        "input": "pepper, x-ray, for",
+        "output": "for"
+    },
+    {
+        "input": "quiet, painting, knife",
+        "output": "quiet"
+    },
+    {
+        "input": "beef, verify, ball",
+        "output": "verify"
+    },
+    {
+        "input": "resilient, donut, incense",
+        "output": "resilient"
+    },
+    {
+        "input": "house, vacuum, visualize",
+        "output": "visualize"
+    },
+    {
+        "input": "alarm, mark, towel",
+        "output": "mark"
+    },
+    {
+        "input": "pasta, tall, whistle",
+        "output": "tall"
+    },
+    {
+        "input": "schedule, kite, kayak",
+        "output": "schedule"
+    },
+    {
+        "input": "after, drum, duster",
+        "output": "after"
+    },
+    {
+        "input": "computer, carrot, humble",
+        "output": "humble"
+    },
+    {
+        "input": "accordion, sweet, onion",
+        "output": "sweet"
+    },
+    {
+        "input": "motorcycle, cookie, naive",
+        "output": "naive"
+    },
+    {
+        "input": "soda, kettle, sail",
+        "output": "sail"
+    },
+    {
+        "input": "phone, bowl, memorize",
+        "output": "memorize"
+    },
+    {
+        "input": "cup, for, robot",
+        "output": "for"
+    },
+    {
+        "input": "master, ukulele, tomato",
+        "output": "master"
+    },
+    {
+        "input": "x-ray, expensive, juice",
+        "output": "expensive"
+    },
+    {
+        "input": "innocent, blanket, yacht",
+        "output": "innocent"
+    },
+    {
+        "input": "tender, earmuffs, wallet",
+        "output": "tender"
+    },
+    {
+        "input": "enthusiastic, volleyball, motorcycle",
+        "output": "enthusiastic"
+    },
+    {
+        "input": "uncover, dumbbell, whistle",
+        "output": "uncover"
+    },
+    {
+        "input": "pencil, under, camera",
+        "output": "under"
+    },
+    {
+        "input": "noble, bag, vacuum",
+        "output": "noble"
+    },
+    {
+        "input": "attack, pencil, eraser",
+        "output": "attack"
+    },
+    {
+        "input": "tenacious, dice, necklace",
+        "output": "tenacious"
+    },
+    {
+        "input": "accordion, key, consult",
+        "output": "consult"
+    },
+    {
+        "input": "radio, trustworthy, quilt",
+        "output": "trustworthy"
+    },
+    {
+        "input": "despite, ladder, beef",
+        "output": "despite"
+    },
+    {
+        "input": "listen, olive, accordion",
+        "output": "listen"
+    },
+    {
+        "input": "accordion, key, quiet",
+        "output": "quiet"
+    },
+    {
+        "input": "quilt, destroy, window",
+        "output": "destroy"
+    },
+    {
+        "input": "kind-hearted, knife, window",
+        "output": "kind-hearted"
+    },
+    {
+        "input": "dice, jeans, honest",
+        "output": "honest"
+    },
+    {
+        "input": "jigsaw, amiable, chair",
+        "output": "amiable"
+    },
+    {
+        "input": "fishing pole, cup, hopeful",
+        "output": "hopeful"
+    },
+    {
+        "input": "round, beef, easel",
+        "output": "round"
+    },
+    {
+        "input": "chair, without, pepper",
+        "output": "without"
+    },
+    {
+        "input": "maracas, sculpture, view",
+        "output": "view"
+    },
+    {
+        "input": "justify, quill, cube",
+        "output": "justify"
+    },
+    {
+        "input": "gloves, peaceful, yarn",
+        "output": "peaceful"
+    },
+    {
+        "input": "ladder, teapot, juggle",
+        "output": "juggle"
+    },
+    {
+        "input": "key, igloo, grow",
+        "output": "grow"
+    },
+    {
+        "input": "sculpture, thirsty, dress",
+        "output": "thirsty"
+    },
+    {
+        "input": "vase, patient, pen",
+        "output": "patient"
+    },
+    {
+        "input": "glass, question, pencil",
+        "output": "question"
+    },
+    {
+        "input": "paper, quiet, ladder",
+        "output": "quiet"
+    },
+    {
+        "input": "question, envelope, watermelon",
+        "output": "question"
+    },
+    {
+        "input": "table, friendly, camera",
+        "output": "friendly"
+    },
+    {
+        "input": "whistle, loud, incense",
+        "output": "loud"
+    },
+    {
+        "input": "practice, painting, sculpture",
+        "output": "practice"
+    },
+    {
+        "input": "anchor, bountiful, cake",
+        "output": "bountiful"
+    },
+    {
+        "input": "bag, dark, lettuce",
+        "output": "dark"
+    },
+    {
+        "input": "lovable, hairbrush, knife",
+        "output": "lovable"
+    },
+    {
+        "input": "bountiful, newspaper, socks",
+        "output": "bountiful"
+    },
+    {
+        "input": "knowledgeable, earring, incense",
+        "output": "knowledgeable"
+    },
+    {
+        "input": "walk, basketball, notebook",
+        "output": "walk"
+    },
+    {
+        "input": "obtain, guitar, airplane",
+        "output": "obtain"
+    },
+    {
+        "input": "yacht, caring, tape",
+        "output": "caring"
+    },
+    {
+        "input": "speak, hoop, remote",
+        "output": "speak"
+    },
+    {
+        "input": "thoughtful, globe, dumbbell",
+        "output": "thoughtful"
+    },
+    {
+        "input": "jigsaw, old, volleyball",
+        "output": "old"
+    },
+    {
+        "input": "fishing pole, join, incense",
+        "output": "join"
+    },
+    {
+        "input": "gentle, umbrella, carrot",
+        "output": "gentle"
+    },
+    {
+        "input": "paintbrush, consider, umbrella",
+        "output": "consider"
+    },
+    {
+        "input": "pizza, try, fishing pole",
+        "output": "try"
+    },
+    {
+        "input": "duster, joyful, snorkel",
+        "output": "joyful"
+    },
+    {
+        "input": "yogurt, garlic, lucky",
+        "output": "lucky"
+    },
+    {
+        "input": "key, quizzical, cactus",
+        "output": "quizzical"
+    },
+    {
+        "input": "calm, alarm, volleyball",
+        "output": "calm"
+    },
+    {
+        "input": "igloo, nourish, tambourine",
+        "output": "nourish"
+    },
+    {
+        "input": "wonderful, rake, toilet",
+        "output": "wonderful"
+    },
+    {
+        "input": "pasta, key, believe",
+        "output": "believe"
+    },
+    {
+        "input": "paintbrush, thick, mirror",
+        "output": "thick"
+    },
+    {
+        "input": "uncover, remote, violin",
+        "output": "uncover"
+    },
+    {
+        "input": "out, rug, car",
+        "output": "out"
+    },
+    {
+        "input": "energetic, flower, bowl",
+        "output": "energetic"
+    },
+    {
+        "input": "question, pasta, igloo",
+        "output": "question"
+    },
+    {
+        "input": "pepper, among, glasses",
+        "output": "among"
+    },
+    {
+        "input": "quizzical, key, zucchini",
+        "output": "quizzical"
+    },
+    {
+        "input": "anchor, tomato, ecstatic",
+        "output": "ecstatic"
+    },
+    {
+        "input": "boat, zucchini, select",
+        "output": "select"
+    },
+    {
+        "input": "juggle, volleyball, dress",
+        "output": "juggle"
+    },
+    {
+        "input": "concerning, radio, tennis racket",
+        "output": "concerning"
+    },
+    {
+        "input": "dress, laugh, boat",
+        "output": "laugh"
+    },
+    {
+        "input": "magnificent, x-ray, curtain",
+        "output": "magnificent"
+    },
+    {
+        "input": "gumball, launch, lettuce",
+        "output": "launch"
+    },
+    {
+        "input": "beside, map, igloo",
+        "output": "beside"
+    },
+    {
+        "input": "wallet, potato, know",
+        "output": "know"
+    },
+    {
+        "input": "key, copy, radio",
+        "output": "copy"
+    },
+    {
+        "input": "pork, ruler, doubt",
+        "output": "doubt"
+    },
+    {
+        "input": "teapot, dice, kind-hearted",
+        "output": "kind-hearted"
+    },
+    {
+        "input": "drum, ukulele, faithful",
+        "output": "faithful"
+    },
+    {
+        "input": "paintbrush, plant, discuss",
+        "output": "discuss"
+    },
+    {
+        "input": "exquisite, incense, zucchini",
+        "output": "exquisite"
+    },
+    {
+        "input": "egg, sample, notebook",
+        "output": "sample"
+    },
+    {
+        "input": "kindred, shirt, fishing pole",
+        "output": "kindred"
+    },
+    {
+        "input": "quilt, hard, maracas",
+        "output": "hard"
+    },
+    {
+        "input": "spoon, like, dumbbell",
+        "output": "like"
+    },
+    {
+        "input": "short, towel, vase",
+        "output": "short"
+    },
+    {
+        "input": "laptop, approve, pizza",
+        "output": "approve"
+    },
+    {
+        "input": "lamp, happy, zeppelin",
+        "output": "happy"
+    },
+    {
+        "input": "strong, newspaper, duster",
+        "output": "strong"
+    },
+    {
+        "input": "vase, clever, hat",
+        "output": "clever"
+    },
+    {
+        "input": "zoom, plate, pillow",
+        "output": "zoom"
+    },
+    {
+        "input": "cactus, exist, glass",
+        "output": "exist"
+    },
+    {
+        "input": "concerning, whistle, door",
+        "output": "concerning"
+    },
+    {
+        "input": "sofa, question, blanket",
+        "output": "question"
+    },
+    {
+        "input": "vacuum, pork, serious",
+        "output": "serious"
+    },
+    {
+        "input": "kindle, lettuce, tambourine",
+        "output": "kindle"
+    },
+    {
+        "input": "laptop, feather, unique",
+        "output": "unique"
+    },
+    {
+        "input": "scissors, glass, win",
+        "output": "win"
+    },
+    {
+        "input": "pepper, microphone, playful",
+        "output": "playful"
+    },
+    {
+        "input": "save, earring, candy",
+        "output": "save"
+    },
+    {
+        "input": "navigate, airplane, table",
+        "output": "navigate"
+    },
+    {
+        "input": "drum, table, across",
+        "output": "across"
+    },
+    {
+        "input": "fountain, volleyball, copy",
+        "output": "copy"
+    },
+    {
+        "input": "fishing pole, justify, carrot",
+        "output": "justify"
+    },
+    {
+        "input": "painting, jacket, concerning",
+        "output": "concerning"
+    },
+    {
+        "input": "learn, jacket, bag",
+        "output": "learn"
+    },
+    {
+        "input": "yogurt, easel, unite",
+        "output": "unite"
+    },
+    {
+        "input": "inside, radio, skates",
+        "output": "inside"
+    },
+    {
+        "input": "mild, microphone, hat",
+        "output": "mild"
+    },
+    {
+        "input": "quilt, wristwatch, down",
+        "output": "down"
+    },
+    {
+        "input": "glass, judge, eraser",
+        "output": "judge"
+    },
+    {
+        "input": "flower, quill, sensible",
+        "output": "sensible"
+    },
+    {
+        "input": "juggle, donut, kite",
+        "output": "juggle"
+    },
+    {
+        "input": "brave, ball, flower",
+        "output": "brave"
+    },
+    {
+        "input": "laptop, easel, vivacious",
+        "output": "vivacious"
+    },
+    {
+        "input": "ukulele, lantern, treat",
+        "output": "treat"
+    },
+    {
+        "input": "visualize, lantern, alarm",
+        "output": "visualize"
+    },
+    {
+        "input": "newspaper, olive, make",
+        "output": "make"
+    },
+    {
+        "input": "table, bowl, unselfish",
+        "output": "unselfish"
+    },
+    {
+        "input": "ball, consult, kayak",
+        "output": "consult"
+    },
+    {
+        "input": "bottle, affectionate, shirt",
+        "output": "affectionate"
+    },
+    {
+        "input": "understand, kettle, ink",
+        "output": "understand"
+    },
+    {
+        "input": "think, lantern, wristwatch",
+        "output": "think"
+    },
+    {
+        "input": "pasta, paintbrush, in",
+        "output": "in"
+    },
+    {
+        "input": "yo-yo, marker, mild",
+        "output": "mild"
+    },
+    {
+        "input": "walk, marker, dress",
+        "output": "walk"
+    },
+    {
+        "input": "phone, radio, negotiate",
+        "output": "negotiate"
+    },
+    {
+        "input": "juice, bowl, before",
+        "output": "before"
+    },
+    {
+        "input": "tennis racket, amazing, bowl",
+        "output": "amazing"
+    },
+    {
+        "input": "fear, earring, marker",
+        "output": "fear"
+    },
+    {
+        "input": "envelope, reflect, violin",
+        "output": "reflect"
+    },
+    {
+        "input": "onion, incense, target",
+        "output": "target"
+    },
+    {
+        "input": "watermelon, hammer, cheerful",
+        "output": "cheerful"
+    },
+    {
+        "input": "long, paper, pepper",
+        "output": "long"
+    },
+    {
+        "input": "fork, remove, earmuffs",
+        "output": "remove"
+    },
+    {
+        "input": "tape, carefree, basketball",
+        "output": "carefree"
+    },
+    {
+        "input": "duster, bicycle, determined",
+        "output": "determined"
+    },
+    {
+        "input": "select, rake, desk",
+        "output": "select"
+    },
+    {
+        "input": "duster, volleyball, sail",
+        "output": "sail"
+    },
+    {
+        "input": "behind, globe, hoop",
+        "output": "behind"
+    },
+    {
+        "input": "glass, door, notice",
+        "output": "notice"
+    },
+    {
+        "input": "painting, pillow, consider",
+        "output": "consider"
+    },
+    {
+        "input": "gloves, amazing, jeans",
+        "output": "amazing"
+    },
+    {
+        "input": "with, bottle, glasses",
+        "output": "with"
+    },
+    {
+        "input": "need, table, clock",
+        "output": "need"
+    },
+    {
+        "input": "gracious, radio, television",
+        "output": "gracious"
+    },
+    {
+        "input": "vacuum, kindle, camera",
+        "output": "kindle"
+    },
+    {
+        "input": "pen, walk, remote",
+        "output": "walk"
+    },
+    {
+        "input": "fear, rice, picture",
+        "output": "fear"
+    },
+    {
+        "input": "serious, tape, ink",
+        "output": "serious"
+    },
+    {
+        "input": "quiet, shoe, marker",
+        "output": "quiet"
+    },
+    {
+        "input": "up, boat, hairbrush",
+        "output": "up"
+    },
+    {
+        "input": "ladder, race, net",
+        "output": "race"
+    },
+    {
+        "input": "robot, paper, negotiate",
+        "output": "negotiate"
+    },
+    {
+        "input": "door, snorkel, join",
+        "output": "join"
+    },
+    {
+        "input": "radiant, yo-yo, radio",
+        "output": "radiant"
+    },
+    {
+        "input": "oven, hat, dry",
+        "output": "dry"
+    },
+    {
+        "input": "new, house, chocolate",
+        "output": "new"
+    },
+    {
+        "input": "warm, yo-yo, oven",
+        "output": "warm"
+    },
+    {
+        "input": "hoop, zipper, enthusiastic",
+        "output": "enthusiastic"
+    },
+    {
+        "input": "wallet, eloquent, computer",
+        "output": "eloquent"
+    },
+    {
+        "input": "jar, pepper, blissful",
+        "output": "blissful"
+    },
+    {
+        "input": "skates, hairbrush, justify",
+        "output": "justify"
+    },
+    {
+        "input": "notebook, naive, fountain",
+        "output": "naive"
+    },
+    {
+        "input": "hairbrush, old, sofa",
+        "output": "old"
+    },
+    {
+        "input": "hat, boomerang, hungry",
+        "output": "hungry"
+    },
+    {
+        "input": "watermelon, quill, measure",
+        "output": "measure"
+    },
+    {
+        "input": "below, jacket, glass",
+        "output": "below"
+    },
+    {
+        "input": "produce, laptop, boomerang",
+        "output": "produce"
+    },
+    {
+        "input": "rice, notice, scissors",
+        "output": "notice"
+    },
+    {
+        "input": "alarm, beef, whimsical",
+        "output": "whimsical"
+    },
+    {
+        "input": "against, blanket, cake",
+        "output": "against"
+    },
+    {
+        "input": "hairbrush, paper, toward",
+        "output": "toward"
+    },
+    {
+        "input": "as, eraser, toilet",
+        "output": "as"
+    },
+    {
+        "input": "cold, pencil, basketball",
+        "output": "cold"
+    },
+    {
+        "input": "paper, discover, ice",
+        "output": "discover"
+    },
+    {
+        "input": "ruler, drum, talk",
+        "output": "talk"
+    },
+    {
+        "input": "dice, sofa, mark",
+        "output": "mark"
+    },
+    {
+        "input": "need, ladder, television",
+        "output": "need"
+    },
+    {
+        "input": "volleyball, tall, lettuce",
+        "output": "tall"
+    },
+    {
+        "input": "cube, gumball, warmhearted",
+        "output": "warmhearted"
+    },
+    {
+        "input": "towel, concerning, hat",
+        "output": "concerning"
+    },
+    {
+        "input": "camera, glass, make",
+        "output": "make"
+    },
+    {
+        "input": "insightful, airplane, knife",
+        "output": "insightful"
+    },
+    {
+        "input": "enthusiastic, apron, egg",
+        "output": "enthusiastic"
+    },
+    {
+        "input": "join, fishing pole, match",
+        "output": "join"
+    },
+    {
+        "input": "jump, dress, xylophone",
+        "output": "jump"
+    },
+    {
+        "input": "beyond, house, gumball",
+        "output": "beyond"
+    },
+    {
+        "input": "bold, pillow, gloves",
+        "output": "bold"
+    },
+    {
+        "input": "computer, to, wallet",
+        "output": "to"
+    },
+    {
+        "input": "pasta, eraser, amazing",
+        "output": "amazing"
+    },
+    {
+        "input": "guitar, delightful, ruler",
+        "output": "delightful"
+    },
+    {
+        "input": "stapler, fork, attack",
+        "output": "attack"
+    },
+    {
+        "input": "zeppelin, out, newspaper",
+        "output": "out"
+    },
+    {
+        "input": "justify, socks, pen",
+        "output": "justify"
+    },
+    {
+        "input": "dice, quiet, earmuffs",
+        "output": "quiet"
+    },
+    {
+        "input": "table, over, skates",
+        "output": "over"
+    },
+    {
+        "input": "ukulele, lovable, lantern",
+        "output": "lovable"
+    },
+    {
+        "input": "earring, phone, explore",
+        "output": "explore"
+    },
+    {
+        "input": "ice, learn, newspaper",
+        "output": "learn"
+    },
+    {
+        "input": "phone, jubilant, hammer",
+        "output": "jubilant"
+    },
+    {
+        "input": "jacket, boomerang, consider",
+        "output": "consider"
+    },
+    {
+        "input": "build, stapler, skates",
+        "output": "build"
+    },
+    {
+        "input": "merge, television, toilet",
+        "output": "merge"
+    },
+    {
+        "input": "ukulele, anchor, land",
+        "output": "land"
+    },
+    {
+        "input": "hammer, modest, vacuum",
+        "output": "modest"
+    },
+    {
+        "input": "rake, master, blanket",
+        "output": "master"
+    },
+    {
+        "input": "necklace, bitter, knife",
+        "output": "bitter"
+    },
+    {
+        "input": "kind-hearted, tambourine, mirror",
+        "output": "kind-hearted"
+    },
+    {
+        "input": "beef, spoon, manipulate",
+        "output": "manipulate"
+    },
+    {
+        "input": "clock, newspaper, memorize",
+        "output": "memorize"
+    },
+    {
+        "input": "brave, fork, ice",
+        "output": "brave"
+    },
+    {
+        "input": "igloo, potato, overcome",
+        "output": "overcome"
+    },
+    {
+        "input": "spoon, microphone, attack",
+        "output": "attack"
+    },
+    {
+        "input": "big, robot, plate",
+        "output": "big"
+    },
+    {
+        "input": "map, ink, climb",
+        "output": "climb"
+    },
+    {
+        "input": "ruler, puzzle, around",
+        "output": "around"
+    },
+    {
+        "input": "sample, desk, dress",
+        "output": "sample"
+    },
+    {
+        "input": "duster, egg, youthful",
+        "output": "youthful"
+    },
+    {
+        "input": "inquisitive, boomerang, kite",
+        "output": "inquisitive"
+    },
+    {
+        "input": "boomerang, mirror, weak",
+        "output": "weak"
+    },
+    {
+        "input": "kite, fork, charismatic",
+        "output": "charismatic"
+    },
+    {
+        "input": "easel, travel, cup",
+        "output": "travel"
+    },
+    {
+        "input": "throughout, toilet, marker",
+        "output": "throughout"
+    },
+    {
+        "input": "television, jigsaw, yield",
+        "output": "yield"
+    },
+    {
+        "input": "accordion, sour, computer",
+        "output": "sour"
+    },
+    {
+        "input": "ruler, attack, ukulele",
+        "output": "attack"
+    },
+    {
+        "input": "hoop, candy, toward",
+        "output": "toward"
+    },
+    {
+        "input": "gumball, knock, yo-yo",
+        "output": "knock"
+    },
+    {
+        "input": "car, fan, keep",
+        "output": "keep"
+    },
+    {
+        "input": "develop, car, quilt",
+        "output": "develop"
+    },
+    {
+        "input": "unique, sculpture, sofa",
+        "output": "unique"
+    },
+    {
+        "input": "shoe, jar, courageous",
+        "output": "courageous"
+    },
+    {
+        "input": "scissors, realize, incense",
+        "output": "realize"
+    },
+    {
+        "input": "beef, car, serene",
+        "output": "serene"
+    },
+    {
+        "input": "fork, jolt, apron",
+        "output": "jolt"
+    },
+    {
+        "input": "determined, earmuffs, door",
+        "output": "determined"
+    },
+    {
+        "input": "quilt, visit, ruler",
+        "output": "visit"
+    },
+    {
+        "input": "unite, potato, ruler",
+        "output": "unite"
+    },
+    {
+        "input": "hammer, produce, easel",
+        "output": "produce"
+    },
+    {
+        "input": "finish, pork, piano",
+        "output": "finish"
+    },
+    {
+        "input": "kite, vivacious, mirror",
+        "output": "vivacious"
+    },
+    {
+        "input": "tape, about, glass",
+        "output": "about"
+    },
+    {
+        "input": "candlestick, teapot, generous",
+        "output": "generous"
+    },
+    {
+        "input": "table, knit, stapler",
+        "output": "knit"
+    },
+    {
+        "input": "pen, easel, lecture",
+        "output": "lecture"
+    },
+    {
+        "input": "net, radiant, rake",
+        "output": "radiant"
+    },
+    {
+        "input": "chair, without, flower",
+        "output": "without"
+    },
+    {
+        "input": "computer, ink, devoted",
+        "output": "devoted"
+    },
+    {
+        "input": "towel, ice, prepare",
+        "output": "prepare"
+    },
+    {
+        "input": "easel, fight, gloves",
+        "output": "fight"
+    },
+    {
+        "input": "pen, beyond, newspaper",
+        "output": "beyond"
+    },
+    {
+        "input": "easel, violin, ecstatic",
+        "output": "ecstatic"
+    },
+    {
+        "input": "shirt, lettuce, past",
+        "output": "past"
+    },
+    {
+        "input": "yogurt, produce, ruler",
+        "output": "produce"
+    },
+    {
+        "input": "beef, big, fountain",
+        "output": "big"
+    },
+    {
+        "input": "vibrant, rake, necklace",
+        "output": "vibrant"
+    },
+    {
+        "input": "earmuffs, exuberant, skates",
+        "output": "exuberant"
+    },
+    {
+        "input": "key, charming, hammock",
+        "output": "charming"
+    },
+    {
+        "input": "wallet, kindle, pizza",
+        "output": "kindle"
+    },
+    {
+        "input": "quill, watermelon, sensible",
+        "output": "sensible"
+    },
+    {
+        "input": "with, earmuffs, desk",
+        "output": "with"
+    },
+    {
+        "input": "pen, watermelon, thirsty",
+        "output": "thirsty"
+    },
+    {
+        "input": "candle, use, jeans",
+        "output": "use"
+    },
+    {
+        "input": "kettle, igloo, upbeat",
+        "output": "upbeat"
+    },
+    {
+        "input": "x-ray, window, joyful",
+        "output": "joyful"
+    },
+    {
+        "input": "gloves, rock, train",
+        "output": "train"
+    },
+    {
+        "input": "zesty, match, zeppelin",
+        "output": "zesty"
+    },
+    {
+        "input": "carrot, glasses, jolly",
+        "output": "jolly"
+    },
+    {
+        "input": "near, gloves, pillow",
+        "output": "near"
+    },
+    {
+        "input": "x-ray, newspaper, realize",
+        "output": "realize"
+    },
+    {
+        "input": "fork, grow, envelope",
+        "output": "grow"
+    },
+    {
+        "input": "approve, rice, curtain",
+        "output": "approve"
+    },
+    {
+        "input": "bowl, jeans, remember",
+        "output": "remember"
+    },
+    {
+        "input": "win, shirt, quilt",
+        "output": "win"
+    },
+    {
+        "input": "socks, guitar, off",
+        "output": "off"
+    },
+    {
+        "input": "snorkel, down, clock",
+        "output": "down"
+    },
+    {
+        "input": "candle, yacht, create",
+        "output": "create"
+    },
+    {
+        "input": "towel, carrot, to",
+        "output": "to"
+    },
+    {
+        "input": "jar, vibrant, alarm",
+        "output": "vibrant"
+    },
+    {
+        "input": "develop, carrot, yo-yo",
+        "output": "develop"
+    },
+    {
+        "input": "rifle, kind, garlic",
+        "output": "kind"
+    },
+    {
+        "input": "predict, zeppelin, sofa",
+        "output": "predict"
+    }
+]

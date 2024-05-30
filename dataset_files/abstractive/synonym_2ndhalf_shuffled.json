@@ -1,0 +1,5762 @@
+[
+    {
+        "input": "passionate",
+        "output": "enthusiastic"
+    },
+    {
+        "input": "skeptical",
+        "output": "doubtful"
+    },
+    {
+        "input": "clean",
+        "output": "tidy"
+    },
+    {
+        "input": "wealth",
+        "output": "riches"
+    },
+    {
+        "input": "grand",
+        "output": "magnificent"
+    },
+    {
+        "input": "lone",
+        "output": "solitary"
+    },
+    {
+        "input": "young",
+        "output": "youthful"
+    },
+    {
+        "input": "organisation",
+        "output": "company"
+    },
+    {
+        "input": "legend",
+        "output": "myth"
+    },
+    {
+        "input": "suitable",
+        "output": "appropriate"
+    },
+    {
+        "input": "novel",
+        "output": "book"
+    },
+    {
+        "input": "bead",
+        "output": "pearl"
+    },
+    {
+        "input": "sentimental",
+        "output": "emotional"
+    },
+    {
+        "input": "challenger",
+        "output": "competitor"
+    },
+    {
+        "input": "concrete",
+        "output": "solid"
+    },
+    {
+        "input": "unjust",
+        "output": "unfair"
+    },
+    {
+        "input": "practice",
+        "output": "train"
+    },
+    {
+        "input": "striking",
+        "output": "impressive"
+    },
+    {
+        "input": "wrap",
+        "output": "package"
+    },
+    {
+        "input": "mere",
+        "output": "simple"
+    },
+    {
+        "input": "massacre",
+        "output": "slaughter"
+    },
+    {
+        "input": "summary",
+        "output": "overview"
+    },
+    {
+        "input": "spectacular",
+        "output": "impressive"
+    },
+    {
+        "input": "van",
+        "output": "minivan"
+    },
+    {
+        "input": "disturbance",
+        "output": "disruption"
+    },
+    {
+        "input": "motivation",
+        "output": "inspiration"
+    },
+    {
+        "input": "restless",
+        "output": "agitated"
+    },
+    {
+        "input": "partition",
+        "output": "divide"
+    },
+    {
+        "input": "mysterious",
+        "output": "enigmatic"
+    },
+    {
+        "input": "relation",
+        "output": "connection"
+    },
+    {
+        "input": "accumulate",
+        "output": "gather"
+    },
+    {
+        "input": "respect",
+        "output": "honor"
+    },
+    {
+        "input": "neat",
+        "output": "tidy"
+    },
+    {
+        "input": "able",
+        "output": "capable"
+    },
+    {
+        "input": "exposed",
+        "output": "uncovered"
+    },
+    {
+        "input": "discover",
+        "output": "uncover"
+    },
+    {
+        "input": "film",
+        "output": "movie"
+    },
+    {
+        "input": "stray",
+        "output": "wander"
+    },
+    {
+        "input": "gorgeous",
+        "output": "stunning"
+    },
+    {
+        "input": "favorite",
+        "output": "preferred"
+    },
+    {
+        "input": "stupid",
+        "output": "foolish"
+    },
+    {
+        "input": "mortal",
+        "output": "finite"
+    },
+    {
+        "input": "pathetic",
+        "output": "pitiful"
+    },
+    {
+        "input": "coin",
+        "output": "currency"
+    },
+    {
+        "input": "deceptive",
+        "output": "misleading"
+    },
+    {
+        "input": "include",
+        "output": "incorporate"
+    },
+    {
+        "input": "emit",
+        "output": "release"
+    },
+    {
+        "input": "adjust",
+        "output": "modify"
+    },
+    {
+        "input": "escape",
+        "output": "flee"
+    },
+    {
+        "input": "extensive",
+        "output": "comprehensive"
+    },
+    {
+        "input": "pass",
+        "output": "proceed"
+    },
+    {
+        "input": "vertical",
+        "output": "upright"
+    },
+    {
+        "input": "put",
+        "output": "place"
+    },
+    {
+        "input": "pace",
+        "output": "speed"
+    },
+    {
+        "input": "breach",
+        "output": "violate"
+    },
+    {
+        "input": "answer",
+        "output": "reply"
+    },
+    {
+        "input": "constant",
+        "output": "steady"
+    },
+    {
+        "input": "lady",
+        "output": "woman"
+    },
+    {
+        "input": "procedure",
+        "output": "process"
+    },
+    {
+        "input": "simple",
+        "output": "basic"
+    },
+    {
+        "input": "obscene",
+        "output": "vulgar"
+    },
+    {
+        "input": "pay",
+        "output": "compensate"
+    },
+    {
+        "input": "diligent",
+        "output": "industrious"
+    },
+    {
+        "input": "interesting",
+        "output": "engaging"
+    },
+    {
+        "input": "patriotic",
+        "output": "nationalistic"
+    },
+    {
+        "input": "training",
+        "output": "coaching"
+    },
+    {
+        "input": "crew",
+        "output": "team"
+    },
+    {
+        "input": "wood",
+        "output": "lumber"
+    },
+    {
+        "input": "apprehend",
+        "output": "arrest"
+    },
+    {
+        "input": "artillery",
+        "output": "cannon"
+    },
+    {
+        "input": "wit",
+        "output": "humor"
+    },
+    {
+        "input": "pilot",
+        "output": "aviator"
+    },
+    {
+        "input": "particular",
+        "output": "specific"
+    },
+    {
+        "input": "reconstruct",
+        "output": "rebuild"
+    },
+    {
+        "input": "harsh",
+        "output": "severe"
+    },
+    {
+        "input": "doll",
+        "output": "toy"
+    },
+    {
+        "input": "incapable",
+        "output": "unable"
+    },
+    {
+        "input": "bizarre",
+        "output": "strange"
+    },
+    {
+        "input": "guard",
+        "output": "protect"
+    },
+    {
+        "input": "grow",
+        "output": "develop"
+    },
+    {
+        "input": "survey",
+        "output": "poll"
+    },
+    {
+        "input": "precious",
+        "output": "valuable"
+    },
+    {
+        "input": "compressed",
+        "output": "condensed"
+    },
+    {
+        "input": "dedication",
+        "output": "commitment"
+    },
+    {
+        "input": "insecure",
+        "output": "uncertain"
+    },
+    {
+        "input": "offering",
+        "output": "providing"
+    },
+    {
+        "input": "crime",
+        "output": "offense"
+    },
+    {
+        "input": "fruitful",
+        "output": "productive"
+    },
+    {
+        "input": "worthy",
+        "output": "valuable"
+    },
+    {
+        "input": "mystical",
+        "output": "magical"
+    },
+    {
+        "input": "leak",
+        "output": "drip"
+    },
+    {
+        "input": "idle",
+        "output": "inactive"
+    },
+    {
+        "input": "scream",
+        "output": "yell"
+    },
+    {
+        "input": "thesis",
+        "output": "dissertation"
+    },
+    {
+        "input": "report",
+        "output": "document"
+    },
+    {
+        "input": "subtle",
+        "output": "understated"
+    },
+    {
+        "input": "runway",
+        "output": "catwalk"
+    },
+    {
+        "input": "valid",
+        "output": "legitimate"
+    },
+    {
+        "input": "adjunct",
+        "output": "supplemental"
+    },
+    {
+        "input": "bloody",
+        "output": "gory"
+    },
+    {
+        "input": "secretive",
+        "output": "mysterious"
+    },
+    {
+        "input": "prudent",
+        "output": "wise"
+    },
+    {
+        "input": "absolute",
+        "output": "definite"
+    },
+    {
+        "input": "unconscious",
+        "output": "unaware"
+    },
+    {
+        "input": "blue",
+        "output": "azure"
+    },
+    {
+        "input": "favorable",
+        "output": "advantageous"
+    },
+    {
+        "input": "shameless",
+        "output": "brazen"
+    },
+    {
+        "input": "vital",
+        "output": "essential"
+    },
+    {
+        "input": "magistrate",
+        "output": "judge"
+    },
+    {
+        "input": "portray",
+        "output": "depict"
+    },
+    {
+        "input": "refined",
+        "output": "elegant"
+    },
+    {
+        "input": "strip",
+        "output": "remove"
+    },
+    {
+        "input": "delight",
+        "output": "pleasure"
+    },
+    {
+        "input": "come",
+        "output": "arrive"
+    },
+    {
+        "input": "pride",
+        "output": "arrogance"
+    },
+    {
+        "input": "staff",
+        "output": "employees"
+    },
+    {
+        "input": "ardent",
+        "output": "passionate"
+    },
+    {
+        "input": "wait",
+        "output": "delay"
+    },
+    {
+        "input": "injunction",
+        "output": "prohibition"
+    },
+    {
+        "input": "seed",
+        "output": "kernel"
+    },
+    {
+        "input": "repetition",
+        "output": "reiteration"
+    },
+    {
+        "input": "opposite",
+        "output": "contrary"
+    },
+    {
+        "input": "story",
+        "output": "tale"
+    },
+    {
+        "input": "prevent",
+        "output": "stop"
+    },
+    {
+        "input": "distribution",
+        "output": "dispersion"
+    },
+    {
+        "input": "genius",
+        "output": "prodigy"
+    },
+    {
+        "input": "loud",
+        "output": "noisy"
+    },
+    {
+        "input": "atmospheric",
+        "output": "ambient"
+    },
+    {
+        "input": "irrational",
+        "output": "illogical"
+    },
+    {
+        "input": "common",
+        "output": "usual"
+    },
+    {
+        "input": "pitch",
+        "output": "throw"
+    },
+    {
+        "input": "lord",
+        "output": "master"
+    },
+    {
+        "input": "hurt",
+        "output": "injure"
+    },
+    {
+        "input": "desire",
+        "output": "want"
+    },
+    {
+        "input": "total",
+        "output": "complete"
+    },
+    {
+        "input": "wedge",
+        "output": "splitter"
+    },
+    {
+        "input": "identical",
+        "output": "similar"
+    },
+    {
+        "input": "preparation",
+        "output": "planning"
+    },
+    {
+        "input": "skip",
+        "output": "jump"
+    },
+    {
+        "input": "aim",
+        "output": "target"
+    },
+    {
+        "input": "drain",
+        "output": "empty"
+    },
+    {
+        "input": "intimate",
+        "output": "close"
+    },
+    {
+        "input": "artistic",
+        "output": "creative"
+    },
+    {
+        "input": "ambition",
+        "output": "aspiration"
+    },
+    {
+        "input": "brief",
+        "output": "short"
+    },
+    {
+        "input": "integrated",
+        "output": "combined"
+    },
+    {
+        "input": "ideal",
+        "output": "perfect"
+    },
+    {
+        "input": "magnetic",
+        "output": "attractive"
+    },
+    {
+        "input": "inspiring",
+        "output": "motivational"
+    },
+    {
+        "input": "hair",
+        "output": "locks"
+    },
+    {
+        "input": "dare",
+        "output": "challenge"
+    },
+    {
+        "input": "different",
+        "output": "unique"
+    },
+    {
+        "input": "poem",
+        "output": "verse"
+    },
+    {
+        "input": "smooth",
+        "output": "sleek"
+    },
+    {
+        "input": "silver",
+        "output": "gray"
+    },
+    {
+        "input": "puzzle",
+        "output": "riddle"
+    },
+    {
+        "input": "reinforcement",
+        "output": "strengthening"
+    },
+    {
+        "input": "originate",
+        "output": "begin"
+    },
+    {
+        "input": "equal",
+        "output": "equivalent"
+    },
+    {
+        "input": "successful",
+        "output": "prosperous"
+    },
+    {
+        "input": "contain",
+        "output": "include"
+    },
+    {
+        "input": "guy",
+        "output": "man"
+    },
+    {
+        "input": "generate",
+        "output": "produce"
+    },
+    {
+        "input": "register",
+        "output": "enroll"
+    },
+    {
+        "input": "hairy",
+        "output": "furry"
+    },
+    {
+        "input": "cocaine",
+        "output": "illicit drug"
+    },
+    {
+        "input": "work",
+        "output": "job"
+    },
+    {
+        "input": "saline",
+        "output": "salty"
+    },
+    {
+        "input": "phase",
+        "output": "stage"
+    },
+    {
+        "input": "accessible",
+        "output": "available"
+    },
+    {
+        "input": "guarantee",
+        "output": "assure"
+    },
+    {
+        "input": "beneficial",
+        "output": "advantageous"
+    },
+    {
+        "input": "practise",
+        "output": "train"
+    },
+    {
+        "input": "red",
+        "output": "crimson"
+    },
+    {
+        "input": "debut",
+        "output": "premiere"
+    },
+    {
+        "input": "lodge",
+        "output": "cabin"
+    },
+    {
+        "input": "unfold",
+        "output": "open"
+    },
+    {
+        "input": "pause",
+        "output": "halt"
+    },
+    {
+        "input": "hug",
+        "output": "embrace"
+    },
+    {
+        "input": "concise",
+        "output": "succinct"
+    },
+    {
+        "input": "boycott",
+        "output": "avoid"
+    },
+    {
+        "input": "awe",
+        "output": "wonder"
+    },
+    {
+        "input": "prepared",
+        "output": "ready"
+    },
+    {
+        "input": "fluid",
+        "output": "liquid"
+    },
+    {
+        "input": "very",
+        "output": "extremely"
+    },
+    {
+        "input": "mid",
+        "output": "central"
+    },
+    {
+        "input": "centrist",
+        "output": "moderate"
+    },
+    {
+        "input": "serial",
+        "output": "sequential"
+    },
+    {
+        "input": "list",
+        "output": "catalogue"
+    },
+    {
+        "input": "plat",
+        "output": "map"
+    },
+    {
+        "input": "style",
+        "output": "fashion"
+    },
+    {
+        "input": "unhappy",
+        "output": "sad"
+    },
+    {
+        "input": "monetary",
+        "output": "financial"
+    },
+    {
+        "input": "juicy",
+        "output": "succulent"
+    },
+    {
+        "input": "vicinity",
+        "output": "proximity"
+    },
+    {
+        "input": "gate",
+        "output": "door"
+    },
+    {
+        "input": "drive",
+        "output": "operate"
+    },
+    {
+        "input": "spot",
+        "output": "mark"
+    },
+    {
+        "input": "subway",
+        "output": "metro"
+    },
+    {
+        "input": "lag",
+        "output": "delay"
+    },
+    {
+        "input": "secret",
+        "output": "confidential"
+    },
+    {
+        "input": "award",
+        "output": "prize"
+    },
+    {
+        "input": "catch",
+        "output": "grab"
+    },
+    {
+        "input": "gap",
+        "output": "space"
+    },
+    {
+        "input": "cryptic",
+        "output": "mysterious"
+    },
+    {
+        "input": "operative",
+        "output": "functional"
+    },
+    {
+        "input": "symbolic",
+        "output": "representative"
+    },
+    {
+        "input": "molecule",
+        "output": "atom"
+    },
+    {
+        "input": "patent",
+        "output": "exclusive right"
+    },
+    {
+        "input": "band",
+        "output": "group"
+    },
+    {
+        "input": "circulate",
+        "output": "distribute"
+    },
+    {
+        "input": "troop",
+        "output": "squad"
+    },
+    {
+        "input": "similar",
+        "output": "alike"
+    },
+    {
+        "input": "desirable",
+        "output": "attractive"
+    },
+    {
+        "input": "represent",
+        "output": "symbolize"
+    },
+    {
+        "input": "dispatch",
+        "output": "send"
+    },
+    {
+        "input": "aggregate",
+        "output": "collective"
+    },
+    {
+        "input": "garner",
+        "output": "collect"
+    },
+    {
+        "input": "restoration",
+        "output": "renewal"
+    },
+    {
+        "input": "privilege",
+        "output": "advantage"
+    },
+    {
+        "input": "quaint",
+        "output": "charming"
+    },
+    {
+        "input": "request",
+        "output": "ask"
+    },
+    {
+        "input": "key",
+        "output": "lock"
+    },
+    {
+        "input": "pioneer",
+        "output": "trailblazer"
+    },
+    {
+        "input": "authorize",
+        "output": "permit"
+    },
+    {
+        "input": "kingdom",
+        "output": "realm"
+    },
+    {
+        "input": "registration",
+        "output": "enrollment"
+    },
+    {
+        "input": "limited",
+        "output": "restricted"
+    },
+    {
+        "input": "rush",
+        "output": "hurry"
+    },
+    {
+        "input": "opinion",
+        "output": "viewpoint"
+    },
+    {
+        "input": "allow",
+        "output": "permit"
+    },
+    {
+        "input": "impartial",
+        "output": "unbiased"
+    },
+    {
+        "input": "slow",
+        "output": "leisurely"
+    },
+    {
+        "input": "consistent",
+        "output": "steady"
+    },
+    {
+        "input": "alignment",
+        "output": "arrangement"
+    },
+    {
+        "input": "help",
+        "output": "assist"
+    },
+    {
+        "input": "bribe",
+        "output": "corrupt"
+    },
+    {
+        "input": "closet",
+        "output": "wardrobe"
+    },
+    {
+        "input": "coil",
+        "output": "spiral"
+    },
+    {
+        "input": "dubious",
+        "output": "uncertain"
+    },
+    {
+        "input": "feed",
+        "output": "nourish"
+    },
+    {
+        "input": "structural",
+        "output": "architectural"
+    },
+    {
+        "input": "archaic",
+        "output": "ancient"
+    },
+    {
+        "input": "risk",
+        "output": "danger"
+    },
+    {
+        "input": "repair",
+        "output": "fix"
+    },
+    {
+        "input": "concoct",
+        "output": "devise"
+    },
+    {
+        "input": "mind",
+        "output": "brain"
+    },
+    {
+        "input": "explicit",
+        "output": "clear"
+    },
+    {
+        "input": "majesty",
+        "output": "sovereignty"
+    },
+    {
+        "input": "attach",
+        "output": "connect"
+    },
+    {
+        "input": "native",
+        "output": "indigenous"
+    },
+    {
+        "input": "solemn",
+        "output": "serious"
+    },
+    {
+        "input": "disadvantage",
+        "output": "drawback"
+    },
+    {
+        "input": "crippled",
+        "output": "disabled"
+    },
+    {
+        "input": "salvage",
+        "output": "recover"
+    },
+    {
+        "input": "luxurious",
+        "output": "opulent"
+    },
+    {
+        "input": "glad",
+        "output": "pleased"
+    },
+    {
+        "input": "sway",
+        "output": "rock"
+    },
+    {
+        "input": "reduced",
+        "output": "diminished"
+    },
+    {
+        "input": "dependent",
+        "output": "reliant"
+    },
+    {
+        "input": "charitable",
+        "output": "generous"
+    },
+    {
+        "input": "milestone",
+        "output": "achievement"
+    },
+    {
+        "input": "search",
+        "output": "look for"
+    },
+    {
+        "input": "potential",
+        "output": "capability"
+    },
+    {
+        "input": "thought",
+        "output": "idea"
+    },
+    {
+        "input": "cheer",
+        "output": "encourage"
+    },
+    {
+        "input": "quest",
+        "output": "journey"
+    },
+    {
+        "input": "union",
+        "output": "association"
+    },
+    {
+        "input": "calculator",
+        "output": "computing device"
+    },
+    {
+        "input": "finish",
+        "output": "complete"
+    },
+    {
+        "input": "missing",
+        "output": "lost"
+    },
+    {
+        "input": "adhere",
+        "output": "stick to"
+    },
+    {
+        "input": "quarrel",
+        "output": "argument"
+    },
+    {
+        "input": "fixed",
+        "output": "stable"
+    },
+    {
+        "input": "mundane",
+        "output": "ordinary"
+    },
+    {
+        "input": "relative",
+        "output": "kin"
+    },
+    {
+        "input": "witness",
+        "output": "observe"
+    },
+    {
+        "input": "counter",
+        "output": "oppose"
+    },
+    {
+        "input": "continuous",
+        "output": "uninterrupted"
+    },
+    {
+        "input": "classic",
+        "output": "traditional"
+    },
+    {
+        "input": "liquor",
+        "output": "alcohol"
+    },
+    {
+        "input": "cut",
+        "output": "slice"
+    },
+    {
+        "input": "adaptation",
+        "output": "adjustment"
+    },
+    {
+        "input": "healer",
+        "output": "doctor"
+    },
+    {
+        "input": "add",
+        "output": "increase"
+    },
+    {
+        "input": "lively",
+        "output": "vibrant"
+    },
+    {
+        "input": "merge",
+        "output": "combine"
+    },
+    {
+        "input": "install",
+        "output": "set up"
+    },
+    {
+        "input": "shine",
+        "output": "glow"
+    },
+    {
+        "input": "fine",
+        "output": "okay"
+    },
+    {
+        "input": "rise",
+        "output": "ascend"
+    },
+    {
+        "input": "train",
+        "output": "educate"
+    },
+    {
+        "input": "propel",
+        "output": "drive"
+    },
+    {
+        "input": "appearance",
+        "output": "look"
+    },
+    {
+        "input": "stop",
+        "output": "halt"
+    },
+    {
+        "input": "dishonest",
+        "output": "untruthful"
+    },
+    {
+        "input": "connection",
+        "output": "link"
+    },
+    {
+        "input": "wound",
+        "output": "injury"
+    },
+    {
+        "input": "arrangement",
+        "output": "organization"
+    },
+    {
+        "input": "expend",
+        "output": "spend"
+    },
+    {
+        "input": "steady",
+        "output": "stable"
+    },
+    {
+        "input": "attain",
+        "output": "achieve"
+    },
+    {
+        "input": "framing",
+        "output": "structuring"
+    },
+    {
+        "input": "theoretical",
+        "output": "conceptual"
+    },
+    {
+        "input": "visit",
+        "output": "go to"
+    },
+    {
+        "input": "imitate",
+        "output": "mimic"
+    },
+    {
+        "input": "vote",
+        "output": "elect"
+    },
+    {
+        "input": "grandmother",
+        "output": "grandma"
+    },
+    {
+        "input": "mode",
+        "output": "method"
+    },
+    {
+        "input": "resistance",
+        "output": "opposition"
+    },
+    {
+        "input": "quick",
+        "output": "rapid"
+    },
+    {
+        "input": "apparel",
+        "output": "clothing"
+    },
+    {
+        "input": "decide",
+        "output": "choose"
+    },
+    {
+        "input": "whip",
+        "output": "lash"
+    },
+    {
+        "input": "event",
+        "output": "occasion"
+    },
+    {
+        "input": "achieve",
+        "output": "accomplish"
+    },
+    {
+        "input": "substantial",
+        "output": "significant"
+    },
+    {
+        "input": "induce",
+        "output": "provoke"
+    },
+    {
+        "input": "detect",
+        "output": "identify"
+    },
+    {
+        "input": "grave",
+        "output": "serious"
+    },
+    {
+        "input": "poor",
+        "output": "impoverished"
+    },
+    {
+        "input": "north",
+        "output": "south"
+    },
+    {
+        "input": "imaginary",
+        "output": "fictitious"
+    },
+    {
+        "input": "outrage",
+        "output": "indignation"
+    },
+    {
+        "input": "senseless",
+        "output": "meaningless"
+    },
+    {
+        "input": "distinct",
+        "output": "unique"
+    },
+    {
+        "input": "enthusiastic",
+        "output": "passionate"
+    },
+    {
+        "input": "temper",
+        "output": "anger"
+    },
+    {
+        "input": "tissue",
+        "output": "kleenex"
+    },
+    {
+        "input": "numerical",
+        "output": "quantitative"
+    },
+    {
+        "input": "start",
+        "output": "begin"
+    },
+    {
+        "input": "race",
+        "output": "competition"
+    },
+    {
+        "input": "local",
+        "output": "regional"
+    },
+    {
+        "input": "havoc",
+        "output": "chaos"
+    },
+    {
+        "input": "adhesive",
+        "output": "sticky"
+    },
+    {
+        "input": "promote",
+        "output": "advance"
+    },
+    {
+        "input": "rounded",
+        "output": "circular"
+    },
+    {
+        "input": "sufficient",
+        "output": "enough"
+    },
+    {
+        "input": "play",
+        "output": "game"
+    },
+    {
+        "input": "irritated",
+        "output": "annoyed"
+    },
+    {
+        "input": "scenic",
+        "output": "picturesque"
+    },
+    {
+        "input": "debris",
+        "output": "rubble"
+    },
+    {
+        "input": "demeanor",
+        "output": "behavior"
+    },
+    {
+        "input": "egregious",
+        "output": "outrageous"
+    },
+    {
+        "input": "noisy",
+        "output": "loud"
+    },
+    {
+        "input": "bare",
+        "output": "naked"
+    },
+    {
+        "input": "optic",
+        "output": "visual"
+    },
+    {
+        "input": "approval",
+        "output": "endorsement"
+    },
+    {
+        "input": "terrifying",
+        "output": "frightening"
+    },
+    {
+        "input": "surprising",
+        "output": "astonishing"
+    },
+    {
+        "input": "bar",
+        "output": "pub"
+    },
+    {
+        "input": "perpetual",
+        "output": "endless"
+    },
+    {
+        "input": "reform",
+        "output": "improve"
+    },
+    {
+        "input": "idea",
+        "output": "concept"
+    },
+    {
+        "input": "perception",
+        "output": "understanding"
+    },
+    {
+        "input": "patron",
+        "output": "customer"
+    },
+    {
+        "input": "negotiate",
+        "output": "bargain"
+    },
+    {
+        "input": "clandestine",
+        "output": "secretive"
+    },
+    {
+        "input": "credible",
+        "output": "believable"
+    },
+    {
+        "input": "apex",
+        "output": "peak"
+    },
+    {
+        "input": "tie",
+        "output": "bind"
+    },
+    {
+        "input": "maximum",
+        "output": "peak"
+    },
+    {
+        "input": "station",
+        "output": "terminal"
+    },
+    {
+        "input": "prisoner",
+        "output": "inmate"
+    },
+    {
+        "input": "active",
+        "output": "energetic"
+    },
+    {
+        "input": "dwell",
+        "output": "reside"
+    },
+    {
+        "input": "wrongful",
+        "output": "unjust"
+    },
+    {
+        "input": "purge",
+        "output": "cleanse"
+    },
+    {
+        "input": "stump",
+        "output": "confuse"
+    },
+    {
+        "input": "internal",
+        "output": "inside"
+    },
+    {
+        "input": "fortunate",
+        "output": "lucky"
+    },
+    {
+        "input": "become",
+        "output": "transform"
+    },
+    {
+        "input": "hop",
+        "output": "jump"
+    },
+    {
+        "input": "central",
+        "output": "main"
+    },
+    {
+        "input": "virtuous",
+        "output": "righteous"
+    },
+    {
+        "input": "legitimate",
+        "output": "lawful"
+    },
+    {
+        "input": "incidental",
+        "output": "accidental"
+    },
+    {
+        "input": "violet",
+        "output": "purple"
+    },
+    {
+        "input": "crucial",
+        "output": "vital"
+    },
+    {
+        "input": "apology",
+        "output": "remorse"
+    },
+    {
+        "input": "disturbing",
+        "output": "unsettling"
+    },
+    {
+        "input": "display",
+        "output": "show"
+    },
+    {
+        "input": "art",
+        "output": "craft"
+    },
+    {
+        "input": "intense",
+        "output": "extreme"
+    },
+    {
+        "input": "fatty",
+        "output": "obese"
+    },
+    {
+        "input": "plead",
+        "output": "beg"
+    },
+    {
+        "input": "peculiar",
+        "output": "strange"
+    },
+    {
+        "input": "spring",
+        "output": "autumn"
+    },
+    {
+        "input": "renowned",
+        "output": "famous"
+    },
+    {
+        "input": "lament",
+        "output": "mourn"
+    },
+    {
+        "input": "rugged",
+        "output": "rough"
+    },
+    {
+        "input": "voluntary",
+        "output": "optional"
+    },
+    {
+        "input": "produce",
+        "output": "create"
+    },
+    {
+        "input": "glossy",
+        "output": "shiny"
+    },
+    {
+        "input": "proclamation",
+        "output": "announcement"
+    },
+    {
+        "input": "free",
+        "output": "unrestricted"
+    },
+    {
+        "input": "inform",
+        "output": "notify"
+    },
+    {
+        "input": "standard",
+        "output": "normal"
+    },
+    {
+        "input": "follow",
+        "output": "pursue"
+    },
+    {
+        "input": "distinguish",
+        "output": "differentiate"
+    },
+    {
+        "input": "space",
+        "output": "galaxy"
+    },
+    {
+        "input": "array",
+        "output": "collection"
+    },
+    {
+        "input": "collapse",
+        "output": "fall down"
+    },
+    {
+        "input": "mirror",
+        "output": "reflective surface"
+    },
+    {
+        "input": "chip",
+        "output": "microprocessor"
+    },
+    {
+        "input": "special",
+        "output": "unique"
+    },
+    {
+        "input": "color",
+        "output": "hue"
+    },
+    {
+        "input": "valley",
+        "output": "gorge"
+    },
+    {
+        "input": "grant",
+        "output": "award"
+    },
+    {
+        "input": "secondary",
+        "output": "tertiary"
+    },
+    {
+        "input": "scramble",
+        "output": "mix up"
+    },
+    {
+        "input": "national",
+        "output": "countrywide"
+    },
+    {
+        "input": "flash",
+        "output": "blink"
+    },
+    {
+        "input": "measure",
+        "output": "gauge"
+    },
+    {
+        "input": "troubled",
+        "output": "distressed"
+    },
+    {
+        "input": "delay",
+        "output": "postpone"
+    },
+    {
+        "input": "noteworthy",
+        "output": "significant"
+    },
+    {
+        "input": "useful",
+        "output": "beneficial"
+    },
+    {
+        "input": "proceed",
+        "output": "continue"
+    },
+    {
+        "input": "unnamed",
+        "output": "anonymous"
+    },
+    {
+        "input": "noble",
+        "output": "distinguished"
+    },
+    {
+        "input": "couple",
+        "output": "pair"
+    },
+    {
+        "input": "useless",
+        "output": "pointless"
+    },
+    {
+        "input": "calculated",
+        "output": "computed"
+    },
+    {
+        "input": "infinite",
+        "output": "endless"
+    },
+    {
+        "input": "sensory",
+        "output": "perceptual"
+    },
+    {
+        "input": "adverse",
+        "output": "unfavorable"
+    },
+    {
+        "input": "collect",
+        "output": "gather"
+    },
+    {
+        "input": "obtain",
+        "output": "acquire"
+    },
+    {
+        "input": "public",
+        "output": "communal"
+    },
+    {
+        "input": "friendly",
+        "output": "sociable"
+    },
+    {
+        "input": "combine",
+        "output": "merge"
+    },
+    {
+        "input": "tract",
+        "output": "draw"
+    },
+    {
+        "input": "vivid",
+        "output": "bright"
+    },
+    {
+        "input": "hive",
+        "output": "beehive"
+    },
+    {
+        "input": "innocent",
+        "output": "guiltless"
+    },
+    {
+        "input": "accommodation",
+        "output": "lodging"
+    },
+    {
+        "input": "hood",
+        "output": "neighborhood"
+    },
+    {
+        "input": "upset",
+        "output": "distressed"
+    },
+    {
+        "input": "prevalent",
+        "output": "widespread"
+    },
+    {
+        "input": "star",
+        "output": "celestial body"
+    },
+    {
+        "input": "amuse",
+        "output": "entertain"
+    },
+    {
+        "input": "imaginable",
+        "output": "conceivable"
+    },
+    {
+        "input": "reason",
+        "output": "cause"
+    },
+    {
+        "input": "discharge",
+        "output": "release"
+    },
+    {
+        "input": "number",
+        "output": "digit"
+    },
+    {
+        "input": "object",
+        "output": "thing"
+    },
+    {
+        "input": "pardon",
+        "output": "forgive"
+    },
+    {
+        "input": "kindness",
+        "output": "generosity"
+    },
+    {
+        "input": "permanent",
+        "output": "enduring"
+    },
+    {
+        "input": "substitution",
+        "output": "replacement"
+    },
+    {
+        "input": "salient",
+        "output": "prominent"
+    },
+    {
+        "input": "drops",
+        "output": "falls"
+    },
+    {
+        "input": "category",
+        "output": "classification"
+    },
+    {
+        "input": "energetic",
+        "output": "vigorous"
+    },
+    {
+        "input": "sole",
+        "output": "unique"
+    },
+    {
+        "input": "override",
+        "output": "supersede"
+    },
+    {
+        "input": "trustworthy",
+        "output": "reliable"
+    },
+    {
+        "input": "enhanced",
+        "output": "improved"
+    },
+    {
+        "input": "stimulation",
+        "output": "excitement"
+    },
+    {
+        "input": "coarse",
+        "output": "rough"
+    },
+    {
+        "input": "agreeable",
+        "output": "pleasant"
+    },
+    {
+        "input": "stay",
+        "output": "remain"
+    },
+    {
+        "input": "humor",
+        "output": "comedy"
+    },
+    {
+        "input": "clash",
+        "output": "conflict"
+    },
+    {
+        "input": "see",
+        "output": "observe"
+    },
+    {
+        "input": "desert",
+        "output": "wasteland"
+    },
+    {
+        "input": "din",
+        "output": "noise"
+    },
+    {
+        "input": "wind",
+        "output": "breeze"
+    },
+    {
+        "input": "willing",
+        "output": "eager"
+    },
+    {
+        "input": "resident",
+        "output": "inhabitant"
+    },
+    {
+        "input": "unaware",
+        "output": "ignorant"
+    },
+    {
+        "input": "quote",
+        "output": "citation"
+    },
+    {
+        "input": "realise",
+        "output": "understand"
+    },
+    {
+        "input": "addict",
+        "output": "dependent"
+    },
+    {
+        "input": "despise",
+        "output": "loathe"
+    },
+    {
+        "input": "official",
+        "output": "formal"
+    },
+    {
+        "input": "towering",
+        "output": "lofty"
+    },
+    {
+        "input": "accuracy",
+        "output": "precision"
+    },
+    {
+        "input": "horny",
+        "output": "aroused"
+    },
+    {
+        "input": "feel",
+        "output": "sense"
+    },
+    {
+        "input": "sacred",
+        "output": "holy"
+    },
+    {
+        "input": "membrane",
+        "output": "barrier"
+    },
+    {
+        "input": "informal",
+        "output": "casual"
+    },
+    {
+        "input": "short",
+        "output": "brief"
+    },
+    {
+        "input": "deliberate",
+        "output": "intentional"
+    },
+    {
+        "input": "accord",
+        "output": "agree"
+    },
+    {
+        "input": "basis",
+        "output": "foundation"
+    },
+    {
+        "input": "height",
+        "output": "altitude"
+    },
+    {
+        "input": "proverb",
+        "output": "saying"
+    },
+    {
+        "input": "educated",
+        "output": "knowledgeable"
+    },
+    {
+        "input": "discard",
+        "output": "throw away"
+    },
+    {
+        "input": "profession",
+        "output": "occupation"
+    },
+    {
+        "input": "rest",
+        "output": "relax"
+    },
+    {
+        "input": "animal",
+        "output": "creature"
+    },
+    {
+        "input": "mad",
+        "output": "angry"
+    },
+    {
+        "input": "prospect",
+        "output": "opportunity"
+    },
+    {
+        "input": "tab",
+        "output": "sheet"
+    },
+    {
+        "input": "amusing",
+        "output": "funny"
+    },
+    {
+        "input": "logical",
+        "output": "rational"
+    },
+    {
+        "input": "fuck",
+        "output": "make love"
+    },
+    {
+        "input": "inner",
+        "output": "internal"
+    },
+    {
+        "input": "queue",
+        "output": "line"
+    },
+    {
+        "input": "stream",
+        "output": "river"
+    },
+    {
+        "input": "interpret",
+        "output": "translate"
+    },
+    {
+        "input": "sky",
+        "output": "heavens"
+    },
+    {
+        "input": "withdraw",
+        "output": "retract"
+    },
+    {
+        "input": "lumber",
+        "output": "timber"
+    },
+    {
+        "input": "level",
+        "output": "stage"
+    },
+    {
+        "input": "recall",
+        "output": "remember"
+    },
+    {
+        "input": "continue",
+        "output": "proceed"
+    },
+    {
+        "input": "unable",
+        "output": "incapable"
+    },
+    {
+        "input": "amplitude",
+        "output": "magnitude"
+    },
+    {
+        "input": "sane",
+        "output": "rational"
+    },
+    {
+        "input": "involve",
+        "output": "engage"
+    },
+    {
+        "input": "growth",
+        "output": "development"
+    },
+    {
+        "input": "deserving",
+        "output": "worthy"
+    },
+    {
+        "input": "bait",
+        "output": "lure"
+    },
+    {
+        "input": "browse",
+        "output": "surf"
+    },
+    {
+        "input": "intricate",
+        "output": "complex"
+    },
+    {
+        "input": "constitute",
+        "output": "comprise"
+    },
+    {
+        "input": "dead",
+        "output": "deceased"
+    },
+    {
+        "input": "dumb",
+        "output": "stupid"
+    },
+    {
+        "input": "affairs",
+        "output": "business"
+    },
+    {
+        "input": "alcoholic",
+        "output": "intoxicating"
+    },
+    {
+        "input": "gown",
+        "output": "dress"
+    },
+    {
+        "input": "full",
+        "output": "packed"
+    },
+    {
+        "input": "board",
+        "output": "plank"
+    },
+    {
+        "input": "impression",
+        "output": "perception"
+    },
+    {
+        "input": "effect",
+        "output": "impact"
+    },
+    {
+        "input": "settlement",
+        "output": "colony"
+    },
+    {
+        "input": "matter",
+        "output": "issue"
+    },
+    {
+        "input": "odds",
+        "output": "chances"
+    },
+    {
+        "input": "sore",
+        "output": "painful"
+    },
+    {
+        "input": "various",
+        "output": "diverse"
+    },
+    {
+        "input": "crowded",
+        "output": "packed"
+    },
+    {
+        "input": "crazy",
+        "output": "insane"
+    },
+    {
+        "input": "sphere",
+        "output": "ball"
+    },
+    {
+        "input": "parallel",
+        "output": "concurrent"
+    },
+    {
+        "input": "get",
+        "output": "obtain"
+    },
+    {
+        "input": "terrible",
+        "output": "awful"
+    },
+    {
+        "input": "routine",
+        "output": "habitual"
+    },
+    {
+        "input": "fold",
+        "output": "crease"
+    },
+    {
+        "input": "examine",
+        "output": "inspect"
+    },
+    {
+        "input": "crooked",
+        "output": "bent"
+    },
+    {
+        "input": "indefinite",
+        "output": "uncertain"
+    },
+    {
+        "input": "drink",
+        "output": "beverage"
+    },
+    {
+        "input": "inquest",
+        "output": "investigation"
+    },
+    {
+        "input": "same",
+        "output": "identical"
+    },
+    {
+        "input": "think",
+        "output": "consider"
+    },
+    {
+        "input": "eager",
+        "output": "enthusiastic"
+    },
+    {
+        "input": "propagate",
+        "output": "spread"
+    },
+    {
+        "input": "commentary",
+        "output": "analysis"
+    },
+    {
+        "input": "reader",
+        "output": "bookworm"
+    },
+    {
+        "input": "hazardous",
+        "output": "dangerous"
+    },
+    {
+        "input": "disposed",
+        "output": "inclined"
+    },
+    {
+        "input": "decade",
+        "output": "century"
+    },
+    {
+        "input": "confusing",
+        "output": "puzzling"
+    },
+    {
+        "input": "problematic",
+        "output": "troublesome"
+    },
+    {
+        "input": "gesture",
+        "output": "motion"
+    },
+    {
+        "input": "helm",
+        "output": "steering wheel"
+    },
+    {
+        "input": "fitted",
+        "output": "tailored"
+    },
+    {
+        "input": "frenzy",
+        "output": "madness"
+    },
+    {
+        "input": "study",
+        "output": "learn"
+    },
+    {
+        "input": "accept",
+        "output": "agree"
+    },
+    {
+        "input": "sting",
+        "output": "bite"
+    },
+    {
+        "input": "discipline",
+        "output": "control"
+    },
+    {
+        "input": "message",
+        "output": "communication"
+    },
+    {
+        "input": "document",
+        "output": "paperwork"
+    },
+    {
+        "input": "right",
+        "output": "correct"
+    },
+    {
+        "input": "fashionable",
+        "output": "stylish"
+    },
+    {
+        "input": "destructive",
+        "output": "damaging"
+    },
+    {
+        "input": "disciple",
+        "output": "follower"
+    },
+    {
+        "input": "massive",
+        "output": "huge"
+    },
+    {
+        "input": "reservation",
+        "output": "booking"
+    },
+    {
+        "input": "exile",
+        "output": "banish"
+    },
+    {
+        "input": "tilt",
+        "output": "lean"
+    },
+    {
+        "input": "grab",
+        "output": "seize"
+    },
+    {
+        "input": "kill",
+        "output": "murder"
+    },
+    {
+        "input": "rampage",
+        "output": "frenzy"
+    },
+    {
+        "input": "antique",
+        "output": "vintage"
+    },
+    {
+        "input": "change",
+        "output": "alter"
+    },
+    {
+        "input": "dependency",
+        "output": "reliance"
+    },
+    {
+        "input": "hateful",
+        "output": "spiteful"
+    },
+    {
+        "input": "enormous",
+        "output": "huge"
+    },
+    {
+        "input": "picture",
+        "output": "image"
+    },
+    {
+        "input": "mistaken",
+        "output": "wrong"
+    },
+    {
+        "input": "peak",
+        "output": "summit"
+    },
+    {
+        "input": "desperate",
+        "output": "hopeless"
+    },
+    {
+        "input": "needless",
+        "output": "unnecessary"
+    },
+    {
+        "input": "stretch",
+        "output": "extend"
+    },
+    {
+        "input": "tedious",
+        "output": "monotonous"
+    },
+    {
+        "input": "mediocre",
+        "output": "average"
+    },
+    {
+        "input": "melancholy",
+        "output": "sorrowful"
+    },
+    {
+        "input": "tube",
+        "output": "pipe"
+    },
+    {
+        "input": "expensive",
+        "output": "costly"
+    },
+    {
+        "input": "sew",
+        "output": "stitch"
+    },
+    {
+        "input": "echo",
+        "output": "repeat"
+    },
+    {
+        "input": "aromatic",
+        "output": "fragrant"
+    },
+    {
+        "input": "score",
+        "output": "points"
+    },
+    {
+        "input": "mansion",
+        "output": "estate"
+    },
+    {
+        "input": "walk",
+        "output": "stroll"
+    },
+    {
+        "input": "disclaim",
+        "output": "deny"
+    },
+    {
+        "input": "buying",
+        "output": "purchasing"
+    },
+    {
+        "input": "remedy",
+        "output": "solution"
+    },
+    {
+        "input": "desolate",
+        "output": "lonely"
+    },
+    {
+        "input": "reward",
+        "output": "prize"
+    },
+    {
+        "input": "concede",
+        "output": "surrender"
+    },
+    {
+        "input": "slender",
+        "output": "thin"
+    },
+    {
+        "input": "uncommon",
+        "output": "rare"
+    },
+    {
+        "input": "much",
+        "output": "a lot"
+    },
+    {
+        "input": "trap",
+        "output": "snare"
+    },
+    {
+        "input": "distress",
+        "output": "suffering"
+    },
+    {
+        "input": "binary",
+        "output": "digital"
+    },
+    {
+        "input": "formal",
+        "output": "official"
+    },
+    {
+        "input": "orient",
+        "output": "direct"
+    },
+    {
+        "input": "mystic",
+        "output": "mysterious"
+    },
+    {
+        "input": "design",
+        "output": "create"
+    },
+    {
+        "input": "dynamic",
+        "output": "energetic"
+    },
+    {
+        "input": "close",
+        "output": "near"
+    },
+    {
+        "input": "urgency",
+        "output": "emergency"
+    },
+    {
+        "input": "versatile",
+        "output": "multifaceted"
+    },
+    {
+        "input": "review",
+        "output": "evaluate"
+    },
+    {
+        "input": "exclude",
+        "output": "omit"
+    },
+    {
+        "input": "rude",
+        "output": "impolite"
+    },
+    {
+        "input": "implant",
+        "output": "embed"
+    },
+    {
+        "input": "mastery",
+        "output": "expertise"
+    },
+    {
+        "input": "least",
+        "output": "minimal"
+    },
+    {
+        "input": "passion",
+        "output": "enthusiasm"
+    },
+    {
+        "input": "aware",
+        "output": "conscious"
+    },
+    {
+        "input": "maintain",
+        "output": "sustain"
+    },
+    {
+        "input": "nation",
+        "output": "country"
+    },
+    {
+        "input": "interchangeable",
+        "output": "exchangeable"
+    },
+    {
+        "input": "uniform",
+        "output": "consistent"
+    },
+    {
+        "input": "square",
+        "output": "rectangle"
+    },
+    {
+        "input": "language",
+        "output": "lingo"
+    },
+    {
+        "input": "lucrative",
+        "output": "profitable"
+    },
+    {
+        "input": "drill",
+        "output": "bore"
+    },
+    {
+        "input": "superstar",
+        "output": "celebrity"
+    },
+    {
+        "input": "step",
+        "output": "stride"
+    },
+    {
+        "input": "express",
+        "output": "convey"
+    },
+    {
+        "input": "condemn",
+        "output": "denounce"
+    },
+    {
+        "input": "intimacy",
+        "output": "closeness"
+    },
+    {
+        "input": "behaviour",
+        "output": "conduct"
+    },
+    {
+        "input": "typical",
+        "output": "usual"
+    },
+    {
+        "input": "male",
+        "output": "man"
+    },
+    {
+        "input": "found",
+        "output": "discovered"
+    },
+    {
+        "input": "empty",
+        "output": "vacant"
+    },
+    {
+        "input": "clumsy",
+        "output": "awkward"
+    },
+    {
+        "input": "reclaim",
+        "output": "recover"
+    },
+    {
+        "input": "emotional",
+        "output": "sensitive"
+    },
+    {
+        "input": "husband",
+        "output": "spouse"
+    },
+    {
+        "input": "contemplate",
+        "output": "ponder"
+    },
+    {
+        "input": "actual",
+        "output": "real"
+    },
+    {
+        "input": "original",
+        "output": "unique"
+    },
+    {
+        "input": "designate",
+        "output": "appoint"
+    },
+    {
+        "input": "recognise",
+        "output": "identify"
+    },
+    {
+        "input": "trust",
+        "output": "confidence"
+    },
+    {
+        "input": "approximate",
+        "output": "estimate"
+    },
+    {
+        "input": "government",
+        "output": "administration"
+    },
+    {
+        "input": "fund",
+        "output": "finance"
+    },
+    {
+        "input": "blanket",
+        "output": "comforter"
+    },
+    {
+        "input": "drop",
+        "output": "fall"
+    },
+    {
+        "input": "pop",
+        "output": "burst"
+    },
+    {
+        "input": "dorsal",
+        "output": "ventral"
+    },
+    {
+        "input": "inspire",
+        "output": "motivate"
+    },
+    {
+        "input": "embody",
+        "output": "represent"
+    },
+    {
+        "input": "independent",
+        "output": "self-reliant"
+    },
+    {
+        "input": "correlation",
+        "output": "association"
+    },
+    {
+        "input": "graphical",
+        "output": "visual"
+    },
+    {
+        "input": "bulky",
+        "output": "large"
+    },
+    {
+        "input": "price",
+        "output": "cost"
+    },
+    {
+        "input": "court",
+        "output": "tribunal"
+    },
+    {
+        "input": "righteous",
+        "output": "virtuous"
+    },
+    {
+        "input": "mental",
+        "output": "psychological"
+    },
+    {
+        "input": "consecutive",
+        "output": "sequential"
+    },
+    {
+        "input": "preliminary",
+        "output": "initial"
+    },
+    {
+        "input": "owe",
+        "output": "indebted"
+    },
+    {
+        "input": "depiction",
+        "output": "representation"
+    },
+    {
+        "input": "bold",
+        "output": "daring"
+    },
+    {
+        "input": "dog",
+        "output": "puppy"
+    },
+    {
+        "input": "affiliation",
+        "output": "association"
+    },
+    {
+        "input": "ready",
+        "output": "prepared"
+    },
+    {
+        "input": "naughty",
+        "output": "mischievous"
+    },
+    {
+        "input": "replica",
+        "output": "copy"
+    },
+    {
+        "input": "secrecy",
+        "output": "confidentiality"
+    },
+    {
+        "input": "victorious",
+        "output": "successful"
+    },
+    {
+        "input": "tip",
+        "output": "advice"
+    },
+    {
+        "input": "cow",
+        "output": "bovine"
+    },
+    {
+        "input": "linear",
+        "output": "straightforward"
+    },
+    {
+        "input": "institution",
+        "output": "organization"
+    },
+    {
+        "input": "wild",
+        "output": "untamed"
+    },
+    {
+        "input": "resurrect",
+        "output": "revive"
+    },
+    {
+        "input": "distinguished",
+        "output": "renowned"
+    },
+    {
+        "input": "face",
+        "output": "visage"
+    },
+    {
+        "input": "purpose",
+        "output": "aim"
+    },
+    {
+        "input": "tall",
+        "output": "lofty"
+    },
+    {
+        "input": "encounter",
+        "output": "meet"
+    },
+    {
+        "input": "knowledge",
+        "output": "wisdom"
+    },
+    {
+        "input": "diet",
+        "output": "nutrition plan"
+    },
+    {
+        "input": "plains",
+        "output": "flatlands"
+    },
+    {
+        "input": "violation",
+        "output": "infringement"
+    },
+    {
+        "input": "join",
+        "output": "unite"
+    },
+    {
+        "input": "defy",
+        "output": "resist"
+    },
+    {
+        "input": "set",
+        "output": "establish"
+    },
+    {
+        "input": "occasional",
+        "output": "infrequent"
+    },
+    {
+        "input": "soft",
+        "output": "gentle"
+    },
+    {
+        "input": "solve",
+        "output": "resolve"
+    },
+    {
+        "input": "range",
+        "output": "scope"
+    },
+    {
+        "input": "furnished",
+        "output": "equipped"
+    },
+    {
+        "input": "march",
+        "output": "advance"
+    },
+    {
+        "input": "punish",
+        "output": "discipline"
+    },
+    {
+        "input": "antagonist",
+        "output": "protagonist"
+    },
+    {
+        "input": "donate",
+        "output": "give"
+    },
+    {
+        "input": "support",
+        "output": "assist"
+    },
+    {
+        "input": "stout",
+        "output": "robust"
+    },
+    {
+        "input": "position",
+        "output": "location"
+    },
+    {
+        "input": "obstacle",
+        "output": "barrier"
+    },
+    {
+        "input": "gang",
+        "output": "crew"
+    },
+    {
+        "input": "authentic",
+        "output": "genuine"
+    },
+    {
+        "input": "humour",
+        "output": "comedy"
+    },
+    {
+        "input": "master",
+        "output": "expert"
+    },
+    {
+        "input": "urgent",
+        "output": "critical"
+    },
+    {
+        "input": "overwhelm",
+        "output": "overpower"
+    },
+    {
+        "input": "worry",
+        "output": "concern"
+    },
+    {
+        "input": "wide",
+        "output": "broad"
+    },
+    {
+        "input": "duck",
+        "output": "mallard"
+    },
+    {
+        "input": "majestic",
+        "output": "grandiose"
+    },
+    {
+        "input": "induct",
+        "output": "initiate"
+    },
+    {
+        "input": "lavish",
+        "output": "luxurious"
+    },
+    {
+        "input": "share",
+        "output": "distribute"
+    },
+    {
+        "input": "little",
+        "output": "small"
+    },
+    {
+        "input": "arbitration",
+        "output": "mediation"
+    },
+    {
+        "input": "boost",
+        "output": "enhance"
+    },
+    {
+        "input": "glory",
+        "output": "honor"
+    },
+    {
+        "input": "grim",
+        "output": "dismal"
+    },
+    {
+        "input": "inject",
+        "output": "administer"
+    },
+    {
+        "input": "gas",
+        "output": "fuel"
+    },
+    {
+        "input": "trace",
+        "output": "track"
+    },
+    {
+        "input": "consequence",
+        "output": "result"
+    },
+    {
+        "input": "overflow",
+        "output": "spill over"
+    },
+    {
+        "input": "handsome",
+        "output": "attractive"
+    },
+    {
+        "input": "smack",
+        "output": "hit"
+    },
+    {
+        "input": "splendid",
+        "output": "magnificent"
+    },
+    {
+        "input": "omit",
+        "output": "exclude"
+    },
+    {
+        "input": "distribute",
+        "output": "disperse"
+    },
+    {
+        "input": "frustrated",
+        "output": "aggravated"
+    },
+    {
+        "input": "fundamental",
+        "output": "basic"
+    },
+    {
+        "input": "preserve",
+        "output": "maintain"
+    },
+    {
+        "input": "ban",
+        "output": "prohibit"
+    },
+    {
+        "input": "exhaustive",
+        "output": "comprehensive"
+    },
+    {
+        "input": "authorization",
+        "output": "permission"
+    },
+    {
+        "input": "educate",
+        "output": "teach"
+    },
+    {
+        "input": "intend",
+        "output": "plan"
+    },
+    {
+        "input": "drunk",
+        "output": "intoxicated"
+    },
+    {
+        "input": "thoughtful",
+        "output": "considerate"
+    },
+    {
+        "input": "divine",
+        "output": "heavenly"
+    },
+    {
+        "input": "happy",
+        "output": "cheerful"
+    },
+    {
+        "input": "scripture",
+        "output": "bible"
+    },
+    {
+        "input": "suppose",
+        "output": "assume"
+    },
+    {
+        "input": "rope",
+        "output": "cord"
+    },
+    {
+        "input": "depot",
+        "output": "warehouse"
+    },
+    {
+        "input": "tutor",
+        "output": "instructor"
+    },
+    {
+        "input": "infectious",
+        "output": "contagious"
+    },
+    {
+        "input": "legal",
+        "output": "lawful"
+    },
+    {
+        "input": "lasting",
+        "output": "enduring"
+    },
+    {
+        "input": "immense",
+        "output": "huge"
+    },
+    {
+        "input": "flourish",
+        "output": "thrive"
+    },
+    {
+        "input": "hang",
+        "output": "suspend"
+    },
+    {
+        "input": "passive",
+        "output": "inactive"
+    },
+    {
+        "input": "lean",
+        "output": "slim"
+    },
+    {
+        "input": "false",
+        "output": "untrue"
+    },
+    {
+        "input": "affair",
+        "output": "event"
+    },
+    {
+        "input": "disclose",
+        "output": "reveal"
+    },
+    {
+        "input": "colored",
+        "output": "tinted"
+    },
+    {
+        "input": "clothes",
+        "output": "apparel"
+    },
+    {
+        "input": "fun",
+        "output": "enjoyable"
+    },
+    {
+        "input": "infield",
+        "output": "outfield"
+    },
+    {
+        "input": "bolt",
+        "output": "fasten"
+    },
+    {
+        "input": "disperse",
+        "output": "scatter"
+    },
+    {
+        "input": "guess",
+        "output": "speculate"
+    },
+    {
+        "input": "gray",
+        "output": "grey"
+    },
+    {
+        "input": "defect",
+        "output": "flaw"
+    },
+    {
+        "input": "seat",
+        "output": "chair"
+    },
+    {
+        "input": "insufficient",
+        "output": "inadequate"
+    },
+    {
+        "input": "collection",
+        "output": "gathering"
+    },
+    {
+        "input": "magnificent",
+        "output": "splendid"
+    },
+    {
+        "input": "war",
+        "output": "conflict"
+    },
+    {
+        "input": "profound",
+        "output": "deep"
+    },
+    {
+        "input": "murderous",
+        "output": "lethal"
+    },
+    {
+        "input": "sturdy",
+        "output": "robust"
+    },
+    {
+        "input": "excited",
+        "output": "enthusiastic"
+    },
+    {
+        "input": "creep",
+        "output": "sneak"
+    },
+    {
+        "input": "complete",
+        "output": "finish"
+    },
+    {
+        "input": "circular",
+        "output": "round"
+    },
+    {
+        "input": "company",
+        "output": "business"
+    },
+    {
+        "input": "grace",
+        "output": "elegance"
+    },
+    {
+        "input": "hard",
+        "output": "challenging"
+    },
+    {
+        "input": "snowy",
+        "output": "wintry"
+    },
+    {
+        "input": "terminal",
+        "output": "end point"
+    },
+    {
+        "input": "wee",
+        "output": "tiny"
+    },
+    {
+        "input": "seriousness",
+        "output": "gravity"
+    },
+    {
+        "input": "hooked",
+        "output": "addicted"
+    },
+    {
+        "input": "adjoining",
+        "output": "adjacent"
+    },
+    {
+        "input": "foreign",
+        "output": "international"
+    },
+    {
+        "input": "prompt",
+        "output": "immediate"
+    },
+    {
+        "input": "teen",
+        "output": "adolescent"
+    },
+    {
+        "input": "nice",
+        "output": "kind"
+    },
+    {
+        "input": "closed",
+        "output": "shut"
+    },
+    {
+        "input": "serve",
+        "output": "provide"
+    },
+    {
+        "input": "joystick",
+        "output": "game controller"
+    },
+    {
+        "input": "habitual",
+        "output": "routine"
+    },
+    {
+        "input": "ferment",
+        "output": "brew"
+    },
+    {
+        "input": "pragmatic",
+        "output": "practical"
+    },
+    {
+        "input": "intention",
+        "output": "purpose"
+    },
+    {
+        "input": "hold",
+        "output": "grasp"
+    },
+    {
+        "input": "inability",
+        "output": "incapacity"
+    },
+    {
+        "input": "heap",
+        "output": "pile"
+    },
+    {
+        "input": "supreme",
+        "output": "ultimate"
+    },
+    {
+        "input": "inspection",
+        "output": "examination"
+    },
+    {
+        "input": "kind",
+        "output": "generous"
+    },
+    {
+        "input": "influential",
+        "output": "powerful"
+    },
+    {
+        "input": "waiter",
+        "output": "server"
+    },
+    {
+        "input": "industry",
+        "output": "business"
+    },
+    {
+        "input": "amazed",
+        "output": "astonished"
+    },
+    {
+        "input": "childish",
+        "output": "immature"
+    },
+    {
+        "input": "gasp",
+        "output": "inhale sharply"
+    },
+    {
+        "input": "source",
+        "output": "origin"
+    },
+    {
+        "input": "marked",
+        "output": "labeled"
+    },
+    {
+        "input": "democracy",
+        "output": "republic"
+    },
+    {
+        "input": "fear",
+        "output": "terror"
+    },
+    {
+        "input": "misunderstanding",
+        "output": "misinterpretation"
+    },
+    {
+        "input": "live",
+        "output": "reside"
+    },
+    {
+        "input": "continual",
+        "output": "constant"
+    },
+    {
+        "input": "demise",
+        "output": "death"
+    },
+    {
+        "input": "accompany",
+        "output": "go with"
+    },
+    {
+        "input": "inn",
+        "output": "hotel"
+    },
+    {
+        "input": "heated",
+        "output": "warm"
+    },
+    {
+        "input": "starter",
+        "output": "beginner"
+    },
+    {
+        "input": "youthful",
+        "output": "young"
+    },
+    {
+        "input": "stuff",
+        "output": "things"
+    },
+    {
+        "input": "celestial",
+        "output": "heavenly"
+    },
+    {
+        "input": "dive",
+        "output": "plunge"
+    },
+    {
+        "input": "player",
+        "output": "gamer"
+    },
+    {
+        "input": "death",
+        "output": "demise"
+    },
+    {
+        "input": "plot",
+        "output": "storyline"
+    },
+    {
+        "input": "specification",
+        "output": "description"
+    },
+    {
+        "input": "imperial",
+        "output": "royal"
+    },
+    {
+        "input": "depressed",
+        "output": "downcast"
+    },
+    {
+        "input": "wonder",
+        "output": "amazement"
+    },
+    {
+        "input": "mouth",
+        "output": "lips"
+    },
+    {
+        "input": "less",
+        "output": "fewer"
+    },
+    {
+        "input": "manipulate",
+        "output": "control"
+    },
+    {
+        "input": "wave",
+        "output": "gesture"
+    },
+    {
+        "input": "unlikely",
+        "output": "improbable"
+    },
+    {
+        "input": "love",
+        "output": "affection"
+    },
+    {
+        "input": "fashion",
+        "output": "style"
+    },
+    {
+        "input": "influence",
+        "output": "impact"
+    },
+    {
+        "input": "wilderness",
+        "output": "wildland"
+    },
+    {
+        "input": "proper",
+        "output": "appropriate"
+    },
+    {
+        "input": "capital",
+        "output": "major city"
+    },
+    {
+        "input": "decline",
+        "output": "refuse"
+    },
+    {
+        "input": "pact",
+        "output": "agreement"
+    },
+    {
+        "input": "series",
+        "output": "sequence"
+    },
+    {
+        "input": "bear",
+        "output": "grizzly"
+    },
+    {
+        "input": "cushion",
+        "output": "pillow"
+    },
+    {
+        "input": "bourgeois",
+        "output": "middle-class"
+    },
+    {
+        "input": "cartoon",
+        "output": "animation"
+    },
+    {
+        "input": "convention",
+        "output": "gathering"
+    },
+    {
+        "input": "trip",
+        "output": "journey"
+    },
+    {
+        "input": "identify",
+        "output": "recognize"
+    },
+    {
+        "input": "fisherman",
+        "output": "angler"
+    },
+    {
+        "input": "supply",
+        "output": "provide"
+    },
+    {
+        "input": "lover",
+        "output": "sweetheart"
+    },
+    {
+        "input": "disgusting",
+        "output": "repulsive"
+    },
+    {
+        "input": "toy",
+        "output": "plaything"
+    },
+    {
+        "input": "handy",
+        "output": "useful"
+    },
+    {
+        "input": "plentiful",
+        "output": "abundant"
+    },
+    {
+        "input": "athletic",
+        "output": "sporty"
+    },
+    {
+        "input": "release",
+        "output": "free"
+    },
+    {
+        "input": "strike",
+        "output": "hit"
+    },
+    {
+        "input": "seminal",
+        "output": "foundational"
+    },
+    {
+        "input": "alert",
+        "output": "vigilant"
+    },
+    {
+        "input": "devise",
+        "output": "plan"
+    },
+    {
+        "input": "alive",
+        "output": "living"
+    },
+    {
+        "input": "proxy",
+        "output": "substitute"
+    },
+    {
+        "input": "inaccurate",
+        "output": "incorrect"
+    },
+    {
+        "input": "extract",
+        "output": "remove"
+    },
+    {
+        "input": "intimidate",
+        "output": "frighten"
+    },
+    {
+        "input": "hinder",
+        "output": "obstruct"
+    },
+    {
+        "input": "captain",
+        "output": "skipper"
+    },
+    {
+        "input": "latter",
+        "output": "former"
+    },
+    {
+        "input": "chemical",
+        "output": "substance"
+    },
+    {
+        "input": "underpin",
+        "output": "support or reinforce"
+    },
+    {
+        "input": "average",
+        "output": "normal"
+    },
+    {
+        "input": "cheerful",
+        "output": "jovial"
+    },
+    {
+        "input": "dense",
+        "output": "thick"
+    },
+    {
+        "input": "delightful",
+        "output": "pleasing"
+    },
+    {
+        "input": "rare",
+        "output": "uncommon"
+    },
+    {
+        "input": "string",
+        "output": "cord"
+    },
+    {
+        "input": "periodic",
+        "output": "intermittent"
+    },
+    {
+        "input": "battle",
+        "output": "war"
+    },
+    {
+        "input": "clothing",
+        "output": "apparel"
+    },
+    {
+        "input": "inevitable",
+        "output": "unavoidable"
+    },
+    {
+        "input": "character",
+        "output": "personality"
+    },
+    {
+        "input": "retail",
+        "output": "sell"
+    },
+    {
+        "input": "bout",
+        "output": "match"
+    },
+    {
+        "input": "shore",
+        "output": "coast"
+    },
+    {
+        "input": "recover",
+        "output": "heal"
+    },
+    {
+        "input": "money",
+        "output": "cash"
+    },
+    {
+        "input": "fiery",
+        "output": "hot"
+    },
+    {
+        "input": "chain",
+        "output": "link"
+    },
+    {
+        "input": "individual",
+        "output": "person"
+    },
+    {
+        "input": "awful",
+        "output": "terrible"
+    },
+    {
+        "input": "neighborhood",
+        "output": "community"
+    },
+    {
+        "input": "count",
+        "output": "calculate"
+    },
+    {
+        "input": "feminine",
+        "output": "womanly"
+    },
+    {
+        "input": "morbid",
+        "output": "macabre"
+    },
+    {
+        "input": "unequal",
+        "output": "disproportionate"
+    },
+    {
+        "input": "pure",
+        "output": "untainted"
+    },
+    {
+        "input": "writer",
+        "output": "author"
+    },
+    {
+        "input": "unified",
+        "output": "united"
+    },
+    {
+        "input": "open",
+        "output": "unlocked"
+    },
+    {
+        "input": "subject",
+        "output": "topic"
+    },
+    {
+        "input": "cord",
+        "output": "wire"
+    },
+    {
+        "input": "regional",
+        "output": "local"
+    },
+    {
+        "input": "salty",
+        "output": "briny"
+    },
+    {
+        "input": "agile",
+        "output": "nimble"
+    },
+    {
+        "input": "dot",
+        "output": "point"
+    },
+    {
+        "input": "unlucky",
+        "output": "unfortunate"
+    },
+    {
+        "input": "bogus",
+        "output": "fake"
+    },
+    {
+        "input": "new",
+        "output": "fresh"
+    },
+    {
+        "input": "charming",
+        "output": "captivating"
+    },
+    {
+        "input": "competent",
+        "output": "capable"
+    },
+    {
+        "input": "makeup",
+        "output": "cosmetics"
+    },
+    {
+        "input": "transition",
+        "output": "change"
+    },
+    {
+        "input": "provocative",
+        "output": "provoking"
+    },
+    {
+        "input": "offer",
+        "output": "propose"
+    },
+    {
+        "input": "ice",
+        "output": "frozen water"
+    },
+    {
+        "input": "advent",
+        "output": "arrival"
+    },
+    {
+        "input": "readable",
+        "output": "legible"
+    },
+    {
+        "input": "tart",
+        "output": "sour"
+    },
+    {
+        "input": "buy",
+        "output": "purchase"
+    },
+    {
+        "input": "know",
+        "output": "understand"
+    },
+    {
+        "input": "ugly",
+        "output": "unattractive"
+    },
+    {
+        "input": "monstrous",
+        "output": "terrifying"
+    },
+    {
+        "input": "foundational",
+        "output": "basic"
+    },
+    {
+        "input": "type",
+        "output": "write"
+    },
+    {
+        "input": "arise",
+        "output": "emerge"
+    },
+    {
+        "input": "propose",
+        "output": "suggest"
+    },
+    {
+        "input": "leap",
+        "output": "jump"
+    },
+    {
+        "input": "experience",
+        "output": "encounter"
+    },
+    {
+        "input": "deceased",
+        "output": "dead"
+    },
+    {
+        "input": "judgment",
+        "output": "assessment"
+    },
+    {
+        "input": "favor",
+        "output": "benefit"
+    },
+    {
+        "input": "decoration",
+        "output": "ornamentation"
+    },
+    {
+        "input": "tale",
+        "output": "story"
+    },
+    {
+        "input": "forge",
+        "output": "create"
+    },
+    {
+        "input": "relic",
+        "output": "artifact"
+    },
+    {
+        "input": "tender",
+        "output": "gentle"
+    },
+    {
+        "input": "disturbed",
+        "output": "upset"
+    },
+    {
+        "input": "touch",
+        "output": "feel"
+    },
+    {
+        "input": "realm",
+        "output": "kingdom"
+    },
+    {
+        "input": "decrease",
+        "output": "reduce"
+    },
+    {
+        "input": "remarkable",
+        "output": "extraordinary"
+    },
+    {
+        "input": "spite",
+        "output": "malice"
+    },
+    {
+        "input": "depend",
+        "output": "rely"
+    },
+    {
+        "input": "filthy",
+        "output": "dirty"
+    },
+    {
+        "input": "skirt",
+        "output": "dress"
+    },
+    {
+        "input": "rank",
+        "output": "position"
+    },
+    {
+        "input": "blonde",
+        "output": "fair-haired"
+    },
+    {
+        "input": "fallacy",
+        "output": "misconception"
+    },
+    {
+        "input": "flow",
+        "output": "stream"
+    },
+    {
+        "input": "masculine",
+        "output": "manly"
+    },
+    {
+        "input": "specific",
+        "output": "particular"
+    },
+    {
+        "input": "runaway",
+        "output": "flee"
+    },
+    {
+        "input": "will",
+        "output": "determination"
+    },
+    {
+        "input": "paint",
+        "output": "color"
+    },
+    {
+        "input": "mod",
+        "output": "modern"
+    },
+    {
+        "input": "blur",
+        "output": "unclear"
+    },
+    {
+        "input": "brittle",
+        "output": "fragile"
+    },
+    {
+        "input": "smart",
+        "output": "clever"
+    },
+    {
+        "input": "ghost",
+        "output": "specter"
+    },
+    {
+        "input": "suffer",
+        "output": "endure"
+    },
+    {
+        "input": "corrupt",
+        "output": "dishonest"
+    },
+    {
+        "input": "stubborn",
+        "output": "obstinate"
+    },
+    {
+        "input": "candid",
+        "output": "honest"
+    },
+    {
+        "input": "moist",
+        "output": "damp"
+    },
+    {
+        "input": "economical",
+        "output": "cost-effective"
+    },
+    {
+        "input": "single",
+        "output": "unmarried"
+    },
+    {
+        "input": "laughable",
+        "output": "funny"
+    },
+    {
+        "input": "keeping",
+        "output": "maintaining"
+    },
+    {
+        "input": "strengthen",
+        "output": "fortify"
+    },
+    {
+        "input": "transparent",
+        "output": "clear"
+    },
+    {
+        "input": "material",
+        "output": "substance"
+    },
+    {
+        "input": "hospital",
+        "output": "clinic"
+    },
+    {
+        "input": "division",
+        "output": "separation"
+    },
+    {
+        "input": "pristine",
+        "output": "immaculate"
+    },
+    {
+        "input": "ordinance",
+        "output": "law"
+    },
+    {
+        "input": "ogre",
+        "output": "monster"
+    },
+    {
+        "input": "quarter",
+        "output": "fourth"
+    },
+    {
+        "input": "unrelated",
+        "output": "unconnected"
+    },
+    {
+        "input": "frame",
+        "output": "structure"
+    },
+    {
+        "input": "sear",
+        "output": "scorch"
+    },
+    {
+        "input": "miss",
+        "output": "long for"
+    },
+    {
+        "input": "laud",
+        "output": "praise"
+    },
+    {
+        "input": "invent",
+        "output": "create"
+    },
+    {
+        "input": "item",
+        "output": "product"
+    },
+    {
+        "input": "output",
+        "output": "result"
+    },
+    {
+        "input": "turn",
+        "output": "rotate"
+    },
+    {
+        "input": "nonviolent",
+        "output": "peaceful"
+    },
+    {
+        "input": "people",
+        "output": "individuals"
+    },
+    {
+        "input": "lizard",
+        "output": "reptile"
+    },
+    {
+        "input": "fly",
+        "output": "soar"
+    },
+    {
+        "input": "quiet",
+        "output": "silent"
+    },
+    {
+        "input": "raw",
+        "output": "uncooked"
+    },
+    {
+        "input": "substitute",
+        "output": "replace"
+    },
+    {
+        "input": "drift",
+        "output": "float"
+    },
+    {
+        "input": "alley",
+        "output": "lane"
+    },
+    {
+        "input": "barren",
+        "output": "desolate"
+    },
+    {
+        "input": "steadfast",
+        "output": "unwavering"
+    },
+    {
+        "input": "thank",
+        "output": "appreciate"
+    },
+    {
+        "input": "puff",
+        "output": "blow"
+    },
+    {
+        "input": "exhibit",
+        "output": "display"
+    },
+    {
+        "input": "mass",
+        "output": "bulk"
+    },
+    {
+        "input": "gradual",
+        "output": "progressive"
+    },
+    {
+        "input": "correlate",
+        "output": "associate"
+    },
+    {
+        "input": "disk",
+        "output": "disc"
+    },
+    {
+        "input": "profess",
+        "output": "declare"
+    },
+    {
+        "input": "mock",
+        "output": "ridicule"
+    },
+    {
+        "input": "direct",
+        "output": "straightforward"
+    },
+    {
+        "input": "superior",
+        "output": "supreme"
+    },
+    {
+        "input": "lost",
+        "output": "misplaced"
+    },
+    {
+        "input": "dictate",
+        "output": "command"
+    },
+    {
+        "input": "interrupted",
+        "output": "disrupted"
+    },
+    {
+        "input": "usable",
+        "output": "functional"
+    },
+    {
+        "input": "campaign",
+        "output": "crusade"
+    },
+    {
+        "input": "dissolve",
+        "output": "disintegrate"
+    },
+    {
+        "input": "dome",
+        "output": "hemisphere"
+    },
+    {
+        "input": "swift",
+        "output": "speedy"
+    },
+    {
+        "input": "civilized",
+        "output": "sophisticated"
+    },
+    {
+        "input": "shadow",
+        "output": "silhouette"
+    },
+    {
+        "input": "pal",
+        "output": "buddy"
+    },
+    {
+        "input": "contingency",
+        "output": "emergency"
+    },
+    {
+        "input": "imply",
+        "output": "suggest"
+    },
+    {
+        "input": "wisdom",
+        "output": "knowledge"
+    },
+    {
+        "input": "alternative",
+        "output": "option"
+    },
+    {
+        "input": "mention",
+        "output": "refer"
+    },
+    {
+        "input": "hearty",
+        "output": "robust"
+    },
+    {
+        "input": "arch",
+        "output": "curve"
+    },
+    {
+        "input": "sick",
+        "output": "ill"
+    },
+    {
+        "input": "blight",
+        "output": "disease"
+    },
+    {
+        "input": "home",
+        "output": "house"
+    },
+    {
+        "input": "zone",
+        "output": "area"
+    },
+    {
+        "input": "satisfied",
+        "output": "contented"
+    },
+    {
+        "input": "abide",
+        "output": "comply"
+    },
+    {
+        "input": "sovereignty",
+        "output": "autonomy"
+    },
+    {
+        "input": "look",
+        "output": "observe"
+    },
+    {
+        "input": "telephone",
+        "output": "phone"
+    },
+    {
+        "input": "rabbit",
+        "output": "bunny"
+    },
+    {
+        "input": "unsafe",
+        "output": "dangerous"
+    },
+    {
+        "input": "sudden",
+        "output": "unexpected"
+    },
+    {
+        "input": "prince",
+        "output": "king"
+    },
+    {
+        "input": "criminal",
+        "output": "lawbreaker"
+    },
+    {
+        "input": "wand",
+        "output": "staff"
+    },
+    {
+        "input": "rescind",
+        "output": "revoke"
+    },
+    {
+        "input": "sporadic",
+        "output": "intermittent"
+    },
+    {
+        "input": "dominant",
+        "output": "commanding"
+    },
+    {
+        "input": "murky",
+        "output": "cloudy"
+    },
+    {
+        "input": "term",
+        "output": "semester"
+    },
+    {
+        "input": "primitive",
+        "output": "rudimentary"
+    },
+    {
+        "input": "popular",
+        "output": "famous"
+    },
+    {
+        "input": "prohibit",
+        "output": "forbid"
+    },
+    {
+        "input": "feeble",
+        "output": "weak"
+    },
+    {
+        "input": "contradictory",
+        "output": "opposing"
+    },
+    {
+        "input": "cosmic",
+        "output": "universal"
+    },
+    {
+        "input": "supernatural",
+        "output": "paranormal"
+    },
+    {
+        "input": "tracking",
+        "output": "monitoring"
+    },
+    {
+        "input": "singular",
+        "output": "individual"
+    },
+    {
+        "input": "cosmetic",
+        "output": "makeup"
+    },
+    {
+        "input": "gag",
+        "output": "joke"
+    },
+    {
+        "input": "agency",
+        "output": "organization"
+    },
+    {
+        "input": "notorious",
+        "output": "infamous"
+    },
+    {
+        "input": "excessive",
+        "output": "extreme"
+    },
+    {
+        "input": "frivolous",
+        "output": "trivial"
+    },
+    {
+        "input": "harmonic",
+        "output": "melodious"
+    },
+    {
+        "input": "fake",
+        "output": "counterfeit"
+    },
+    {
+        "input": "controller",
+        "output": "remote"
+    },
+    {
+        "input": "small",
+        "output": "tiny"
+    },
+    {
+        "input": "complaint",
+        "output": "grievance"
+    },
+    {
+        "input": "respectable",
+        "output": "honorable"
+    },
+    {
+        "input": "determine",
+        "output": "decide"
+    },
+    {
+        "input": "centre",
+        "output": "middle"
+    },
+    {
+        "input": "test",
+        "output": "exam"
+    },
+    {
+        "input": "employee",
+        "output": "worker"
+    },
+    {
+        "input": "senior",
+        "output": "elderly"
+    },
+    {
+        "input": "affinity",
+        "output": "liking"
+    },
+    {
+        "input": "redeem",
+        "output": "salvage"
+    },
+    {
+        "input": "risky",
+        "output": "dangerous"
+    },
+    {
+        "input": "modern",
+        "output": "contemporary"
+    },
+    {
+        "input": "immoral",
+        "output": "unethical"
+    },
+    {
+        "input": "pick",
+        "output": "choose"
+    },
+    {
+        "input": "vigorous",
+        "output": "energetic"
+    },
+    {
+        "input": "human",
+        "output": "person"
+    },
+    {
+        "input": "bodily",
+        "output": "physical"
+    },
+    {
+        "input": "tally",
+        "output": "count"
+    },
+    {
+        "input": "convenient",
+        "output": "practical"
+    },
+    {
+        "input": "harbor",
+        "output": "port"
+    },
+    {
+        "input": "fix",
+        "output": "repair"
+    },
+    {
+        "input": "pretty",
+        "output": "attractive"
+    },
+    {
+        "input": "foul",
+        "output": "dirty"
+    },
+    {
+        "input": "dodge",
+        "output": "evade"
+    },
+    {
+        "input": "pump",
+        "output": "inflate"
+    },
+    {
+        "input": "back",
+        "output": "rear"
+    },
+    {
+        "input": "drown",
+        "output": "submerge"
+    },
+    {
+        "input": "monarch",
+        "output": "sovereign"
+    },
+    {
+        "input": "mathematical",
+        "output": "numerical"
+    },
+    {
+        "input": "appendix",
+        "output": "supplement"
+    },
+    {
+        "input": "deficient",
+        "output": "insufficient"
+    },
+    {
+        "input": "enrol",
+        "output": "register"
+    },
+    {
+        "input": "crown",
+        "output": "tiara"
+    },
+    {
+        "input": "endure",
+        "output": "persist"
+    },
+    {
+        "input": "bunker",
+        "output": "shelter"
+    },
+    {
+        "input": "accordance",
+        "output": "agreement"
+    },
+    {
+        "input": "dash",
+        "output": "sprint"
+    },
+    {
+        "input": "geographical",
+        "output": "territorial"
+    },
+    {
+        "input": "succession",
+        "output": "sequence"
+    },
+    {
+        "input": "contradict",
+        "output": "oppose"
+    },
+    {
+        "input": "restrain",
+        "output": "constrain"
+    },
+    {
+        "input": "conclude",
+        "output": "end"
+    },
+    {
+        "input": "light",
+        "output": "bright"
+    },
+    {
+        "input": "bash",
+        "output": "party"
+    },
+    {
+        "input": "accurate",
+        "output": "precise"
+    },
+    {
+        "input": "dear",
+        "output": "beloved"
+    },
+    {
+        "input": "municipal",
+        "output": "local"
+    },
+    {
+        "input": "importance",
+        "output": "significance"
+    },
+    {
+        "input": "hollow",
+        "output": "empty"
+    },
+    {
+        "input": "track",
+        "output": "follow"
+    },
+    {
+        "input": "sex",
+        "output": "gender"
+    },
+    {
+        "input": "venture",
+        "output": "adventure"
+    },
+    {
+        "input": "big",
+        "output": "large"
+    },
+    {
+        "input": "cannabis",
+        "output": "marijuana"
+    },
+    {
+        "input": "aggregation",
+        "output": "collection"
+    },
+    {
+        "input": "import",
+        "output": "export"
+    },
+    {
+        "input": "fresh",
+        "output": "new"
+    },
+    {
+        "input": "leave",
+        "output": "depart"
+    },
+    {
+        "input": "satisfaction",
+        "output": "fulfillment"
+    },
+    {
+        "input": "convent",
+        "output": "monastery"
+    },
+    {
+        "input": "benevolent",
+        "output": "kind-hearted"
+    },
+    {
+        "input": "hidden",
+        "output": "concealed"
+    },
+    {
+        "input": "effective",
+        "output": "efficient"
+    },
+    {
+        "input": "tempt",
+        "output": "entice"
+    },
+    {
+        "input": "severe",
+        "output": "serious"
+    },
+    {
+        "input": "stab",
+        "output": "pierce"
+    },
+    {
+        "input": "insure",
+        "output": "guarantee"
+    },
+    {
+        "input": "coercive",
+        "output": "forceful"
+    },
+    {
+        "input": "volatile",
+        "output": "unstable"
+    },
+    {
+        "input": "sparse",
+        "output": "scanty"
+    },
+    {
+        "input": "river",
+        "output": "stream"
+    },
+    {
+        "input": "plaza",
+        "output": "square"
+    },
+    {
+        "input": "forecast",
+        "output": "prediction"
+    },
+    {
+        "input": "gracious",
+        "output": "courteous"
+    },
+    {
+        "input": "prepare",
+        "output": "ready"
+    },
+    {
+        "input": "tag",
+        "output": "label"
+    },
+    {
+        "input": "recurrent",
+        "output": "repeated"
+    },
+    {
+        "input": "sinful",
+        "output": "wicked"
+    },
+    {
+        "input": "solitary",
+        "output": "lonely"
+    },
+    {
+        "input": "cite",
+        "output": "quote"
+    },
+    {
+        "input": "characterize",
+        "output": "describe"
+    },
+    {
+        "input": "pin",
+        "output": "needle"
+    },
+    {
+        "input": "wake",
+        "output": "arise"
+    },
+    {
+        "input": "assorted",
+        "output": "varied"
+    },
+    {
+        "input": "disapprove",
+        "output": "reject"
+    },
+    {
+        "input": "manifest",
+        "output": "display"
+    },
+    {
+        "input": "ultra",
+        "output": "extreme"
+    },
+    {
+        "input": "weapon",
+        "output": "armament"
+    },
+    {
+        "input": "urge",
+        "output": "encourage"
+    },
+    {
+        "input": "prove",
+        "output": "demonstrate"
+    },
+    {
+        "input": "automobile",
+        "output": "car"
+    },
+    {
+        "input": "sewing",
+        "output": "stitching"
+    },
+    {
+        "input": "reserved",
+        "output": "restrained"
+    },
+    {
+        "input": "tidy",
+        "output": "neat"
+    },
+    {
+        "input": "cultural",
+        "output": "traditional"
+    },
+    {
+        "input": "mature",
+        "output": "grown-up"
+    },
+    {
+        "input": "advise",
+        "output": "recommend"
+    },
+    {
+        "input": "colossal",
+        "output": "gigantic"
+    },
+    {
+        "input": "store",
+        "output": "shop"
+    },
+    {
+        "input": "pertinent",
+        "output": "relevant"
+    },
+    {
+        "input": "sugar",
+        "output": "sweetener"
+    },
+    {
+        "input": "sampling",
+        "output": "collecting"
+    },
+    {
+        "input": "sorry",
+        "output": "apologetic"
+    },
+    {
+        "input": "require",
+        "output": "need"
+    },
+    {
+        "input": "brawl",
+        "output": "fight"
+    },
+    {
+        "input": "marine",
+        "output": "naval"
+    },
+    {
+        "input": "condone",
+        "output": "approve"
+    },
+    {
+        "input": "certain",
+        "output": "sure"
+    },
+    {
+        "input": "respective",
+        "output": "corresponding"
+    },
+    {
+        "input": "fitting",
+        "output": "suitable"
+    },
+    {
+        "input": "overpower",
+        "output": "dominate"
+    },
+    {
+        "input": "royal",
+        "output": "regal"
+    },
+    {
+        "input": "physical",
+        "output": "bodily"
+    },
+    {
+        "input": "foremost",
+        "output": "primary"
+    },
+    {
+        "input": "incompetent",
+        "output": "unskilled"
+    },
+    {
+        "input": "fragile",
+        "output": "delicate"
+    },
+    {
+        "input": "author",
+        "output": "writer"
+    },
+    {
+        "input": "despicable",
+        "output": "contemptible"
+    },
+    {
+        "input": "unlawful",
+        "output": "illegal"
+    },
+    {
+        "input": "relentless",
+        "output": "unyielding"
+    },
+    {
+        "input": "cold",
+        "output": "chilly"
+    },
+    {
+        "input": "balance",
+        "output": "equilibrium"
+    },
+    {
+        "input": "reverse",
+        "output": "invert"
+    },
+    {
+        "input": "damp",
+        "output": "moist"
+    },
+    {
+        "input": "ordinary",
+        "output": "common"
+    },
+    {
+        "input": "detailed",
+        "output": "comprehensive"
+    },
+    {
+        "input": "endurance",
+        "output": "stamina"
+    },
+    {
+        "input": "tame",
+        "output": "domesticated"
+    },
+    {
+        "input": "order",
+        "output": "command"
+    },
+    {
+        "input": "ironic",
+        "output": "sarcastic"
+    },
+    {
+        "input": "equitable",
+        "output": "fair"
+    },
+    {
+        "input": "cease",
+        "output": "stop"
+    },
+    {
+        "input": "yield",
+        "output": "surrender"
+    },
+    {
+        "input": "sticky",
+        "output": "tacky"
+    },
+    {
+        "input": "imagine",
+        "output": "visualize"
+    },
+    {
+        "input": "unused",
+        "output": "unutilized"
+    },
+    {
+        "input": "northern",
+        "output": "southern"
+    },
+    {
+        "input": "hefty",
+        "output": "substantial"
+    },
+    {
+        "input": "accent",
+        "output": "pronunciation"
+    },
+    {
+        "input": "large",
+        "output": "big"
+    },
+    {
+        "input": "betray",
+        "output": "deceive"
+    },
+    {
+        "input": "conscious",
+        "output": "aware"
+    },
+    {
+        "input": "enhance",
+        "output": "improve"
+    },
+    {
+        "input": "football",
+        "output": "soccer"
+    },
+    {
+        "input": "appointment",
+        "output": "meeting"
+    },
+    {
+        "input": "populous",
+        "output": "densely populated"
+    },
+    {
+        "input": "forgiveness",
+        "output": "pardon"
+    },
+    {
+        "input": "dish",
+        "output": "plate"
+    },
+    {
+        "input": "participation",
+        "output": "involvement"
+    },
+    {
+        "input": "steal",
+        "output": "rob"
+    },
+    {
+        "input": "jam",
+        "output": "preserve"
+    },
+    {
+        "input": "spoil",
+        "output": "ruin"
+    },
+    {
+        "input": "lovely",
+        "output": "charming"
+    },
+    {
+        "input": "intersect",
+        "output": "cross"
+    },
+    {
+        "input": "rebound",
+        "output": "bounce back"
+    },
+    {
+        "input": "failure",
+        "output": "defeat"
+    },
+    {
+        "input": "significance",
+        "output": "importance"
+    },
+    {
+        "input": "cause",
+        "output": "reason"
+    },
+    {
+        "input": "threatening",
+        "output": "menacing"
+    },
+    {
+        "input": "bid",
+        "output": "offer"
+    },
+    {
+        "input": "streetcar",
+        "output": "tram"
+    },
+    {
+        "input": "alteration",
+        "output": "change"
+    },
+    {
+        "input": "tear",
+        "output": "rip"
+    },
+    {
+        "input": "robust",
+        "output": "sturdy"
+    },
+    {
+        "input": "sham",
+        "output": "fraud"
+    },
+    {
+        "input": "objective",
+        "output": "goal"
+    },
+    {
+        "input": "pose",
+        "output": "position"
+    },
+    {
+        "input": "disconnected",
+        "output": "unlinked"
+    },
+    {
+        "input": "rigid",
+        "output": "stiff"
+    },
+    {
+        "input": "research",
+        "output": "investigate"
+    },
+    {
+        "input": "intentional",
+        "output": "deliberate"
+    },
+    {
+        "input": "sterile",
+        "output": "clean or germ-free"
+    },
+    {
+        "input": "club",
+        "output": "society"
+    },
+    {
+        "input": "lift",
+        "output": "raise"
+    },
+    {
+        "input": "compete",
+        "output": "contest"
+    },
+    {
+        "input": "initiative",
+        "output": "proactive"
+    },
+    {
+        "input": "motivate",
+        "output": "inspire"
+    },
+    {
+        "input": "incorrect",
+        "output": "wrong"
+    },
+    {
+        "input": "powerless",
+        "output": "weak"
+    },
+    {
+        "input": "burning",
+        "output": "ablaze"
+    },
+    {
+        "input": "groom",
+        "output": "bride"
+    },
+    {
+        "input": "eyes",
+        "output": "vision"
+    },
+    {
+        "input": "injure",
+        "output": "hurt"
+    },
+    {
+        "input": "artificial",
+        "output": "synthetic"
+    },
+    {
+        "input": "saving",
+        "output": "conserving"
+    },
+    {
+        "input": "solid",
+        "output": "firm"
+    },
+    {
+        "input": "react",
+        "output": "respond"
+    },
+    {
+        "input": "optional",
+        "output": "voluntary"
+    },
+    {
+        "input": "pregnant",
+        "output": "expecting"
+    },
+    {
+        "input": "explosion",
+        "output": "blast"
+    },
+    {
+        "input": "sniff",
+        "output": "smell"
+    },
+    {
+        "input": "disposition",
+        "output": "temperament"
+    },
+    {
+        "input": "great",
+        "output": "excellent"
+    },
+    {
+        "input": "entire",
+        "output": "whole"
+    },
+    {
+        "input": "upright",
+        "output": "vertical"
+    },
+    {
+        "input": "ray",
+        "output": "beam"
+    },
+    {
+        "input": "district",
+        "output": "region"
+    },
+    {
+        "input": "bottom",
+        "output": "base"
+    },
+    {
+        "input": "account",
+        "output": "profile"
+    },
+    {
+        "input": "blind",
+        "output": "sightless"
+    },
+    {
+        "input": "cap",
+        "output": "hat"
+    },
+    {
+        "input": "abuse",
+        "output": "mistreat"
+    },
+    {
+        "input": "usher",
+        "output": "guide"
+    },
+    {
+        "input": "finger",
+        "output": "digit"
+    },
+    {
+        "input": "director",
+        "output": "manager"
+    },
+    {
+        "input": "expansive",
+        "output": "costly"
+    },
+    {
+        "input": "misrepresent",
+        "output": "distort"
+    },
+    {
+        "input": "late",
+        "output": "delayed"
+    },
+    {
+        "input": "command",
+        "output": "order"
+    },
+    {
+        "input": "earnest",
+        "output": "sincere"
+    },
+    {
+        "input": "piece",
+        "output": "segment"
+    },
+    {
+        "input": "paranormal",
+        "output": "supernatural"
+    },
+    {
+        "input": "can",
+        "output": "able"
+    },
+    {
+        "input": "anarchy",
+        "output": "chaos"
+    },
+    {
+        "input": "capable",
+        "output": "able"
+    },
+    {
+        "input": "vapor",
+        "output": "steam"
+    },
+    {
+        "input": "notification",
+        "output": "alert"
+    },
+    {
+        "input": "person",
+        "output": "individual"
+    },
+    {
+        "input": "glass",
+        "output": "cup"
+    },
+    {
+        "input": "exploitation",
+        "output": "abuse"
+    },
+    {
+        "input": "leaf",
+        "output": "foliage"
+    },
+    {
+        "input": "subdued",
+        "output": "quiet"
+    },
+    {
+        "input": "write",
+        "output": "compose"
+    },
+    {
+        "input": "incompatible",
+        "output": "inharmonious"
+    },
+    {
+        "input": "stain",
+        "output": "blemish"
+    },
+    {
+        "input": "circuit",
+        "output": "route"
+    },
+    {
+        "input": "skin",
+        "output": "epidermis"
+    },
+    {
+        "input": "affect",
+        "output": "influence"
+    },
+    {
+        "input": "western",
+        "output": "eastern"
+    },
+    {
+        "input": "communicate",
+        "output": "convey"
+    },
+    {
+        "input": "loose",
+        "output": "unfastened"
+    },
+    {
+        "input": "triumphant",
+        "output": "victorious"
+    },
+    {
+        "input": "plan",
+        "output": "strategy"
+    },
+    {
+        "input": "hot",
+        "output": "warm"
+    },
+    {
+        "input": "move",
+        "output": "shift"
+    },
+    {
+        "input": "intrinsic",
+        "output": "inherent"
+    },
+    {
+        "input": "discourse",
+        "output": "conversation"
+    },
+    {
+        "input": "additive",
+        "output": "supplemental"
+    },
+    {
+        "input": "inherent",
+        "output": "intrinsic"
+    },
+    {
+        "input": "say",
+        "output": "speak"
+    },
+    {
+        "input": "accomplishment",
+        "output": "achievement"
+    },
+    {
+        "input": "perform",
+        "output": "execute"
+    },
+    {
+        "input": "conquer",
+        "output": "overcome"
+    },
+    {
+        "input": "ally",
+        "output": "friend"
+    },
+    {
+        "input": "lead",
+        "output": "guide"
+    },
+    {
+        "input": "blow",
+        "output": "puff"
+    },
+    {
+        "input": "sober",
+        "output": "clear-headed"
+    },
+    {
+        "input": "innovative",
+        "output": "creative"
+    },
+    {
+        "input": "proud",
+        "output": "arrogant"
+    },
+    {
+        "input": "try",
+        "output": "attempt"
+    },
+    {
+        "input": "possible",
+        "output": "feasible"
+    },
+    {
+        "input": "militia",
+        "output": "armed forces"
+    },
+    {
+        "input": "replication",
+        "output": "duplication"
+    },
+    {
+        "input": "act",
+        "output": "perform"
+    },
+    {
+        "input": "believe",
+        "output": "trust"
+    },
+    {
+        "input": "diffuse",
+        "output": "spread"
+    },
+    {
+        "input": "configuration",
+        "output": "setup"
+    },
+    {
+        "input": "breathe",
+        "output": "inhale"
+    },
+    {
+        "input": "muddy",
+        "output": "dirty"
+    },
+    {
+        "input": "extraordinary",
+        "output": "remarkable"
+    },
+    {
+        "input": "sling",
+        "output": "throw"
+    },
+    {
+        "input": "lucky",
+        "output": "fortunate"
+    },
+    {
+        "input": "bad",
+        "output": "poor"
+    },
+    {
+        "input": "bomb",
+        "output": "explosive"
+    },
+    {
+        "input": "sport",
+        "output": "athletics"
+    },
+    {
+        "input": "violent",
+        "output": "aggressive"
+    },
+    {
+        "input": "rational",
+        "output": "logical"
+    },
+    {
+        "input": "cumbersome",
+        "output": "burdensome"
+    },
+    {
+        "input": "integrate",
+        "output": "combine"
+    },
+    {
+        "input": "functional",
+        "output": "operational"
+    },
+    {
+        "input": "busy",
+        "output": "occupied"
+    },
+    {
+        "input": "swap",
+        "output": "exchange"
+    },
+    {
+        "input": "insult",
+        "output": "offend"
+    },
+    {
+        "input": "smoke",
+        "output": "fume"
+    },
+    {
+        "input": "overweight",
+        "output": "obese"
+    },
+    {
+        "input": "exciting",
+        "output": "thrilling"
+    },
+    {
+        "input": "prior",
+        "output": "previous"
+    },
+    {
+        "input": "production",
+        "output": "manufacturing"
+    },
+    {
+        "input": "lining",
+        "output": "covering"
+    },
+    {
+        "input": "recognize",
+        "output": "identify"
+    },
+    {
+        "input": "casual",
+        "output": "informal"
+    },
+    {
+        "input": "torch",
+        "output": "flashlight"
+    },
+    {
+        "input": "may",
+        "output": "might"
+    },
+    {
+        "input": "tavern",
+        "output": "pub"
+    },
+    {
+        "input": "needy",
+        "output": "dependent"
+    },
+    {
+        "input": "cost",
+        "output": "price"
+    },
+    {
+        "input": "bearing",
+        "output": "carrying"
+    },
+    {
+        "input": "strange",
+        "output": "unusual"
+    },
+    {
+        "input": "inert",
+        "output": "inactive"
+    },
+    {
+        "input": "constitutional",
+        "output": "legal"
+    },
+    {
+        "input": "clock",
+        "output": "timepiece"
+    },
+    {
+        "input": "separate",
+        "output": "divide"
+    },
+    {
+        "input": "symbol",
+        "output": "sign"
+    },
+    {
+        "input": "condition",
+        "output": "situation"
+    },
+    {
+        "input": "session",
+        "output": "meeting"
+    },
+    {
+        "input": "proof",
+        "output": "evidence"
+    },
+    {
+        "input": "perpendicular",
+        "output": "vertical"
+    },
+    {
+        "input": "interpretation",
+        "output": "explanation"
+    },
+    {
+        "input": "dual",
+        "output": "double"
+    },
+    {
+        "input": "coating",
+        "output": "covering"
+    },
+    {
+        "input": "slay",
+        "output": "kill"
+    },
+    {
+        "input": "functionality",
+        "output": "utility"
+    },
+    {
+        "input": "explain",
+        "output": "clarify"
+    },
+    {
+        "input": "pinch",
+        "output": "squeeze"
+    },
+    {
+        "input": "respond",
+        "output": "reply"
+    },
+    {
+        "input": "ask",
+        "output": "inquire"
+    },
+    {
+        "input": "call",
+        "output": "contact"
+    },
+    {
+        "input": "suggest",
+        "output": "recommend"
+    },
+    {
+        "input": "erratic",
+        "output": "unpredictable"
+    },
+    {
+        "input": "pronounced",
+        "output": "articulated"
+    },
+    {
+        "input": "fat",
+        "output": "obese"
+    },
+    {
+        "input": "collegiate",
+        "output": "university-level"
+    },
+    {
+        "input": "perfect",
+        "output": "ideal"
+    },
+    {
+        "input": "placement",
+        "output": "position"
+    },
+    {
+        "input": "helpful",
+        "output": "useful"
+    },
+    {
+        "input": "posting",
+        "output": "publishing"
+    },
+    {
+        "input": "conduct",
+        "output": "behavior"
+    },
+    {
+        "input": "hopeless",
+        "output": "despairing"
+    },
+    {
+        "input": "awake",
+        "output": "alert"
+    },
+    {
+        "input": "litter",
+        "output": "trash"
+    },
+    {
+        "input": "derive",
+        "output": "extract"
+    },
+    {
+        "input": "comfort",
+        "output": "ease"
+    },
+    {
+        "input": "brutal",
+        "output": "savage"
+    },
+    {
+        "input": "theatre",
+        "output": "cinema"
+    },
+    {
+        "input": "shaft",
+        "output": "pole"
+    },
+    {
+        "input": "announcement",
+        "output": "declaration"
+    },
+    {
+        "input": "reserve",
+        "output": "book"
+    },
+    {
+        "input": "serious",
+        "output": "solemn"
+    },
+    {
+        "input": "delighted",
+        "output": "pleased"
+    },
+    {
+        "input": "word",
+        "output": "term"
+    },
+    {
+        "input": "oppress",
+        "output": "suppress"
+    },
+    {
+        "input": "sink",
+        "output": "submerge"
+    },
+    {
+        "input": "expel",
+        "output": "eject"
+    },
+    {
+        "input": "fierce",
+        "output": "ferocious"
+    },
+    {
+        "input": "beat",
+        "output": "defeat"
+    },
+    {
+        "input": "succeed",
+        "output": "achieve"
+    },
+    {
+        "input": "exclusive",
+        "output": "unique"
+    },
+    {
+        "input": "sublime",
+        "output": "exalted"
+    },
+    {
+        "input": "hire",
+        "output": "employ"
+    },
+    {
+        "input": "function",
+        "output": "operate"
+    },
+    {
+        "input": "muster",
+        "output": "gather"
+    },
+    {
+        "input": "broad",
+        "output": "wide"
+    },
+    {
+        "input": "save",
+        "output": "preserve"
+    },
+    {
+        "input": "adequate",
+        "output": "sufficient"
+    },
+    {
+        "input": "evil",
+        "output": "wicked"
+    },
+    {
+        "input": "taste",
+        "output": "flavor"
+    },
+    {
+        "input": "classy",
+        "output": "elegant"
+    },
+    {
+        "input": "faint",
+        "output": "weak"
+    },
+    {
+        "input": "senate",
+        "output": "congress"
+    },
+    {
+        "input": "questionable",
+        "output": "doubtful"
+    },
+    {
+        "input": "send",
+        "output": "dispatch"
+    },
+    {
+        "input": "comprehensive",
+        "output": "thorough"
+    }
+]
